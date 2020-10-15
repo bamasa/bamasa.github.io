@@ -183,7 +183,7 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/about/</loc>
+    <loc>https://bamasa.github.io/bio/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -193,7 +193,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bamasa.github.io/about/"
+                href="https://bamasa.github.io/bio/"
                 />
   </url>
   
