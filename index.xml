@@ -100,16 +100,17 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>About Hugo</title>
+      <title></title>
       <link>https://bamasa.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>Google Scholar
+ORCID: 0000-0003-1655-6110
+ResearcherID: AAH-1170-2019
+Scopus AuthorID: 57214854045
+SPIN-RSCI: 2199-9522
+  </description>
     </item>
     
     <item>
