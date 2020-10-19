@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Леонид Гремячих</title>
+    <link>https://bamasa.github.io/ru/</link>
+    <description>Recent content on Леонид Гремячих</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dummy</title>
+      <link>https://bamasa.github.io/ru/posts/dummy/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/posts/dummy/</guid>
+      <description>Nada para ver aqui!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bamasa.github.io/ru/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/about/</guid>
+      <description>Bio Привет,
+Я аспирант и стажер-исследователь Факультета компьютерных наук НИУ ВШЭ. Среди моих научных интересов такие области, как Искусственный Интеллект, Машинное Обучение, Глубокое Обучение, Обучение с Подкреплением и Компьютерное Зрение.
+Если у вас есть вопросы или вы просто хотите со мной связаться, напишите мне по электронной почте ligremyachikh@edu.hse.ru.
+Мои идентификаторы: Google Scholar
+ORCID: 0000-0003-1655-6110
+ResearcherID: AAH-1170-2019
+Scopus AuthorID: 57214854045
+SPIN-RSCI: 2199-9522</description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>https://bamasa.github.io/ru/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/projects/</guid>
+      <description>Em construção&amp;hellip; Aguarde!</description>
+    </item>
+    
+  </channel>
+</rss>
