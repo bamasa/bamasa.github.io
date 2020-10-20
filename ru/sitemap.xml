@@ -93,7 +93,8 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/ru/about/</loc>
+    <loc>https://bamasa.github.io/ru/bio/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -102,7 +103,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://bamasa.github.io/ru/about/"
+                href="https://bamasa.github.io/ru/bio/"
                 />
   </url>
   
