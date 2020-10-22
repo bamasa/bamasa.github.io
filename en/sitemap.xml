@@ -3,6 +3,111 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bamasa.github.io/categories/blog/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/categories/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/categories/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/categories/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/posts/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/posts/todo/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/posts/todo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/posts/todo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/todo/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/tags/todo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/tags/todo/"
+                />
+  </url>
+  
+  <url>
     <loc>https://bamasa.github.io/bio/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -18,35 +123,7 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://bamasa.github.io/snippets/first/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/"
-                />
   </url>
   
   <url>
@@ -83,20 +160,6 @@
   
   <url>
     <loc>https://bamasa.github.io/snippets/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/tags/"
-                />
   </url>
   
 </urlset>
