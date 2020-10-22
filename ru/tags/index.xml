@@ -5,25 +5,6 @@
     <link>https://bamasa.github.io/ru/tags/</link>
     <description>Recent content in Tags on Леонид Гремячих</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/ru/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>hugo</title>
-      <link>https://bamasa.github.io/ru/tags/hugo/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/ru/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>i18n</title>
-      <link>https://bamasa.github.io/ru/tags/i18n/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/ru/tags/i18n/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language><atom:link href="https://bamasa.github.io/ru/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
