@@ -23,17 +23,17 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/posts/</loc>
+    <loc>https://bamasa.github.io/posts_templates/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://bamasa.github.io/ru/posts/"
+                href="https://bamasa.github.io/ru/posts_templates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bamasa.github.io/posts/"
+                href="https://bamasa.github.io/posts_templates/"
                 />
   </url>
   
@@ -58,12 +58,12 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/posts/twemoji-support/</loc>
+    <loc>https://bamasa.github.io/posts_templates/twemoji-support/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/posts/render-latex-using-katex/</loc>
+    <loc>https://bamasa.github.io/posts_templates/render-latex-using-katex/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,7 +108,7 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/posts/hugo-coder-wiki/</loc>
+    <loc>https://bamasa.github.io/posts_templates/hugo-coder-wiki/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,17 +133,17 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/posts/theme-demo/</loc>
+    <loc>https://bamasa.github.io/posts_templates/theme-demo/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/posts/creating-a-new-theme/</loc>
+    <loc>https://bamasa.github.io/posts_templates/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/posts/hugo-template-primer/</loc>
+    <loc>https://bamasa.github.io/posts_templates/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,7 +153,7 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/posts/hugoisforlovers/</loc>
+    <loc>https://bamasa.github.io/posts_templates/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,7 +178,7 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/posts/migrate-from-jekyll/</loc>
+    <loc>https://bamasa.github.io/posts_templates/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   

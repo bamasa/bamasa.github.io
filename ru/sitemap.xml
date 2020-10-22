@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/ru/posts/dummy/</loc>
+    <loc>https://bamasa.github.io/ru/posts_templates/dummy/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,17 +48,17 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/ru/posts/</loc>
+    <loc>https://bamasa.github.io/ru/posts_templates/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bamasa.github.io/posts/"
+                href="https://bamasa.github.io/posts_templates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://bamasa.github.io/ru/posts/"
+                href="https://bamasa.github.io/ru/posts_templates/"
                 />
   </url>
   
@@ -108,20 +108,6 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/ru/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/projects/"
-                />
-  </url>
-  
-  <url>
     <loc>https://bamasa.github.io/ru/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -132,6 +118,20 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://bamasa.github.io/ru/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/ru/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/projects/"
                 />
   </url>
   

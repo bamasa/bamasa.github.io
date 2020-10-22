@@ -9,19 +9,19 @@
     <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo coder wiki</title>
-      <link>https://bamasa.github.io/posts/hugo-coder-wiki/</link>
+      <link>https://bamasa.github.io/posts_templates/hugo-coder-wiki/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/posts/hugo-coder-wiki/</guid>
+      <guid>https://bamasa.github.io/posts_templates/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://bamasa.github.io/posts/hugoisforlovers/</link>
+      <link>https://bamasa.github.io/posts_templates/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/posts/hugoisforlovers/</guid>
+      <guid>https://bamasa.github.io/posts_templates/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
