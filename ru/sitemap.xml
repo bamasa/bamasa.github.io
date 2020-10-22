@@ -3,6 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bamasa.github.io/ru/categories/blog/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/ru/categories/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/ru/posts/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/ru/tags/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/ru/posts/todo/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/ru/tags/todo/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/ru/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/"
+                />
+  </url>
+  
+  <url>
     <loc>https://bamasa.github.io/ru/bio/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -18,20 +83,6 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/ru/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://bamasa.github.io/ru/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,34 +93,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://bamasa.github.io/ru/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/ru/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/ru/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/"
                 />
   </url>
   
