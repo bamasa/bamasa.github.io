@@ -6,13 +6,22 @@
     <description>Recent content in Categories on Леонид Гремячих</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/ru/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blog</title>
-      <link>https://bamasa.github.io/ru/categories/blog/</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      <title>conferences</title>
+      <link>https://bamasa.github.io/ru/categories/conferences/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/ru/categories/blog/</guid>
+      <guid>https://bamasa.github.io/ru/categories/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>schools</title>
+      <link>https://bamasa.github.io/ru/categories/schools/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/categories/schools/</guid>
       <description></description>
     </item>
     
