@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://bamasa.github.io/categories/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -18,17 +18,197 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/tags/certificate/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/tags/certificates/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://bamasa.github.io/ru/tags/certificate/"
+                href="https://bamasa.github.io/ru/tags/certificates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bamasa.github.io/tags/certificate/"
+                href="https://bamasa.github.io/tags/certificates/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/computer-vision/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/series/computer-vision/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/series/computer-vision/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/computer-vision/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/tags/computer-vision/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/tags/computer-vision/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/categories/computer-vision/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/categories/computer-vision/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/categories/computer-vision/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/posts/cv_course_otus/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/posts/cv_course_otus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/posts/cv_course_otus/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/courses/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/series/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/series/courses/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/courses/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/tags/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/tags/courses/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/categories/courses/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/categories/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/categories/courses/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/posts/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/conferences/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/series/conferences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/series/conferences/"
                 />
   </url>
   
@@ -48,21 +228,6 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/series/getting-started/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/series/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/series/getting-started/"
-                />
-  </url>
-  
-  <url>
     <loc>https://bamasa.github.io/tags/hse/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -74,21 +239,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://bamasa.github.io/tags/hse/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/hugo/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/series/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/series/hugo/"
                 />
   </url>
   
@@ -108,32 +258,17 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/</loc>
+    <loc>https://bamasa.github.io/series/schools/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://bamasa.github.io/ru/"
+                href="https://bamasa.github.io/ru/series/schools/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bamasa.github.io/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/posts/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/posts/"
+                href="https://bamasa.github.io/series/schools/"
                 />
   </url>
   
@@ -149,21 +284,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://bamasa.github.io/categories/schools/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/series/"
                 />
   </url>
   
@@ -213,17 +333,37 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/tags/speech/</loc>
+    <loc>https://bamasa.github.io/series/speech/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://bamasa.github.io/ru/tags/speech/"
+                href="https://bamasa.github.io/ru/series/speech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bamasa.github.io/tags/speech/"
+                href="https://bamasa.github.io/series/speech/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/speech/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/speeches/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/tags/speeches/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/tags/speeches/"
                 />
   </url>
   
@@ -239,21 +379,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://bamasa.github.io/tags/summer-school/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/tags/"
                 />
   </url>
   

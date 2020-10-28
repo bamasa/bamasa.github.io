@@ -6,22 +6,49 @@
     <description>Recent content in Series on Леонид Гремячих</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/ru/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/ru/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting Started</title>
-      <link>https://bamasa.github.io/ru/series/getting-started/</link>
-      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <title>Computer Vision</title>
+      <link>https://bamasa.github.io/ru/series/computer-vision/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/ru/series/getting-started/</guid>
+      <guid>https://bamasa.github.io/ru/series/computer-vision/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://bamasa.github.io/ru/series/hugo/</link>
+      <title>Courses</title>
+      <link>https://bamasa.github.io/ru/series/courses/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/series/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>https://bamasa.github.io/ru/series/conferences/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/ru/series/hugo/</guid>
+      <guid>https://bamasa.github.io/ru/series/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schools</title>
+      <link>https://bamasa.github.io/ru/series/schools/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/series/schools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech</title>
+      <link>https://bamasa.github.io/ru/series/speech/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/series/speech/</guid>
       <description></description>
     </item>
     
