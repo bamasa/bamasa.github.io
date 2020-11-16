@@ -133,21 +133,6 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/ru/projects/spacenav/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/projects/spacenav/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/projects/spacenav/"
-                />
-  </url>
-  
-  <url>
     <loc>https://bamasa.github.io/ru/tags/space-navigator/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
   </url>
@@ -199,6 +184,21 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://bamasa.github.io/ru/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/ru/projects/spacenav/</loc>
+    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/projects/spacenav/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/projects/spacenav/"
                 />
   </url>
   
