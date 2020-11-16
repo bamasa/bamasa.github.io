@@ -447,20 +447,6 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/projects/"
-                />
-  </url>
-  
-  <url>
     <loc>https://bamasa.github.io/snippets/second/</loc>
   </url>
   
