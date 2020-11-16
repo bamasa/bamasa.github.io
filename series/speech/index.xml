@@ -6,7 +6,19 @@
     <description>Recent content in Speech on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/speech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/speech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Space Navigator</title>
+      <link>https://bamasa.github.io/projects/spacenav/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/spacenav/</guid>
+      <description>TL; DR We made Space Navigator - a system for automatically determining the probability of collision of space objects and calculating the most effective evasive maneuver using AI.
+Stage of the project:
+ Research Article (2020) MVP (2019) First place in the competition of projects of the Academy of Roscosmos (presentation slides, 2018) VR presentation (2018)  Demonstrations and reports:
+ &amp;ldquo;SMILES&amp;rdquo;, summer school (Moscow, Skoltech, 2020) &amp;ldquo;Space debris: fundamental and practical aspects of the threat&amp;rdquo;, Russian conference with international participation (Moscow, Institute of Astronomy RAS and Space Research Institute RAS, 2019) &amp;ldquo;IAA SciTech Forum&amp;rdquo;, international conference (Moscow, RUDN, 2018)  Mentions:</description>
+    </item>
+    
     <item>
       <title>SMILES – The Summer School of Machine Learning at Skoltech</title>
       <link>https://bamasa.github.io/posts/smiles/</link>

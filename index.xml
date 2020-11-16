@@ -6,7 +6,19 @@
     <description>Recent content on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Space Navigator</title>
+      <link>https://bamasa.github.io/projects/spacenav/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/spacenav/</guid>
+      <description>TL; DR We made Space Navigator - a system for automatically determining the probability of collision of space objects and calculating the most effective evasive maneuver using AI.
+Stage of the project:
+ Research Article (2020) MVP (2019) First place in the competition of projects of the Academy of Roscosmos (presentation slides, 2018) VR presentation (2018)  Demonstrations and reports:
+ &amp;ldquo;SMILES&amp;rdquo;, summer school (Moscow, Skoltech, 2020) &amp;ldquo;Space debris: fundamental and practical aspects of the threat&amp;rdquo;, Russian conference with international participation (Moscow, Institute of Astronomy RAS and Space Research Institute RAS, 2019) &amp;ldquo;IAA SciTech Forum&amp;rdquo;, international conference (Moscow, RUDN, 2018)  Mentions:</description>
+    </item>
+    
     <item>
       <title>Computer Vision course – OTUS</title>
       <link>https://bamasa.github.io/posts/cv_course_otus/</link>
@@ -30,14 +42,29 @@ Below is the submitted poster and the certificate provide.
     
     <item>
       <title></title>
-      <link>https://bamasa.github.io/bio/</link>
+      <link>https://bamasa.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/bio/</guid>
-      <description>Bio Hi,
-I&amp;rsquo;m a PhD student and Research Assistant at the Faculty of Computer Science 💻 in the Higher School of Economics (Moscow, Russia 🇷🇺). Among my scientific interests are such areas as Artificial Intelligence, Data Science, Deep Learning, Reinforcement Learning and Computer Vision.
+      <guid>https://bamasa.github.io/about/</guid>
+      <description>About Hi, my name is Leonid Gremyachikh.
+I&amp;rsquo;m a PhD student and Research Assistant at the Faculty of Computer Science 💻 in the HSE University (Moscow, Russia 🇷🇺). Among my scientific interests are such areas as Artificial Intelligence, Data Science, Deep Learning, Reinforcement Learning and Computer Vision.
 If you have questions or just want to get in touch, then feel free to contact me an email at ligremyachikh@edu.hse.ru.
-My research IDs: Google Scholar: GNVO2imsAAAAJ</description>
+  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bamasa.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/cv/</guid>
+      <description>CV CV pdf
+My research IDs: Google Scholar: GNVO2imsAAAAJ
+ORCID: 0000-0003-1655-6110
+ResearcherID: AAH-1170-2019
+Scopus AuthorID: 57214854045
+SPIN-RSCI: 2199-9522
+  </description>
     </item>
     
     <item>

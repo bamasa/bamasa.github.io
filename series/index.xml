@@ -6,7 +6,34 @@
     <description>Recent content in Series on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conferences</title>
+      <link>https://bamasa.github.io/series/conferences/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schools</title>
+      <link>https://bamasa.github.io/series/schools/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/schools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech</title>
+      <link>https://bamasa.github.io/series/speech/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/speech/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Computer Vision</title>
       <link>https://bamasa.github.io/series/computer-vision/</link>
@@ -22,33 +49,6 @@
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conferences</title>
-      <link>https://bamasa.github.io/series/conferences/</link>
-      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/series/conferences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Schools</title>
-      <link>https://bamasa.github.io/series/schools/</link>
-      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/series/schools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Speech</title>
-      <link>https://bamasa.github.io/series/speech/</link>
-      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/series/speech/</guid>
       <description></description>
     </item>
     
