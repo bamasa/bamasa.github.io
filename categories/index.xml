@@ -6,22 +6,13 @@
     <description>Recent content in Categories on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>conferences</title>
-      <link>https://bamasa.github.io/categories/conferences/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <title>projects</title>
+      <link>https://bamasa.github.io/categories/projects/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/categories/conferences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>schools</title>
-      <link>https://bamasa.github.io/categories/schools/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/categories/schools/</guid>
+      <guid>https://bamasa.github.io/categories/projects/</guid>
       <description></description>
     </item>
     
@@ -40,6 +31,24 @@
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/categories/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conferences</title>
+      <link>https://bamasa.github.io/categories/conferences/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/categories/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>schools</title>
+      <link>https://bamasa.github.io/categories/schools/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/categories/schools/</guid>
       <description></description>
     </item>
     

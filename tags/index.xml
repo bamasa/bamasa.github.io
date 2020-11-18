@@ -6,20 +6,20 @@
     <description>Recent content in Tags on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>certificates</title>
-      <link>https://bamasa.github.io/tags/certificates/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <title>anomalies</title>
+      <link>https://bamasa.github.io/tags/anomalies/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/tags/certificates/</guid>
+      <guid>https://bamasa.github.io/tags/anomalies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hse</title>
       <link>https://bamasa.github.io/tags/hse/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/tags/hse/</guid>
       <description></description>
@@ -28,18 +28,27 @@
     <item>
       <title>lambda</title>
       <link>https://bamasa.github.io/tags/lambda/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/tags/lambda/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>skoltech</title>
-      <link>https://bamasa.github.io/tags/skoltech/</link>
+      <title>paper</title>
+      <link>https://bamasa.github.io/tags/paper/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>certificates</title>
+      <link>https://bamasa.github.io/tags/certificates/</link>
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/tags/skoltech/</guid>
+      <guid>https://bamasa.github.io/tags/certificates/</guid>
       <description></description>
     </item>
     
@@ -53,29 +62,11 @@
     </item>
     
     <item>
-      <title>speech</title>
-      <link>https://bamasa.github.io/tags/speech/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/speech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>speeches</title>
       <link>https://bamasa.github.io/tags/speeches/</link>
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/tags/speeches/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>summer school</title>
-      <link>https://bamasa.github.io/tags/summer-school/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/summer-school/</guid>
       <description></description>
     </item>
     
@@ -94,6 +85,33 @@
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/tags/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skoltech</title>
+      <link>https://bamasa.github.io/tags/skoltech/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/skoltech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speech</title>
+      <link>https://bamasa.github.io/tags/speech/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>summer school</title>
+      <link>https://bamasa.github.io/tags/summer-school/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/summer-school/</guid>
       <description></description>
     </item>
     

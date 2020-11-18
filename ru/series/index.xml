@@ -6,11 +6,11 @@
     <description>Recent content in Series on Леонид Гремячих</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/ru/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/ru/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conferences</title>
       <link>https://bamasa.github.io/ru/series/conferences/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/ru/series/conferences/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>Schools</title>
       <link>https://bamasa.github.io/ru/series/schools/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/ru/series/schools/</guid>
       <description></description>
@@ -28,9 +28,18 @@
     <item>
       <title>Speech</title>
       <link>https://bamasa.github.io/ru/series/speech/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/ru/series/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://bamasa.github.io/ru/series/projects/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/series/projects/</guid>
       <description></description>
     </item>
     
