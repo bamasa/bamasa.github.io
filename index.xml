@@ -19,6 +19,17 @@ Also, development and testing researched methods for improving Digital Twin of S
     </item>
     
     <item>
+      <title>Satellite Positioning</title>
+      <link>https://bamasa.github.io/projects/satpos/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/satpos/</guid>
+      <description>The project task – build a model that would predict the position of space objects using simulation data.
+  https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Orbits
+  About Predicting the position of satellites is one of the most important tasks in astronomy. For example, information on the exact position of satellites in orbit is necessary to avoid extremely dangerous satellite collisions. Each collision leads not only to satellites destruction, but also to occurrence of thousands of pieces of space debris pieces.</description>
+    </item>
+    
+    <item>
       <title>Space Navigator</title>
       <link>https://bamasa.github.io/projects/spacenav/</link>
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>

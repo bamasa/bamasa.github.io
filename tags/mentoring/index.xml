@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mentoring on Leonid Gremyachikh</title>
+    <link>https://bamasa.github.io/tags/mentoring/</link>
+    <description>Recent content in mentoring on Leonid Gremyachikh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/mentoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Satellite Positioning</title>
+      <link>https://bamasa.github.io/projects/satpos/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/satpos/</guid>
+      <description>The project task – build a model that would predict the position of space objects using simulation data.
+  https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Orbits
+  About Predicting the position of satellites is one of the most important tasks in astronomy. For example, information on the exact position of satellites in orbit is necessary to avoid extremely dangerous satellite collisions. Each collision leads not only to satellites destruction, but also to occurrence of thousands of pieces of space debris pieces.</description>
+    </item>
+    
+  </channel>
+</rss>
