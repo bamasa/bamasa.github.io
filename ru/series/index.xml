@@ -8,38 +8,65 @@
     <language>en</language>
     <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/ru/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Conferences</title>
-      <link>https://bamasa.github.io/ru/series/conferences/</link>
+      <title>anomalies</title>
+      <link>https://bamasa.github.io/ru/series/anomalies/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/ru/series/conferences/</guid>
+      <guid>https://bamasa.github.io/ru/series/anomalies/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Schools</title>
-      <link>https://bamasa.github.io/ru/series/schools/</link>
+      <title>paper</title>
+      <link>https://bamasa.github.io/ru/series/paper/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/ru/series/schools/</guid>
+      <guid>https://bamasa.github.io/ru/series/paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reinforcement learning</title>
+      <link>https://bamasa.github.io/ru/series/reinforcement-learning/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/series/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mentoring</title>
+      <link>https://bamasa.github.io/ru/series/mentoring/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/series/mentoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>space</title>
+      <link>https://bamasa.github.io/ru/series/space/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/series/space/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speech</title>
       <link>https://bamasa.github.io/ru/series/speech/</link>
-      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/ru/series/speech/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://bamasa.github.io/ru/series/projects/</link>
-      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <title>certificates</title>
+      <link>https://bamasa.github.io/ru/series/certificates/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/ru/series/projects/</guid>
+      <guid>https://bamasa.github.io/ru/series/certificates/</guid>
       <description></description>
     </item>
     
@@ -58,6 +85,24 @@
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/ru/series/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>https://bamasa.github.io/ru/series/conferences/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/series/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schools</title>
+      <link>https://bamasa.github.io/ru/series/schools/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/series/schools/</guid>
       <description></description>
     </item>
     

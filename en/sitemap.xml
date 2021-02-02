@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://bamasa.github.io/series/anomalies/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/series/anomalies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/series/anomalies/"
+                />
+  </url>
+  
+  <url>
     <loc>https://bamasa.github.io/projects/anomalies/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -48,32 +63,17 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/tags/hse/</loc>
+    <loc>https://bamasa.github.io/categories/lambda-hse/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://bamasa.github.io/ru/tags/hse/"
+                href="https://bamasa.github.io/ru/categories/lambda-hse/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bamasa.github.io/tags/hse/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/lambda/</loc>
-    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/tags/lambda/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/tags/lambda/"
+                href="https://bamasa.github.io/categories/lambda-hse/"
                 />
   </url>
   
@@ -108,17 +108,17 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/series/projects/</loc>
+    <loc>https://bamasa.github.io/series/paper/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://bamasa.github.io/ru/series/projects/"
+                href="https://bamasa.github.io/ru/series/paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bamasa.github.io/series/projects/"
+                href="https://bamasa.github.io/series/paper/"
                 />
   </url>
   
@@ -138,17 +138,32 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/categories/projects/</loc>
+    <loc>https://bamasa.github.io/tags/reinforcement-learning/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://bamasa.github.io/ru/categories/projects/"
+                href="https://bamasa.github.io/ru/tags/reinforcement-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bamasa.github.io/categories/projects/"
+                href="https://bamasa.github.io/tags/reinforcement-learning/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/reinforcement-learning/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/series/reinforcement-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/series/reinforcement-learning/"
                 />
   </url>
   
@@ -198,6 +213,21 @@
   </url>
   
   <url>
+    <loc>https://bamasa.github.io/series/mentoring/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/series/mentoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/series/mentoring/"
+                />
+  </url>
+  
+  <url>
     <loc>https://bamasa.github.io/projects/satpos/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -228,17 +258,47 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/tags/speeches/</loc>
+    <loc>https://bamasa.github.io/series/space/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://bamasa.github.io/ru/tags/speeches/"
+                href="https://bamasa.github.io/ru/series/space/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bamasa.github.io/tags/speeches/"
+                href="https://bamasa.github.io/series/space/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/speech/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/series/speech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/series/speech/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/speech/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/tags/speech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/tags/speech/"
                 />
   </url>
   
@@ -254,6 +314,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://bamasa.github.io/tags/certificates/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/certificates/</loc>
+    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/series/certificates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/series/certificates/"
                 />
   </url>
   
@@ -423,6 +498,36 @@
   </url>
   
   <url>
+    <loc>https://bamasa.github.io/tags/hse/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/tags/hse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/tags/hse/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/lambda/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bamasa.github.io/ru/tags/lambda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bamasa.github.io/tags/lambda/"
+                />
+  </url>
+  
+  <url>
     <loc>https://bamasa.github.io/series/schools/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -483,23 +588,18 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/series/speech/</loc>
+    <loc>https://bamasa.github.io/tags/speeches/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://bamasa.github.io/ru/series/speech/"
+                href="https://bamasa.github.io/ru/tags/speeches/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bamasa.github.io/series/speech/"
+                href="https://bamasa.github.io/tags/speeches/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/speech/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>

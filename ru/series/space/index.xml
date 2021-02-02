@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>space on Леонид Гремячих</title>
+    <link>https://bamasa.github.io/ru/series/space/</link>
+    <description>Recent content in space on Леонид Гремячих</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/ru/series/space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Прогнозирование положения космических объектов</title>
+      <link>https://bamasa.github.io/ru/projects/satpos/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/projects/satpos/</guid>
+      <description>Задача проекта – построить модель, предсказывающую положение космических объектов по данным симуляции.
+  https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Orbits
+  About Прогнозирование положения спутников - одна из важнейших задач астрономии. Например, информация о точном положении спутников на орбите необходима, чтобы избежать чрезвычайно опасных столкновений спутников. Каждое столкновение приводит не только к разрушению спутников, но и к появлению тысяч объектов космического мусора. Например, в результате столкновения Иридиум-Космос в 2009 году количество космического мусора увеличилось примерно на 13%.</description>
+    </item>
+    
+    <item>
+      <title>Космический Навигатор</title>
+      <link>https://bamasa.github.io/ru/projects/spacenav/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/projects/spacenav/</guid>
+      <description>Коротко Мы сделали Космический Навигатор – систему для автоматического определения вероятности столкновения космических объектов и автоматического рассчета наиболее эффективного маневра уклонения с помощью ИИ.
+Стадия проекта:
+ научная статья &amp;ldquo;Space Navigator: a Tool for the Optimization of Collision Avoidance Maneuvers&amp;rdquo; (2020) MVP (2019) первое место на конкурсе проектов Академии Роскосмоса (презентация, 2018) VR презентация (2018)  Демонстрации и доклады:
+ летняя школа &amp;ldquo;SMILES&amp;rdquo; (Москва, Сколтех, 2020) Всероссийская научная конференция с международным участием &amp;ldquo;Космический мусор: фундаментальные и практические аспекты угрозы&amp;rdquo; (Москва, Институт астрономии РАН и Институт космических исследований РАН, 2019) Международная конференция &amp;ldquo;IAA SciTech Forum&amp;rdquo; (Москва, РУДН, 2018)  Упоминания:</description>
+    </item>
+    
+  </channel>
+</rss>

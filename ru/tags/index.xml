@@ -17,29 +17,20 @@
     </item>
     
     <item>
-      <title>hse</title>
-      <link>https://bamasa.github.io/ru/tags/hse/</link>
-      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/ru/tags/hse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lambda</title>
-      <link>https://bamasa.github.io/ru/tags/lambda/</link>
-      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/ru/tags/lambda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>paper</title>
       <link>https://bamasa.github.io/ru/tags/paper/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/ru/tags/paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reinforcement learning</title>
+      <link>https://bamasa.github.io/ru/tags/reinforcement-learning/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
     
@@ -62,11 +53,11 @@
     </item>
     
     <item>
-      <title>speeches</title>
-      <link>https://bamasa.github.io/ru/tags/speeches/</link>
+      <title>speech</title>
+      <link>https://bamasa.github.io/ru/tags/speech/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/ru/tags/speeches/</guid>
+      <guid>https://bamasa.github.io/ru/tags/speech/</guid>
       <description></description>
     </item>
     
@@ -98,11 +89,38 @@
     </item>
     
     <item>
+      <title>hse</title>
+      <link>https://bamasa.github.io/ru/tags/hse/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/tags/hse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lambda</title>
+      <link>https://bamasa.github.io/ru/tags/lambda/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/tags/lambda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>skoltech</title>
       <link>https://bamasa.github.io/ru/tags/skoltech/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/ru/tags/skoltech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speeches</title>
+      <link>https://bamasa.github.io/ru/tags/speeches/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/ru/tags/speeches/</guid>
       <description></description>
     </item>
     
