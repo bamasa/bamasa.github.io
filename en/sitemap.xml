@@ -63,18 +63,13 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/categories/lambda-hse/</loc>
+    <loc>https://bamasa.github.io/categories/hse-university/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bamasa.github.io/ru/categories/lambda-hse/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bamasa.github.io/categories/lambda-hse/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/categories/laboratory-of-methods-for-big-data-analysis/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
