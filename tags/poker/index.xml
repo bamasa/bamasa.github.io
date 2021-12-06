@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poker on Leonid Gremyachikh</title>
+    <link>https://bamasa.github.io/tags/poker/</link>
+    <description>Recent content in poker on Leonid Gremyachikh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/poker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poker Robot</title>
+      <link>https://bamasa.github.io/projects/rl_poker/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/rl_poker/</guid>
+      <description>&amp;ndash; The project is in progress. &amp;ndash;
+TL; DR Researching and applying the Reinforcement Learning approach to no-limit Texas poker.
+  Fragment of one of the experiments.
+   My role  Application of existing models Implementation of the pipeline of experiments and comparison of models Development of architectural features of the poker environment experiments Experiments  </description>
+    </item>
+    
+  </channel>
+</rss>

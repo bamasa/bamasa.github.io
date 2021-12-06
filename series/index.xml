@@ -6,7 +6,88 @@
     <description>Recent content in Series on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GAN</title>
+      <link>https://bamasa.github.io/series/gan/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poker</title>
+      <link>https://bamasa.github.io/series/poker/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/poker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reinforcement learning</title>
+      <link>https://bamasa.github.io/series/reinforcement-learning/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>storage system</title>
+      <link>https://bamasa.github.io/series/storage-system/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/storage-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;&lt;TODO: name&gt;&gt; team</title>
+      <link>https://bamasa.github.io/series/todo-name-team/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/todo-name-team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>management</title>
+      <link>https://bamasa.github.io/series/management/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marketing</title>
+      <link>https://bamasa.github.io/series/marketing/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>art</title>
+      <link>https://bamasa.github.io/series/art/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://bamasa.github.io/series/computer-vision/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/computer-vision/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>anomalies</title>
       <link>https://bamasa.github.io/series/anomalies/</link>
@@ -22,15 +103,6 @@
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reinforcement learning</title>
-      <link>https://bamasa.github.io/series/reinforcement-learning/</link>
-      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/series/reinforcement-learning/</guid>
       <description></description>
     </item>
     
@@ -67,15 +139,6 @@
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/certificates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer Vision</title>
-      <link>https://bamasa.github.io/series/computer-vision/</link>
-      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/series/computer-vision/</guid>
       <description></description>
     </item>
     
