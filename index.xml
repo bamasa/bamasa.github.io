@@ -13,8 +13,7 @@
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/rl_poker/</guid>
-      <description>&amp;ndash; The project is in progress. &amp;ndash;
-TL; DR Researching and applying the Reinforcement Learning approach to no-limit Texas poker.
+      <description>TL; DR Researching and applying the Reinforcement Learning approach to no-limit Texas poker.
   Fragment of one of the experiments.
    My role  Application of existing models Implementation of the pipeline of experiments and comparison of models Development of architectural features of the poker environment experiments Experiments  </description>
     </item>
@@ -36,11 +35,11 @@ TL; DR Digital Twin of the Data Storage System based on Generative Adversarial N
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/rl_market/</guid>
-      <description>TL; DR Reinforcement Learning for automatic budget management for advertising campaigns. Joint project with Retentioneering. NDA.
+      <description>TL; DR Outsourcing R&amp;amp;D project for the Retentioneering company – Reinforcement Learning for automatic budget management for advertising campaigns. We managed to create a quality MVP. NDA.
   Yandex Direct img.
   My team   Me.
     Olga – MEPhI graduate, postgraduate student of the Institute of Theoretical and Experimental Physics (ITEP) in elementary particle physics, machine learning specialist, programmer..
-  My role  Management Programming (python)  Environment Reinforcement Learning Simulator &amp;hellip;   Statistical analysis of approaches, selection and analysis of metrics   </description>
+  My role  Searching for a client Management Programming (python)  Environment Reinforcement Learning Simulator &amp;hellip;   Statistical analysis of approaches, selection and analysis of metrics   </description>
     </item>
     
     <item>
@@ -124,9 +123,9 @@ Below is the submitted poster and the certificate provide.
       
       <guid>https://bamasa.github.io/about/</guid>
       <description>About Hi, my name is Leonid Gremyachikh.
-I&amp;rsquo;m a PhD student and Research Assistant at the Faculty of Computer Science 💻 in the HSE University (Moscow, Russia 🇷🇺). Among my scientific interests are such areas as Artificial Intelligence, Data Science, Deep Learning, Reinforcement Learning and Computer Vision.
-If you have questions or just want to get in touch, then feel free to contact me an email at ligremyachikh@edu.hse.ru.
-  </description>
+I am PhD student and Research Assistant at the Faculty of Computer Science 💻 in the HSE University (Moscow, Russia 🇷🇺), as well as a Machine Learning Engineer at Adalisk. My research interests include Deep Learning, Computer Vision and Reinforcement Learning.
+If you have questions or just want to get in touch, then feel free to contact me an email at lgremyachikh@gmail.com.
+CV CV pdf</description>
     </item>
     
     <item>
@@ -150,12 +149,12 @@ SPIN-RSCI: 2199-9522
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/works/</guid>
-      <description>Projects more details Storage Digital Twin – [in progress] Digital Twin of the Data Storage System based on GANs, 2021.
-Poker Robot – [in progress] Reinforcement Learning for Poker, 2021.
+      <description>Own projects more details &amp;laquo;Placeholder&amp;raquo; – [in progress], 2022.
+One script models – [in progress] a zoo of short implementations of Computer Vision models, 2022.
 Marketing Robot – Reinforcement Learning for automatic budget management, 2021.
-Anomaly Prediction – Detection and Prediction of Anomalies in Storage Area Network, 2018-2020.
-Satellite Positioning – Prediction the position of Space Objects using simulation data, 2019-2020.
-Space Navigator – a Tool for the Optimization of Collision Avoidance Maneuvers, 2018-2019.</description>
+Projects more details Storage Digital Twin – [in progress] Digital Twin of the Data Storage System based on GANs, 2021-2022.
+Poker Robot – Reinforcement Learning for Poker, 2021-2022.
+Anomaly Prediction – Detection and Prediction of Anomalies in Storage Area Network, 2018-2020.</description>
     </item>
     
     <item>

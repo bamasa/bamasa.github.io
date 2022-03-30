@@ -13,8 +13,7 @@
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/rl_poker/</guid>
-      <description>&amp;ndash; The project is in progress. &amp;ndash;
-TL; DR Researching and applying the Reinforcement Learning approach to no-limit Texas poker.
+      <description>TL; DR Researching and applying the Reinforcement Learning approach to no-limit Texas poker.
   Fragment of one of the experiments.
    My role  Application of existing models Implementation of the pipeline of experiments and comparison of models Development of architectural features of the poker environment experiments Experiments  </description>
     </item>
