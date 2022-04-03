@@ -263,12 +263,17 @@
   </url>
   
   <url>
+    <loc>https://bamasa.github.io/blog/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bamasa.github.io/categories/computer-vision/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/posts/cv_course_otus/</loc>
+    <loc>https://bamasa.github.io/log/cv_course_otus/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -288,7 +293,27 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/posts/</loc>
+    <loc>https://bamasa.github.io/log/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/test/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/test/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/categories/test/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/blog/cv_course_otus/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -328,7 +353,7 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/posts/smiles/</loc>
+    <loc>https://bamasa.github.io/log/smiles/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   

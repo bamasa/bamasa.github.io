@@ -97,20 +97,29 @@ Stage of the project:
     
     <item>
       <title>Computer Vision course – OTUS</title>
-      <link>https://bamasa.github.io/posts/cv_course_otus/</link>
+      <link>https://bamasa.github.io/log/cv_course_otus/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/posts/cv_course_otus/</guid>
+      <guid>https://bamasa.github.io/log/cv_course_otus/</guid>
       <description>Photo by Runze Shi on Unsplash
   I took a course on Сomputer Vision from OTUS (in Russian) from April 28 to September 25, 2020. The course was practical and covered Neural Networks and Deep Learning in the field of Computer Vision - from the basics to the latest frameworks and state-of-the-art scientific articles. Besides that, there were cool lessons about TensorRT and Server Inference. In addition, the interesting thing about this course was to learn from the experience of colleagues who use Computer Vision in different fields.</description>
     </item>
     
     <item>
+      <title>test</title>
+      <link>https://bamasa.github.io/blog/cv_course_otus/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/blog/cv_course_otus/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
       <title>SMILES – The Summer School of Machine Learning at Skoltech</title>
-      <link>https://bamasa.github.io/posts/smiles/</link>
+      <link>https://bamasa.github.io/log/smiles/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/posts/smiles/</guid>
+      <guid>https://bamasa.github.io/log/smiles/</guid>
       <description>Participated in the international summer school SMILES – The Summer School of Machine Learning at Skoltech from 16 to 21 August 2020. In the poster session, I talked about two &amp;ldquo;AI &amp;amp; Satellite Problems&amp;rdquo; projects that we were engaged at the Laboratory of Methods for Big Data Analysis  at the National Research University Higher School of Economics.
 Below is the submitted poster and the certificate provide.
  Poster PDF Certificate PDF    Post about Data Analysis for Satellite Tracking</description>
@@ -122,10 +131,10 @@ Below is the submitted poster and the certificate provide.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/about/</guid>
-      <description>About Hi, my name is Leonid Gremyachikh.
+      <description>Hi, my name is Leonid Gremyachikh.
 I am PhD student and Research Assistant at the Faculty of Computer Science 💻 in the HSE University (Moscow, Russia 🇷🇺), as well as a Machine Learning Engineer at Adalisk. My research interests include Deep Learning, Computer Vision and Reinforcement Learning.
 If you have questions or just want to get in touch, then feel free to contact me an email at lgremyachikh@gmail.com.
-CV CV pdf</description>
+Blogs Computer Vision blog – blog/</description>
     </item>
     
     <item>
@@ -152,9 +161,9 @@ SPIN-RSCI: 2199-9522
       <description>Own projects more details &amp;laquo;Placeholder&amp;raquo; – [in progress], 2022.
 One script models – [in progress] a zoo of short implementations of Computer Vision models, 2022.
 Marketing Robot – Reinforcement Learning for automatic budget management, 2021.
-Projects more details Storage Digital Twin – [in progress] Digital Twin of the Data Storage System based on GANs, 2021-2022.
-Poker Robot – Reinforcement Learning for Poker, 2021-2022.
-Anomaly Prediction – Detection and Prediction of Anomalies in Storage Area Network, 2018-2020.</description>
+Projects more details 3D Computer Vision for teeth – full time job, 2021-2022.
+NFT Images Generator – generation and styling of images according to the user&amp;rsquo;s description, 2022.
+Storage Digital Twin – [in progress] Digital Twin of the Data Storage System based on GANs, 2021-2022.</description>
     </item>
     
     <item>
