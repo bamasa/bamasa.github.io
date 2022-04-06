@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bamasa.github.io/blog/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/computer-vision/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/computer-vision/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/blog/cv_books/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/blog/cv_courses/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/blog/cv_startups/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/links/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/links/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bamasa.github.io/categories/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -24,11 +79,6 @@
   
   <url>
     <loc>https://bamasa.github.io/categories/laboratory-of-methods-for-big-data-analysis/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,11 +118,6 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/series/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bamasa.github.io/projects/digital_twin/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -84,11 +129,6 @@
   
   <url>
     <loc>https://bamasa.github.io/series/storage-system/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -154,16 +194,6 @@
   
   <url>
     <loc>https://bamasa.github.io/categories/collaboration/</loc>
-    <lastmod>2021-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/computer-vision/</loc>
-    <lastmod>2021-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/computer-vision/</loc>
     <lastmod>2021-07-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -263,22 +293,7 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/blog/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/categories/computer-vision/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bamasa.github.io/log/cv_course_otus/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/courses/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -288,7 +303,7 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/categories/courses/</loc>
+    <loc>https://bamasa.github.io/series/courses/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -298,37 +313,12 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/tags/test/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/test/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/categories/test/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/blog/cv_course_otus/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bamasa.github.io/series/conferences/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/categories/conferences/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/hse/</loc>
+    <loc>https://bamasa.github.io/tags/hse-university/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -343,12 +333,12 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/categories/schools/</loc>
+    <loc>https://bamasa.github.io/tags/skoltech/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/tags/skoltech/</loc>
+    <loc>https://bamasa.github.io/categories/skoltech/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   

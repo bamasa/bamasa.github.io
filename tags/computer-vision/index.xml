@@ -6,7 +6,34 @@
     <description>Recent content in computer vision on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer vision books</title>
+      <link>https://bamasa.github.io/blog/cv_books/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/blog/cv_books/</guid>
+      <description>In process</description>
+    </item>
+    
+    <item>
+      <title>Computer vision courses</title>
+      <link>https://bamasa.github.io/blog/cv_courses/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/blog/cv_courses/</guid>
+      <description>In process</description>
+    </item>
+    
+    <item>
+      <title>Computer vision startups</title>
+      <link>https://bamasa.github.io/blog/cv_startups/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/blog/cv_startups/</guid>
+      <description>In process</description>
+    </item>
+    
     <item>
       <title>ML-IDS</title>
       <link>https://bamasa.github.io/teaching/ml_ids/</link>
