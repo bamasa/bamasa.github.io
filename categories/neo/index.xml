@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/categories/neo/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>NFT Images Generator</title>
+      <link>https://bamasa.github.io/projects/img_gen/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/img_gen/</guid>
+      <description>&amp;ndash; The project is in progress. &amp;ndash;</description>
+    </item>
+    
+    <item>
       <title>Poker Robot</title>
       <link>https://bamasa.github.io/projects/rl_poker/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>

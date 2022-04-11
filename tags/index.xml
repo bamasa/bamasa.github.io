@@ -6,13 +6,76 @@
     <description>Recent content in Tags on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D</title>
+      <link>https://bamasa.github.io/tags/3d/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/3d/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>computer vision</title>
       <link>https://bamasa.github.io/tags/computer-vision/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>certificates</title>
+      <link>https://bamasa.github.io/tags/certificates/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/certificates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paper</title>
+      <link>https://bamasa.github.io/tags/paper/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reinforcement learning</title>
+      <link>https://bamasa.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>space</title>
+      <link>https://bamasa.github.io/tags/space/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speech</title>
+      <link>https://bamasa.github.io/tags/speech/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stuff</title>
+      <link>https://bamasa.github.io/tags/stuff/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/stuff/</guid>
       <description></description>
     </item>
     
@@ -40,15 +103,6 @@
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/tags/poker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reinforcement learning</title>
-      <link>https://bamasa.github.io/tags/reinforcement-learning/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
     
@@ -107,20 +161,20 @@
     </item>
     
     <item>
+      <title>courses</title>
+      <link>https://bamasa.github.io/tags/courses/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>anomalies</title>
       <link>https://bamasa.github.io/tags/anomalies/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/tags/anomalies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>paper</title>
-      <link>https://bamasa.github.io/tags/paper/</link>
-      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/paper/</guid>
       <description></description>
     </item>
     
@@ -134,38 +188,20 @@
     </item>
     
     <item>
-      <title>space</title>
-      <link>https://bamasa.github.io/tags/space/</link>
-      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/space/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>speech</title>
-      <link>https://bamasa.github.io/tags/speech/</link>
-      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/speech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>certificates</title>
-      <link>https://bamasa.github.io/tags/certificates/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/certificates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>courses</title>
-      <link>https://bamasa.github.io/tags/courses/</link>
+      <title>exhibition</title>
+      <link>https://bamasa.github.io/tags/exhibition/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/tags/courses/</guid>
+      <guid>https://bamasa.github.io/tags/exhibition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>generative models</title>
+      <link>https://bamasa.github.io/tags/generative-models/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/generative-models/</guid>
       <description></description>
     </item>
     
@@ -211,6 +247,15 @@
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/tags/summer-school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackathon</title>
+      <link>https://bamasa.github.io/tags/hackathon/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/hackathon/</guid>
       <description></description>
     </item>
     

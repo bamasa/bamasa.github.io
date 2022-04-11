@@ -6,7 +6,18 @@
     <description>Recent content in courses on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atrtigitl</title>
+      <link>https://bamasa.github.io/log/atrtigitl/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/atrtigitl/</guid>
+      <description>https://artigitl.com/
+06.11.20 &amp;ndash; 29.01.21
+TODO</description>
+    </item>
+    
     <item>
       <title>Computer Vision course – OTUS</title>
       <link>https://bamasa.github.io/log/cv_course_otus/</link>
@@ -15,6 +26,15 @@
       <guid>https://bamasa.github.io/log/cv_course_otus/</guid>
       <description>Photo by Runze Shi on Unsplash
   I took a course on Сomputer Vision from OTUS (in Russian) from April 28 to September 25, 2020. The course was practical and covered Neural Networks and Deep Learning in the field of Computer Vision - from the basics to the latest frameworks and state-of-the-art scientific articles. Besides that, there were cool lessons about TensorRT and Server Inference. In addition, the interesting thing about this course was to learn from the experience of colleagues who use Computer Vision in different fields.</description>
+    </item>
+    
+    <item>
+      <title>Generative Models School</title>
+      <link>https://bamasa.github.io/log/gen_models_schools/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/gen_models_schools/</guid>
+      <description>TODO</description>
     </item>
     
   </channel>

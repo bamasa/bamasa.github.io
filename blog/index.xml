@@ -6,32 +6,26 @@
     <description>Recent content in Blogs on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Computer vision books</title>
-      <link>https://bamasa.github.io/blog/cv_books/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Useful stuff</title>
+      <link>https://bamasa.github.io/blog/useful/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/blog/cv_books/</guid>
-      <description>In process</description>
+      <guid>https://bamasa.github.io/blog/useful/</guid>
+      <description>git git fetch git rebase git checkout git merge git pull tmux terminal:
+tmux # start tmux session tmux ls # list sessions tmux a -t &amp;lt;session name&amp;gt; # attach to the session called &amp;lt;session name&amp;gt; tmux kill-session -t &amp;lt;session name&amp;gt; # kill the session called &amp;lt;session name&amp;gt; pkill -f tmux # just kill all tmux windows commands:
+ CTRL+b c Create a new window CTRL+b n Switch to the previous window CTRL+b p Switch to the next window CTRL+b w Choose window from a list CTRL+b , Rename the current window CTRL+b &amp;amp; Kill the current window  panes commands:</description>
     </item>
     
     <item>
-      <title>Computer vision courses</title>
-      <link>https://bamasa.github.io/blog/cv_courses/</link>
+      <title>Computer vision links</title>
+      <link>https://bamasa.github.io/blog/cv_links/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/blog/cv_courses/</guid>
-      <description>In process</description>
-    </item>
-    
-    <item>
-      <title>Computer vision startups</title>
-      <link>https://bamasa.github.io/blog/cv_startups/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/blog/cv_startups/</guid>
-      <description>In process</description>
+      <guid>https://bamasa.github.io/blog/cv_links/</guid>
+      <description>My favorite blogs:
+ https://lilianweng.github.io/  </description>
     </item>
     
   </channel>

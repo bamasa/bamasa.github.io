@@ -6,7 +6,16 @@
     <description>Recent content in reinforcement learning on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Space Navigator, update</title>
+      <link>https://bamasa.github.io/projects/spacenav_2/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/spacenav_2/</guid>
+      <description>TODO</description>
+    </item>
+    
     <item>
       <title>Poker Robot</title>
       <link>https://bamasa.github.io/projects/rl_poker/</link>
@@ -20,10 +29,36 @@
     
     <item>
       <title>Marketing Robot</title>
-      <link>https://bamasa.github.io/projects/rl_market/</link>
+      <link>https://bamasa.github.io/own_projects/cv_3d/</link>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/projects/rl_market/</guid>
+      <guid>https://bamasa.github.io/own_projects/cv_3d/</guid>
+      <description>TL; DR Outsourcing R&amp;amp;D project for the Retentioneering company – Reinforcement Learning for automatic budget management for advertising campaigns. We managed to create a quality MVP. NDA.
+  Yandex Direct img.
+  My team   Me.
+    Olga – MEPhI graduate, postgraduate student of the Institute of Theoretical and Experimental Physics (ITEP) in elementary particle physics, machine learning specialist, programmer..
+  My role  Searching for a client Management Programming (python)  Environment Reinforcement Learning Simulator &amp;hellip;   Statistical analysis of approaches, selection and analysis of metrics   </description>
+    </item>
+    
+    <item>
+      <title>Marketing Robot</title>
+      <link>https://bamasa.github.io/own_projects/one_script_models/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/own_projects/one_script_models/</guid>
+      <description>TL; DR Outsourcing R&amp;amp;D project for the Retentioneering company – Reinforcement Learning for automatic budget management for advertising campaigns. We managed to create a quality MVP. NDA.
+  Yandex Direct img.
+  My team   Me.
+    Olga – MEPhI graduate, postgraduate student of the Institute of Theoretical and Experimental Physics (ITEP) in elementary particle physics, machine learning specialist, programmer..
+  My role  Searching for a client Management Programming (python)  Environment Reinforcement Learning Simulator &amp;hellip;   Statistical analysis of approaches, selection and analysis of metrics   </description>
+    </item>
+    
+    <item>
+      <title>Marketing Robot</title>
+      <link>https://bamasa.github.io/own_projects/rl_market/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/own_projects/rl_market/</guid>
       <description>TL; DR Outsourcing R&amp;amp;D project for the Retentioneering company – Reinforcement Learning for automatic budget management for advertising campaigns. We managed to create a quality MVP. NDA.
   Yandex Direct img.
   My team   Me.
@@ -51,6 +86,25 @@ Also, development and testing researched methods for improving Digital Twin of S
       <description>TL; DR We made Space Navigator - a system for automatically determining the probability of collision of space objects and calculating the most effective evasive maneuver using AI.
 Stage of the project:
  Research Article &amp;ldquo;Space Navigator: a Tool for the Optimization of Collision Avoidance Maneuvers&amp;rdquo; (2020) MVP (2019) First place in the competition of projects of the Academy of Roscosmos (presentation slides, 2018) VR presentation (2018)  Demonstrations and reports:</description>
+    </item>
+    
+    <item>
+      <title>Game Junction</title>
+      <link>https://bamasa.github.io/log/game_junction/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/game_junction/</guid>
+      <description>https://khodynka.art/page20465450.html
+  </description>
+    </item>
+    
+    <item>
+      <title>MTS RL hakaton</title>
+      <link>https://bamasa.github.io/log/rl_mts_hackathon/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/rl_mts_hackathon/</guid>
+      <description>TODO</description>
     </item>
     
   </channel>

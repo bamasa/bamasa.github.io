@@ -6,32 +6,33 @@
     <description>Recent content in computer vision on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Computer vision books</title>
-      <link>https://bamasa.github.io/blog/cv_books/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <title>3D Computer Vision for teeth</title>
+      <link>https://bamasa.github.io/projects/cv_teeth/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/blog/cv_books/</guid>
-      <description>In process</description>
+      <guid>https://bamasa.github.io/projects/cv_teeth/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Computer vision courses</title>
-      <link>https://bamasa.github.io/blog/cv_courses/</link>
+      <title>Computer vision links</title>
+      <link>https://bamasa.github.io/blog/cv_links/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/blog/cv_courses/</guid>
-      <description>In process</description>
+      <guid>https://bamasa.github.io/blog/cv_links/</guid>
+      <description>My favorite blogs:
+ https://lilianweng.github.io/  </description>
     </item>
     
     <item>
-      <title>Computer vision startups</title>
-      <link>https://bamasa.github.io/blog/cv_startups/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <title>NFT Images Generator</title>
+      <link>https://bamasa.github.io/projects/img_gen/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/blog/cv_startups/</guid>
-      <description>In process</description>
+      <guid>https://bamasa.github.io/projects/img_gen/</guid>
+      <description>&amp;ndash; The project is in progress. &amp;ndash;</description>
     </item>
     
     <item>
@@ -42,6 +43,17 @@
       <guid>https://bamasa.github.io/teaching/ml_ids/</guid>
       <description>&amp;ndash; The project is in progress. &amp;ndash;
 TL; DR Machine Intelligence, interdisciplinary perspective.</description>
+    </item>
+    
+    <item>
+      <title>Atrtigitl</title>
+      <link>https://bamasa.github.io/log/atrtigitl/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/atrtigitl/</guid>
+      <description>https://artigitl.com/
+06.11.20 &amp;ndash; 29.01.21
+TODO</description>
     </item>
     
     <item>

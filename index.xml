@@ -6,32 +6,53 @@
     <description>Recent content on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Computer vision books</title>
-      <link>https://bamasa.github.io/blog/cv_books/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <title>3D Computer Vision for teeth</title>
+      <link>https://bamasa.github.io/projects/cv_teeth/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/blog/cv_books/</guid>
-      <description>In process</description>
+      <guid>https://bamasa.github.io/projects/cv_teeth/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Computer vision courses</title>
-      <link>https://bamasa.github.io/blog/cv_courses/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Space Navigator, update</title>
+      <link>https://bamasa.github.io/projects/spacenav_2/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/blog/cv_courses/</guid>
-      <description>In process</description>
+      <guid>https://bamasa.github.io/projects/spacenav_2/</guid>
+      <description>TODO</description>
     </item>
     
     <item>
-      <title>Computer vision startups</title>
-      <link>https://bamasa.github.io/blog/cv_startups/</link>
+      <title>Useful stuff</title>
+      <link>https://bamasa.github.io/blog/useful/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/blog/useful/</guid>
+      <description>git git fetch git rebase git checkout git merge git pull tmux terminal:
+tmux # start tmux session tmux ls # list sessions tmux a -t &amp;lt;session name&amp;gt; # attach to the session called &amp;lt;session name&amp;gt; tmux kill-session -t &amp;lt;session name&amp;gt; # kill the session called &amp;lt;session name&amp;gt; pkill -f tmux # just kill all tmux windows commands:
+ CTRL+b c Create a new window CTRL+b n Switch to the previous window CTRL+b p Switch to the next window CTRL+b w Choose window from a list CTRL+b , Rename the current window CTRL+b &amp;amp; Kill the current window  panes commands:</description>
+    </item>
+    
+    <item>
+      <title>Computer vision links</title>
+      <link>https://bamasa.github.io/blog/cv_links/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/blog/cv_startups/</guid>
-      <description>In process</description>
+      <guid>https://bamasa.github.io/blog/cv_links/</guid>
+      <description>My favorite blogs:
+ https://lilianweng.github.io/  </description>
+    </item>
+    
+    <item>
+      <title>NFT Images Generator</title>
+      <link>https://bamasa.github.io/projects/img_gen/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/img_gen/</guid>
+      <description>&amp;ndash; The project is in progress. &amp;ndash;</description>
     </item>
     
     <item>
@@ -58,10 +79,36 @@ TL; DR Digital Twin of the Data Storage System based on Generative Adversarial N
     
     <item>
       <title>Marketing Robot</title>
-      <link>https://bamasa.github.io/projects/rl_market/</link>
+      <link>https://bamasa.github.io/own_projects/cv_3d/</link>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/projects/rl_market/</guid>
+      <guid>https://bamasa.github.io/own_projects/cv_3d/</guid>
+      <description>TL; DR Outsourcing R&amp;amp;D project for the Retentioneering company – Reinforcement Learning for automatic budget management for advertising campaigns. We managed to create a quality MVP. NDA.
+  Yandex Direct img.
+  My team   Me.
+    Olga – MEPhI graduate, postgraduate student of the Institute of Theoretical and Experimental Physics (ITEP) in elementary particle physics, machine learning specialist, programmer..
+  My role  Searching for a client Management Programming (python)  Environment Reinforcement Learning Simulator &amp;hellip;   Statistical analysis of approaches, selection and analysis of metrics   </description>
+    </item>
+    
+    <item>
+      <title>Marketing Robot</title>
+      <link>https://bamasa.github.io/own_projects/one_script_models/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/own_projects/one_script_models/</guid>
+      <description>TL; DR Outsourcing R&amp;amp;D project for the Retentioneering company – Reinforcement Learning for automatic budget management for advertising campaigns. We managed to create a quality MVP. NDA.
+  Yandex Direct img.
+  My team   Me.
+    Olga – MEPhI graduate, postgraduate student of the Institute of Theoretical and Experimental Physics (ITEP) in elementary particle physics, machine learning specialist, programmer..
+  My role  Searching for a client Management Programming (python)  Environment Reinforcement Learning Simulator &amp;hellip;   Statistical analysis of approaches, selection and analysis of metrics   </description>
+    </item>
+    
+    <item>
+      <title>Marketing Robot</title>
+      <link>https://bamasa.github.io/own_projects/rl_market/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/own_projects/rl_market/</guid>
       <description>TL; DR Outsourcing R&amp;amp;D project for the Retentioneering company – Reinforcement Learning for automatic budget management for advertising campaigns. We managed to create a quality MVP. NDA.
   Yandex Direct img.
   My team   Me.
@@ -88,6 +135,17 @@ You have no means of communication with your ally other than creation. How to be
       <guid>https://bamasa.github.io/teaching/ml_ids/</guid>
       <description>&amp;ndash; The project is in progress. &amp;ndash;
 TL; DR Machine Intelligence, interdisciplinary perspective.</description>
+    </item>
+    
+    <item>
+      <title>Atrtigitl</title>
+      <link>https://bamasa.github.io/log/atrtigitl/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/atrtigitl/</guid>
+      <description>https://artigitl.com/
+06.11.20 &amp;ndash; 29.01.21
+TODO</description>
     </item>
     
     <item>
@@ -134,7 +192,35 @@ Stage of the project:
     </item>
     
     <item>
-      <title>SMILES – The Summer School of Machine Learning at Skoltech</title>
+      <title>Game Junction</title>
+      <link>https://bamasa.github.io/log/game_junction/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/game_junction/</guid>
+      <description>https://khodynka.art/page20465450.html
+  </description>
+    </item>
+    
+    <item>
+      <title>Generative Models School</title>
+      <link>https://bamasa.github.io/log/gen_models_schools/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/gen_models_schools/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>IDAO</title>
+      <link>https://bamasa.github.io/log/idao/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/idao/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>SMILES – The Summer School of ML at Skoltech</title>
       <link>https://bamasa.github.io/log/smiles/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
@@ -142,6 +228,33 @@ Stage of the project:
       <description>Participated in the international summer school SMILES – The Summer School of Machine Learning at Skoltech from 16 to 21 August 2020. In the poster session, I talked about two &amp;ldquo;AI &amp;amp; Satellite Problems&amp;rdquo; projects that we were engaged at the Laboratory of Methods for Big Data Analysis  at the National Research University Higher School of Economics.
 Below is the submitted poster and the certificate provide.
  Poster PDF Certificate PDF    Post about Data Analysis for Satellite Tracking</description>
+    </item>
+    
+    <item>
+      <title>Space conf 1</title>
+      <link>https://bamasa.github.io/log/space_conf_1/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/space_conf_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space conf 2</title>
+      <link>https://bamasa.github.io/log/space_conf_2/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/space_conf_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTS RL hakaton</title>
+      <link>https://bamasa.github.io/log/rl_mts_hackathon/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/rl_mts_hackathon/</guid>
+      <description>TODO</description>
     </item>
     
     <item>
@@ -181,8 +294,8 @@ SPIN-RSCI: 2199-9522
 One script models – [in progress] a zoo of short implementations of Computer Vision models, 2022.
 Marketing Robot – Reinforcement Learning for automatic budget management, 2021.
 Projects more details 3D Computer Vision for teeth – full time job, 2021-2022.
-NFT Images Generator – generation and styling of images according to the user&amp;rsquo;s description, 2022.
-Storage Digital Twin – [in progress] Digital Twin of the Data Storage System based on GANs, 2021-2022.</description>
+Space Navigator 2 – a Tool for the Optimization of Collision Avoidance Maneuvers, 2022.
+NFT Images Generator – [in progress] generation and styling of images according to the user&amp;rsquo;s description, 2022.</description>
     </item>
     
     <item>
