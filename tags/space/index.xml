@@ -39,16 +39,7 @@ Stage of the project:
     </item>
     
     <item>
-      <title>IDAO</title>
-      <link>https://bamasa.github.io/log/idao/</link>
-      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/log/idao/</guid>
-      <description>TODO</description>
-    </item>
-    
-    <item>
-      <title>SMILES – The Summer School of ML at Skoltech</title>
+      <title>Speech: SMILES (ML school at Skoltech)</title>
       <link>https://bamasa.github.io/log/smiles/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
@@ -59,21 +50,30 @@ Below is the submitted poster and the certificate provide.
     </item>
     
     <item>
-      <title>Space conf 1</title>
-      <link>https://bamasa.github.io/log/space_conf_1/</link>
-      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Task creation: IDAO (HSE University ML Olympiad)</title>
+      <link>https://bamasa.github.io/log/idao/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/log/space_conf_1/</guid>
-      <description></description>
+      <guid>https://bamasa.github.io/log/idao/</guid>
+      <description>TODO</description>
     </item>
     
     <item>
-      <title>Space conf 2</title>
+      <title>Conference: Space debris</title>
       <link>https://bamasa.github.io/log/space_conf_2/</link>
-      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/log/space_conf_2/</guid>
-      <description></description>
+      <description>&amp;ldquo;Space debris: fundamental and practical aspects of the threat&amp;rdquo;, Russian conference with international participation (Moscow, Institute of Astronomy RAS and Space Research Institute RAS, 2019)</description>
+    </item>
+    
+    <item>
+      <title>Conference: IAA SciTech Forum</title>
+      <link>https://bamasa.github.io/log/space_conf_1/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/space_conf_1/</guid>
+      <description>“IAA SciTech Forum”, international conference (Moscow, RUDN, 2018)</description>
     </item>
     
   </channel>

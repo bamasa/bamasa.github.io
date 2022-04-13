@@ -17,6 +17,16 @@
     </item>
     
     <item>
+      <title>Art Exhibition: Game Junction</title>
+      <link>https://bamasa.github.io/log/game_junction/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/game_junction/</guid>
+      <description>https://khodynka.art/page20465450.html
+  </description>
+    </item>
+    
+    <item>
       <title>Poker Robot</title>
       <link>https://bamasa.github.io/projects/rl_poker/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
@@ -25,32 +35,6 @@
       <description>TL; DR Researching and applying the Reinforcement Learning approach to no-limit Texas poker.
   Fragment of one of the experiments.
    My role  Application of existing models Implementation of the pipeline of experiments and comparison of models Development of architectural features of the poker environment experiments Experiments  </description>
-    </item>
-    
-    <item>
-      <title>Marketing Robot</title>
-      <link>https://bamasa.github.io/own_projects/cv_3d/</link>
-      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/own_projects/cv_3d/</guid>
-      <description>TL; DR Outsourcing R&amp;amp;D project for the Retentioneering company – Reinforcement Learning for automatic budget management for advertising campaigns. We managed to create a quality MVP. NDA.
-  Yandex Direct img.
-  My team   Me.
-    Olga – MEPhI graduate, postgraduate student of the Institute of Theoretical and Experimental Physics (ITEP) in elementary particle physics, machine learning specialist, programmer..
-  My role  Searching for a client Management Programming (python)  Environment Reinforcement Learning Simulator &amp;hellip;   Statistical analysis of approaches, selection and analysis of metrics   </description>
-    </item>
-    
-    <item>
-      <title>Marketing Robot</title>
-      <link>https://bamasa.github.io/own_projects/one_script_models/</link>
-      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/own_projects/one_script_models/</guid>
-      <description>TL; DR Outsourcing R&amp;amp;D project for the Retentioneering company – Reinforcement Learning for automatic budget management for advertising campaigns. We managed to create a quality MVP. NDA.
-  Yandex Direct img.
-  My team   Me.
-    Olga – MEPhI graduate, postgraduate student of the Institute of Theoretical and Experimental Physics (ITEP) in elementary particle physics, machine learning specialist, programmer..
-  My role  Searching for a client Management Programming (python)  Environment Reinforcement Learning Simulator &amp;hellip;   Statistical analysis of approaches, selection and analysis of metrics   </description>
     </item>
     
     <item>
@@ -89,22 +73,12 @@ Stage of the project:
     </item>
     
     <item>
-      <title>Game Junction</title>
-      <link>https://bamasa.github.io/log/game_junction/</link>
-      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/log/game_junction/</guid>
-      <description>https://khodynka.art/page20465450.html
-  </description>
-    </item>
-    
-    <item>
-      <title>MTS RL hakaton</title>
+      <title>Hackathon: RL Hackathon, A!ONE</title>
       <link>https://bamasa.github.io/log/rl_mts_hackathon/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/log/rl_mts_hackathon/</guid>
-      <description>TODO</description>
+      <description>I participated in the Reinforcement Learning hackathon from MTS at the A!ONE conference. It was required to develop an agent for a slightly modified CarRacing-v0 OpenAI GYM environment.</description>
     </item>
     
   </channel>

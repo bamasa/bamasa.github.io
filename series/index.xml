@@ -6,11 +6,11 @@
     <description>Recent content in Series on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D</title>
       <link>https://bamasa.github.io/series/3d/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/3d/</guid>
       <description></description>
@@ -19,9 +19,27 @@
     <item>
       <title>computer vision</title>
       <link>https://bamasa.github.io/series/computer-vision/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>links</title>
+      <link>https://bamasa.github.io/series/links/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stuff</title>
+      <link>https://bamasa.github.io/series/stuff/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/stuff/</guid>
       <description></description>
     </item>
     
@@ -71,20 +89,20 @@
     </item>
     
     <item>
-      <title>stuff</title>
-      <link>https://bamasa.github.io/series/stuff/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <title>art</title>
+      <link>https://bamasa.github.io/series/art/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/series/stuff/</guid>
+      <guid>https://bamasa.github.io/series/art/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>links</title>
-      <link>https://bamasa.github.io/series/links/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <title>exhibition</title>
+      <link>https://bamasa.github.io/series/exhibition/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/series/links/</guid>
+      <guid>https://bamasa.github.io/series/exhibition/</guid>
       <description></description>
     </item>
     
@@ -143,18 +161,9 @@
     </item>
     
     <item>
-      <title>art</title>
-      <link>https://bamasa.github.io/series/art/</link>
-      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/series/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>courses</title>
       <link>https://bamasa.github.io/series/courses/</link>
-      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/courses/</guid>
       <description></description>
@@ -179,24 +188,6 @@
     </item>
     
     <item>
-      <title>exhibition</title>
-      <link>https://bamasa.github.io/series/exhibition/</link>
-      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/series/exhibition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>generative models</title>
-      <link>https://bamasa.github.io/series/generative-models/</link>
-      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/series/generative-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Conferences</title>
       <link>https://bamasa.github.io/series/conferences/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
@@ -215,9 +206,18 @@
     </item>
     
     <item>
+      <title>generative models</title>
+      <link>https://bamasa.github.io/series/generative-models/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/generative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>hackathon</title>
       <link>https://bamasa.github.io/series/hackathon/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/hackathon/</guid>
       <description></description>
