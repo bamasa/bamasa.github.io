@@ -15,6 +15,7 @@
       <guid>https://bamasa.github.io/blog/runners/</guid>
       <description>&amp;ndash; the post is in process &amp;ndash;
 Comparison: https://neptune.ai/blog/model-training-libraries-pytorch-ecosystem
+!!! курс каталист и в ml ids его?? VAE https://github.com/catalyst-team/dl-course/tree/master/week-06
 Catalyst new api&amp;hellip;
 Runner Engine Callback Callback: a powerful abstraction that lets you customize your experiment run logic.
 Metric Logger Terminal catalyst-dl run -C train_config.yml Pytorch Lightning TODO</description>

@@ -42,6 +42,7 @@
       <guid>https://bamasa.github.io/blog/runners/</guid>
       <description>&amp;ndash; the post is in process &amp;ndash;
 Comparison: https://neptune.ai/blog/model-training-libraries-pytorch-ecosystem
+!!! курс каталист и в ml ids его?? VAE https://github.com/catalyst-team/dl-course/tree/master/week-06
 Catalyst new api&amp;hellip;
 Runner Engine Callback Callback: a powerful abstraction that lets you customize your experiment run logic.
 Metric Logger Terminal catalyst-dl run -C train_config.yml Pytorch Lightning TODO</description>
@@ -159,7 +160,9 @@ You have no means of communication with your ally other than creation. How to be
       
       <guid>https://bamasa.github.io/teaching/ml_ids/</guid>
       <description>&amp;ndash; The project is in progress. &amp;ndash;
-TL; DR Machine Intelligence, interdisciplinary perspective.</description>
+TL; DR Machine Intelligence, interdisciplinary perspective.
+Platform: https://en.pelican.study/
+ My role  Lectures and homeworks (python, pytorch-lightning) topics:  Deep Learning foundations: Convolutional Neural Network, BatchNorm, etc. Computer Vision foundations: Image Classification, Transfer Learning, etc. AutoEncoders Normalizing Flows Anomaly detection    </description>
     </item>
     
     <item>

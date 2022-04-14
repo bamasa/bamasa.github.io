@@ -69,7 +69,9 @@
       
       <guid>https://bamasa.github.io/teaching/ml_ids/</guid>
       <description>&amp;ndash; The project is in progress. &amp;ndash;
-TL; DR Machine Intelligence, interdisciplinary perspective.</description>
+TL; DR Machine Intelligence, interdisciplinary perspective.
+Platform: https://en.pelican.study/
+ My role  Lectures and homeworks (python, pytorch-lightning) topics:  Deep Learning foundations: Convolutional Neural Network, BatchNorm, etc. Computer Vision foundations: Image Classification, Transfer Learning, etc. AutoEncoders Normalizing Flows Anomaly detection    </description>
     </item>
     
     <item>
