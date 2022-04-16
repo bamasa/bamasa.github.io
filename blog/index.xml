@@ -43,6 +43,17 @@ tmux # start tmux session tmux ls # list sessions tmux a -t &amp;lt;session name
     </item>
     
     <item>
+      <title>Computer vision 3D stuff</title>
+      <link>https://bamasa.github.io/blog/cv_metrics/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/blog/cv_metrics/</guid>
+      <description>Mesh formats .obj
+etc
+Metrics chamfer distance</description>
+    </item>
+    
+    <item>
       <title>Computer vision links</title>
       <link>https://bamasa.github.io/blog/cv_links/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
