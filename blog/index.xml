@@ -6,28 +6,26 @@
     <description>Recent content in Blogs on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Computer vision startups</title>
+      <title>PyTorch Frameworks</title>
+      <link>https://bamasa.github.io/blog/runners/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/blog/runners/</guid>
+      <description>Catalyst new api&amp;hellip;
+Runner Engine Callback Callback: a powerful abstraction that lets you customize your experiment run logic.
+Metric Logger Terminal catalyst-dl run -C train_config.yml Pytorch Lightning TODO
+Links Comparison: 8 Creators and Core Contributors Talk About Their Model Training Libraries From PyTorch Ecosystem, January 17th, 2022</description>
+    </item>
+    
+    <item>
+      <title>Computer Vision Startups</title>
       <link>https://bamasa.github.io/blog/cv_startups/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/blog/cv_startups/</guid>
       <description>In process</description>
-    </item>
-    
-    <item>
-      <title>Pytorch ecosystems useful stuff</title>
-      <link>https://bamasa.github.io/blog/runners/</link>
-      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/blog/runners/</guid>
-      <description>&amp;ndash; the post is in process &amp;ndash;
-Comparison: https://neptune.ai/blog/model-training-libraries-pytorch-ecosystem
-!!! курс каталист и в ml ids его?? VAE https://github.com/catalyst-team/dl-course/tree/master/week-06
-Catalyst new api&amp;hellip;
-Runner Engine Callback Callback: a powerful abstraction that lets you customize your experiment run logic.
-Metric Logger Terminal catalyst-dl run -C train_config.yml Pytorch Lightning TODO</description>
     </item>
     
     <item>
