@@ -9,22 +9,23 @@
     <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/stuff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PyTorch Frameworks</title>
-      <link>https://bamasa.github.io/blog/runners/</link>
+      <link>https://bamasa.github.io/notes/runners/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/blog/runners/</guid>
-      <description>Catalyst new api&amp;hellip;
-Runner Engine Callback Callback: a powerful abstraction that lets you customize your experiment run logic.
-Metric Logger Terminal catalyst-dl run -C train_config.yml Pytorch Lightning TODO
-Links Comparison: 8 Creators and Core Contributors Talk About Their Model Training Libraries From PyTorch Ecosystem, January 17th, 2022</description>
+      <guid>https://bamasa.github.io/notes/runners/</guid>
+      <description>Catalyst API Runner Runner – the logic of your deep learning experiment
+ data model batch handling logic metrics monitoring systems.  Callback The Callback API repeats main for-loops in our train-loop abstraction:
+ on experiment start/end on batch start/end on stage start/end etc.  Metric The Metric API.
+Logger Logger for metrics, images, hyper-parameters, etc. Can be connected with comet-ml and tensorboard.
+Engine The Engine sets how to run:</description>
     </item>
     
     <item>
       <title>DL useful stuff</title>
-      <link>https://bamasa.github.io/blog/useful/</link>
+      <link>https://bamasa.github.io/notes/useful/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/blog/useful/</guid>
+      <guid>https://bamasa.github.io/notes/useful/</guid>
       <description>&amp;ndash; the post is in process &amp;ndash;
 git git fetch git rebase git checkout git merge git pull tmux terminal:
 tmux # start tmux session tmux ls # list sessions tmux a -t &amp;lt;session name&amp;gt; # attach to the session called &amp;lt;session name&amp;gt; tmux kill-session -t &amp;lt;session name&amp;gt; # kill the session called &amp;lt;session name&amp;gt; pkill -f tmux # just kill all tmux windows commands:
