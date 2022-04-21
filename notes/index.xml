@@ -49,7 +49,8 @@ tmux # start tmux session tmux ls # list sessions tmux a -t &amp;lt;session name
       <guid>https://bamasa.github.io/notes/cv_metrics/</guid>
       <description>Mesh formats .obj
 etc
-Metrics chamfer distance</description>
+Metrics chamfer distance cross entropy loss in PyTorch torch.nn.functional.cross_entropy(input, target, ignore_index=-100) input: predicted unnormalized scores
+target: predicted unnormalized scores</description>
     </item>
     
     <item>
