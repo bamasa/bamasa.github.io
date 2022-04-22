@@ -6,14 +6,17 @@
     <description>Recent content in space on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/space/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Space Navigator, update</title>
-      <link>https://bamasa.github.io/projects/spacenav_2/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Space Navigator</title>
+      <link>https://bamasa.github.io/projects/spacenav/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/projects/spacenav_2/</guid>
-      <description>TODO</description>
+      <guid>https://bamasa.github.io/projects/spacenav/</guid>
+      <description>TL; DR A system for calculating optimal collision avoidance maneuvers for satellites based on reinforcement learning.
+About We made Space Navigator - a system for automatically determining the probability of collision of space objects and calculating the most effective evasive maneuver using AI.
+Stage of the project:
+ Research Article &amp;ldquo;Space Navigator: a Tool for the Optimization of Collision Avoidance Maneuvers&amp;rdquo; (2020) MVP (2019) First place in the competition of projects of the Academy of Roscosmos (presentation slides, 2018) VR presentation (2018)  Demonstrations and reports:</description>
     </item>
     
     <item>
@@ -22,20 +25,10 @@
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/satpos/</guid>
-      <description>The project task – build a model that would predict the position of space objects using simulation data.
+      <description>TL; DR Improving the prediction of the position of a space object using machine learning.
+About The project task – build a model that would predict the position of space objects using simulation data.
   https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Orbits
-  About Predicting the position of satellites is one of the most important tasks in astronomy. For example, information on the exact position of satellites in orbit is necessary to avoid extremely dangerous satellite collisions. Each collision leads not only to satellites destruction, but also to occurrence of thousands of pieces of space debris pieces.</description>
-    </item>
-    
-    <item>
-      <title>Space Navigator</title>
-      <link>https://bamasa.github.io/projects/spacenav/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/projects/spacenav/</guid>
-      <description>TL; DR We made Space Navigator - a system for automatically determining the probability of collision of space objects and calculating the most effective evasive maneuver using AI.
-Stage of the project:
- Research Article &amp;ldquo;Space Navigator: a Tool for the Optimization of Collision Avoidance Maneuvers&amp;rdquo; (2020) MVP (2019) First place in the competition of projects of the Academy of Roscosmos (presentation slides, 2018) VR presentation (2018)  Demonstrations and reports:</description>
+  Predicting the position of satellites is one of the most important tasks in astronomy. For example, information on the exact position of satellites in orbit is necessary to avoid extremely dangerous satellite collisions.</description>
     </item>
     
     <item>
@@ -55,7 +48,8 @@ Below is the submitted poster and the certificate provide.
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/log/idao/</guid>
-      <description>TODO</description>
+      <description>TL; DR Preparing the task for the IDAO 2020 Data Analysis Olympiad based on the Satellite Positioning project.
+About This year the online task is coming from astronomy. It is focused on building a model that would predict the position of space objects using simulation data. The task was given by Russian Astronomical Science Center (ASC) and adopted for the Olympiad by the Laboratory of Methods for Big Data Analysis (LAMBDA, HSE University).</description>
     </item>
     
     <item>
@@ -64,7 +58,7 @@ Below is the submitted poster and the certificate provide.
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/log/space_conf_2/</guid>
-      <description>&amp;ldquo;Space debris: fundamental and practical aspects of the threat&amp;rdquo;, Russian conference with international participation (Moscow, Institute of Astronomy RAS and Space Research Institute RAS, 2019)</description>
+      <description>Participation in the conference &amp;ldquo;Space debris: fundamental and practical aspects of the threat&amp;rdquo; with the Space Navigator project. Moscow, Institute of Astronomy RAS and Space Research Institute RAS, 2019.</description>
     </item>
     
     <item>
@@ -73,7 +67,7 @@ Below is the submitted poster and the certificate provide.
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/log/space_conf_1/</guid>
-      <description>“IAA SciTech Forum”, international conference (Moscow, RUDN, 2018)</description>
+      <description>Participation in the international conference IAA SciTech Forum with the Space Navigator project. Moscow, RUDN, 2018.</description>
     </item>
     
   </channel>

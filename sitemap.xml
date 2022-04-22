@@ -28,6 +28,16 @@
   </url>
   
   <url>
+    <loc>https://bamasa.github.io/tags/generative-models/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/generative-models/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bamasa.github.io/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url>
@@ -78,6 +88,16 @@
   </url>
   
   <url>
+    <loc>https://bamasa.github.io/projects/cv_teeth/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/categories/adalisk/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bamasa.github.io/notes/cv_startups/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -98,83 +118,83 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/projects/cv_teeth/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/categories/adalisk/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bamasa.github.io/projects/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/categories/neo/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/projects/img_gen/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/tags/certificates/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/series/certificates/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/categories/hse-university/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/categories/laboratory-of-methods-for-big-data-analysis/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/tags/paper/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/series/paper/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/series/reinforcement-learning/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/tags/space/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/series/space/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/projects/spacenav_2/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/projects/spacenav/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/series/speech/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/tags/speech/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -220,26 +240,6 @@
   <url>
     <loc>https://bamasa.github.io/log/</loc>
     <lastmod>2021-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/gan/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/gan/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/categories/neo/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/projects/img_gen/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -388,11 +388,6 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/projects/spacenav/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bamasa.github.io/log/cv_course_otus/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
@@ -449,16 +444,6 @@
   
   <url>
     <loc>https://bamasa.github.io/log/gen_models_schools/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/generative-models/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/generative-models/</loc>
     <lastmod>2019-11-29T00:00:00+00:00</lastmod>
   </url>
   

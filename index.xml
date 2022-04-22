@@ -13,7 +13,7 @@
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/own_projects/meta_deity/</guid>
-      <description>&amp;ndash; the project is in process &amp;ndash;</description>
+      <description>&amp;ndash; the project is in progress &amp;ndash;</description>
     </item>
     
     <item>
@@ -27,6 +27,16 @@
  on experiment start/end on batch start/end on stage start/end etc.  Metric The Metric API.
 Logger Logger for metrics, images, hyper-parameters, etc. Can be connected with comet-ml and tensorboard.
 Engine The Engine sets how to run:</description>
+    </item>
+    
+    <item>
+      <title>3D Computer Vision for teeth</title>
+      <link>https://bamasa.github.io/projects/cv_teeth/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/cv_teeth/</guid>
+      <description>Full-time job as a lead machine learning engineer in the computer vision field at Adalisk.
+ </description>
     </item>
     
     <item>
@@ -48,21 +58,25 @@ Engine The Engine sets how to run:</description>
     </item>
     
     <item>
-      <title>3D Computer Vision for teeth</title>
-      <link>https://bamasa.github.io/projects/cv_teeth/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <title>NFT Images Generator</title>
+      <link>https://bamasa.github.io/projects/img_gen/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/projects/cv_teeth/</guid>
-      <description></description>
+      <guid>https://bamasa.github.io/projects/img_gen/</guid>
+      <description>&amp;ndash; the project is in progress &amp;ndash;
+ </description>
     </item>
     
     <item>
-      <title>Space Navigator, update</title>
-      <link>https://bamasa.github.io/projects/spacenav_2/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Space Navigator</title>
+      <link>https://bamasa.github.io/projects/spacenav/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/projects/spacenav_2/</guid>
-      <description>TODO</description>
+      <guid>https://bamasa.github.io/projects/spacenav/</guid>
+      <description>TL; DR A system for calculating optimal collision avoidance maneuvers for satellites based on reinforcement learning.
+About We made Space Navigator - a system for automatically determining the probability of collision of space objects and calculating the most effective evasive maneuver using AI.
+Stage of the project:
+ Research Article &amp;ldquo;Space Navigator: a Tool for the Optimization of Collision Avoidance Maneuvers&amp;rdquo; (2020) MVP (2019) First place in the competition of projects of the Academy of Roscosmos (presentation slides, 2018) VR presentation (2018)  Demonstrations and reports:</description>
     </item>
     
     <item>
@@ -85,8 +99,9 @@ tmux # start tmux session tmux ls # list sessions tmux a -t &amp;lt;session name
       <guid>https://bamasa.github.io/notes/cv_metrics/</guid>
       <description>Mesh formats .obj
 etc
-Metrics chamfer distance cross entropy loss in PyTorch torch.nn.functional.cross_entropy(input, target, ignore_index=-100) input: predicted unnormalized scores
-target: predicted unnormalized scores</description>
+Metrics chamfer distance cross entropy loss in PyTorch torch.nn.functional.cross_entropy(input, target) input:
+ predicted unnormalized scores shape: (C), or (N, C), or (N, C, d1, d2, &amp;hellip;, dk) with K&amp;gt;=1 in case of K-dimentioanl loss.  target:
+ ground truth class indices or class probabilities shape: (), or (N), or (N, d1, d2, &amp;hellip;, dk) with K&amp;gt;=1 in case of K-dimentioanl loss.  where C – number of classes; N – batch size.</description>
     </item>
     
     <item>
@@ -105,17 +120,9 @@ target: predicted unnormalized scores</description>
       <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/log/game_junction/</guid>
-      <description>https://khodynka.art/page20465450.html
-  </description>
-    </item>
-    
-    <item>
-      <title>NFT Images Generator</title>
-      <link>https://bamasa.github.io/projects/img_gen/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/projects/img_gen/</guid>
-      <description>&amp;ndash; The project is in progress. &amp;ndash;</description>
+      <description>Exhibition &amp;ldquo;Game Junction&amp;rdquo; exhibition in the gallery Khodynka with For All Exists Infinity project.
+Some details Read more here.
+           </description>
     </item>
     
     <item>
@@ -126,7 +133,7 @@ target: predicted unnormalized scores</description>
       <guid>https://bamasa.github.io/projects/rl_poker/</guid>
       <description>TL; DR Researching and applying the Reinforcement Learning approach to no-limit Texas poker.
   Fragment of one of the experiments.
-   My role  Application of existing models Implementation of the pipeline of experiments and comparison of models Development of architectural features of the poker environment experiments Experiments  </description>
+  My role  Application of existing models Implementation of the pipeline of experiments and comparison of models Development of architectural features of the poker environment experiments Experiments   </description>
     </item>
     
     <item>
@@ -135,9 +142,10 @@ target: predicted unnormalized scores</description>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/digital_twin/</guid>
-      <description>&amp;ndash; The project is in progress. &amp;ndash;
-TL; DR Digital Twin of the Data Storage System based on Generative Adversarial Networks.
-  </description>
+      <description>&amp;ndash; the project is in progress &amp;ndash;
+TL; DR Digital Twin of the Data Storage System based on conditional generative models.
+  Photo by benjamin lehman on Unsplash
+  My role  Generative models research   </description>
     </item>
     
     <item>
@@ -171,7 +179,7 @@ You have no means of communication with your ally other than creation. How to be
       
       <guid>https://bamasa.github.io/teaching/ml_ids/</guid>
       <description>TL; DR A course on machine learning for scientists &amp;ldquo;Machine Intelligence, interdisciplinary perspective&amp;rdquo;. Platform: https://en.pelican.study/.
-My role  Lectures and homeworks (python, pytorch-lightning) topics:  Deep Learning foundations: Convolutional Neural Network, BatchNorm, etc. Computer Vision foundations: Image Classification, Transfer Learning, etc. AutoEncoders Normalizing Flows Anomaly detection Time series    </description>
+My role  Lectures and homeworks (python, pytorch-lightning) topics:  Deep Learning foundations: Convolutional Neural Network, BatchNorm, etc. Computer Vision foundations: Image Classification, Transfer Learning, etc. AutoEncoders Normalizing Flows Anomaly detection Time series     </description>
     </item>
     
     <item>
@@ -180,9 +188,9 @@ My role  Lectures and homeworks (python, pytorch-lightning) topics:  Deep Learni
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/log/atrtigitl/</guid>
-      <description>https://artigitl.com/
-06.11.20 &amp;ndash; 29.01.21
-TODO</description>
+      <description>TL; DR Online Digital Art School Atrtigitl, 06.11.20 – 29.01.21.
+About Artigit&amp;rsquo;l online residency is aimed at a wide spectrum of artists as well as those individuals working within the innovative digital realm. Today the art and digital worlds are inherently intertwined and are rapidly expanding through a variety of formats that encompass a diverse range of technologies and innovations.
+The ubiquitous use of personal cameras and the daily generation of video content has led to a gigantic shift within the digital visual landscape.</description>
     </item>
     
     <item>
@@ -202,20 +210,10 @@ Also, development and testing researched methods for improving Digital Twin of S
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/satpos/</guid>
-      <description>The project task – build a model that would predict the position of space objects using simulation data.
+      <description>TL; DR Improving the prediction of the position of a space object using machine learning.
+About The project task – build a model that would predict the position of space objects using simulation data.
   https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Orbits
-  About Predicting the position of satellites is one of the most important tasks in astronomy. For example, information on the exact position of satellites in orbit is necessary to avoid extremely dangerous satellite collisions. Each collision leads not only to satellites destruction, but also to occurrence of thousands of pieces of space debris pieces.</description>
-    </item>
-    
-    <item>
-      <title>Space Navigator</title>
-      <link>https://bamasa.github.io/projects/spacenav/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/projects/spacenav/</guid>
-      <description>TL; DR We made Space Navigator - a system for automatically determining the probability of collision of space objects and calculating the most effective evasive maneuver using AI.
-Stage of the project:
- Research Article &amp;ldquo;Space Navigator: a Tool for the Optimization of Collision Avoidance Maneuvers&amp;rdquo; (2020) MVP (2019) First place in the competition of projects of the Academy of Roscosmos (presentation slides, 2018) VR presentation (2018)  Demonstrations and reports:</description>
+  Predicting the position of satellites is one of the most important tasks in astronomy. For example, information on the exact position of satellites in orbit is necessary to avoid extremely dangerous satellite collisions.</description>
     </item>
     
     <item>
@@ -245,7 +243,8 @@ Below is the submitted poster and the certificate provide.
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/log/idao/</guid>
-      <description>TODO</description>
+      <description>TL; DR Preparing the task for the IDAO 2020 Data Analysis Olympiad based on the Satellite Positioning project.
+About This year the online task is coming from astronomy. It is focused on building a model that would predict the position of space objects using simulation data. The task was given by Russian Astronomical Science Center (ASC) and adopted for the Olympiad by the Laboratory of Methods for Big Data Analysis (LAMBDA, HSE University).</description>
     </item>
     
     <item>
@@ -263,7 +262,7 @@ Below is the submitted poster and the certificate provide.
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/log/space_conf_2/</guid>
-      <description>&amp;ldquo;Space debris: fundamental and practical aspects of the threat&amp;rdquo;, Russian conference with international participation (Moscow, Institute of Astronomy RAS and Space Research Institute RAS, 2019)</description>
+      <description>Participation in the conference &amp;ldquo;Space debris: fundamental and practical aspects of the threat&amp;rdquo; with the Space Navigator project. Moscow, Institute of Astronomy RAS and Space Research Institute RAS, 2019.</description>
     </item>
     
     <item>
@@ -281,7 +280,7 @@ Below is the submitted poster and the certificate provide.
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/log/space_conf_1/</guid>
-      <description>“IAA SciTech Forum”, international conference (Moscow, RUDN, 2018)</description>
+      <description>Participation in the international conference IAA SciTech Forum with the Space Navigator project. Moscow, RUDN, 2018.</description>
     </item>
     
     <item>
@@ -291,9 +290,8 @@ Below is the submitted poster and the certificate provide.
       
       <guid>https://bamasa.github.io/about/</guid>
       <description>Hi, my name is Leonid Gremyachikh.
-I am PhD student and Research Assistant at the Faculty of Computer Science 💻 in the HSE University (Moscow, Russia 🇷🇺), as well as a Machine Learning Engineer at Adalisk. My research interests include Deep Learning, Computer Vision and Reinforcement Learning.
-If you have questions or just want to get in touch, then feel free to contact me an email at lgremyachikh@gmail.com.
-Blogs Computer Vision blog – blog/</description>
+I am PhD student and Research Assistant at the Faculty of Computer Science 💻 in the HSE University (Moscow, Russia 🇷🇺), as well as a lead Machine Learning engineer in the Computer Vision field at Adalisk. My research interests include Deep Learning, Computer Vision and Reinforcement Learning.
+If you have questions or just want to get in touch, then feel free to contact me an email at lgremyachikh@gmail.</description>
     </item>
     
     <item>
@@ -320,8 +318,8 @@ SPIN-RSCI: 2199-9522
       <description>Own projects more details Meta-Deity – [in progress], 2022.
 One script models – [in progress] a zoo of short implementations of Computer Vision models, 2022.
 Marketing Robot – Reinforcement Learning for automatic budget management, 2021.
-Projects more details 3D Computer Vision for teeth – full time job, 2021-2022.
-Space Navigator 2 – a Tool for the Optimization of Collision Avoidance Maneuvers, 2022.
+Projects more details 3D Computer Vision for teeth – full time job, 2021-current time.
+Space Navigator – a Tool for the Optimization of Collision Avoidance Maneuvers, 2018-2019, 2022.
 NFT Images Generator – [in progress] generation and styling of images according to the user&amp;rsquo;s description, 2022.</description>
     </item>
     

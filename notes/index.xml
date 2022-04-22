@@ -49,8 +49,9 @@ tmux # start tmux session tmux ls # list sessions tmux a -t &amp;lt;session name
       <guid>https://bamasa.github.io/notes/cv_metrics/</guid>
       <description>Mesh formats .obj
 etc
-Metrics chamfer distance cross entropy loss in PyTorch torch.nn.functional.cross_entropy(input, target, ignore_index=-100) input: predicted unnormalized scores
-target: predicted unnormalized scores</description>
+Metrics chamfer distance cross entropy loss in PyTorch torch.nn.functional.cross_entropy(input, target) input:
+ predicted unnormalized scores shape: (C), or (N, C), or (N, C, d1, d2, &amp;hellip;, dk) with K&amp;gt;=1 in case of K-dimentioanl loss.  target:
+ ground truth class indices or class probabilities shape: (), or (N), or (N, d1, d2, &amp;hellip;, dk) with K&amp;gt;=1 in case of K-dimentioanl loss.  where C – number of classes; N – batch size.</description>
     </item>
     
     <item>

@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>generative models</title>
+      <link>https://bamasa.github.io/series/generative-models/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/generative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>stuff</title>
       <link>https://bamasa.github.io/series/stuff/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
@@ -46,7 +55,7 @@
     <item>
       <title>certificates</title>
       <link>https://bamasa.github.io/series/certificates/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/certificates/</guid>
       <description></description>
@@ -55,7 +64,7 @@
     <item>
       <title>paper</title>
       <link>https://bamasa.github.io/series/paper/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/paper/</guid>
       <description></description>
@@ -64,7 +73,7 @@
     <item>
       <title>reinforcement learning</title>
       <link>https://bamasa.github.io/series/reinforcement-learning/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/reinforcement-learning/</guid>
       <description></description>
@@ -73,7 +82,7 @@
     <item>
       <title>space</title>
       <link>https://bamasa.github.io/series/space/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/space/</guid>
       <description></description>
@@ -82,7 +91,7 @@
     <item>
       <title>Speech</title>
       <link>https://bamasa.github.io/series/speech/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/speech/</guid>
       <description></description>
@@ -103,15 +112,6 @@
       <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/exhibition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GAN</title>
-      <link>https://bamasa.github.io/series/gan/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/series/gan/</guid>
       <description></description>
     </item>
     
@@ -202,15 +202,6 @@
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/schools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>generative models</title>
-      <link>https://bamasa.github.io/series/generative-models/</link>
-      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/series/generative-models/</guid>
       <description></description>
     </item>
     

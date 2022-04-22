@@ -13,7 +13,17 @@
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/own_projects/meta_deity/</guid>
-      <description>&amp;ndash; the project is in process &amp;ndash;</description>
+      <description>&amp;ndash; the project is in progress &amp;ndash;</description>
+    </item>
+    
+    <item>
+      <title>3D Computer Vision for teeth</title>
+      <link>https://bamasa.github.io/projects/cv_teeth/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/cv_teeth/</guid>
+      <description>Full-time job as a lead machine learning engineer in the computer vision field at Adalisk.
+ </description>
     </item>
     
     <item>
@@ -35,12 +45,13 @@
     </item>
     
     <item>
-      <title>3D Computer Vision for teeth</title>
-      <link>https://bamasa.github.io/projects/cv_teeth/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <title>NFT Images Generator</title>
+      <link>https://bamasa.github.io/projects/img_gen/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/projects/cv_teeth/</guid>
-      <description></description>
+      <guid>https://bamasa.github.io/projects/img_gen/</guid>
+      <description>&amp;ndash; the project is in progress &amp;ndash;
+ </description>
     </item>
     
     <item>
@@ -51,8 +62,9 @@
       <guid>https://bamasa.github.io/notes/cv_metrics/</guid>
       <description>Mesh formats .obj
 etc
-Metrics chamfer distance cross entropy loss in PyTorch torch.nn.functional.cross_entropy(input, target, ignore_index=-100) input: predicted unnormalized scores
-target: predicted unnormalized scores</description>
+Metrics chamfer distance cross entropy loss in PyTorch torch.nn.functional.cross_entropy(input, target) input:
+ predicted unnormalized scores shape: (C), or (N, C), or (N, C, d1, d2, &amp;hellip;, dk) with K&amp;gt;=1 in case of K-dimentioanl loss.  target:
+ ground truth class indices or class probabilities shape: (), or (N), or (N, d1, d2, &amp;hellip;, dk) with K&amp;gt;=1 in case of K-dimentioanl loss.  where C – number of classes; N – batch size.</description>
     </item>
     
     <item>
@@ -66,22 +78,13 @@ target: predicted unnormalized scores</description>
     </item>
     
     <item>
-      <title>NFT Images Generator</title>
-      <link>https://bamasa.github.io/projects/img_gen/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/projects/img_gen/</guid>
-      <description>&amp;ndash; The project is in progress. &amp;ndash;</description>
-    </item>
-    
-    <item>
       <title>ML-IDS</title>
       <link>https://bamasa.github.io/teaching/ml_ids/</link>
       <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/teaching/ml_ids/</guid>
       <description>TL; DR A course on machine learning for scientists &amp;ldquo;Machine Intelligence, interdisciplinary perspective&amp;rdquo;. Platform: https://en.pelican.study/.
-My role  Lectures and homeworks (python, pytorch-lightning) topics:  Deep Learning foundations: Convolutional Neural Network, BatchNorm, etc. Computer Vision foundations: Image Classification, Transfer Learning, etc. AutoEncoders Normalizing Flows Anomaly detection Time series    </description>
+My role  Lectures and homeworks (python, pytorch-lightning) topics:  Deep Learning foundations: Convolutional Neural Network, BatchNorm, etc. Computer Vision foundations: Image Classification, Transfer Learning, etc. AutoEncoders Normalizing Flows Anomaly detection Time series     </description>
     </item>
     
     <item>
@@ -90,9 +93,9 @@ My role  Lectures and homeworks (python, pytorch-lightning) topics:  Deep Learni
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/log/atrtigitl/</guid>
-      <description>https://artigitl.com/
-06.11.20 &amp;ndash; 29.01.21
-TODO</description>
+      <description>TL; DR Online Digital Art School Atrtigitl, 06.11.20 – 29.01.21.
+About Artigit&amp;rsquo;l online residency is aimed at a wide spectrum of artists as well as those individuals working within the innovative digital realm. Today the art and digital worlds are inherently intertwined and are rapidly expanding through a variety of formats that encompass a diverse range of technologies and innovations.
+The ubiquitous use of personal cameras and the daily generation of video content has led to a gigantic shift within the digital visual landscape.</description>
     </item>
     
     <item>
