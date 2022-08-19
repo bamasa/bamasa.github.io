@@ -6,7 +6,26 @@
     <description>Recent content on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>School: summer school on entrepreneurship (Faculty of Computer Science, HSE University)</title>
+      <link>https://bamasa.github.io/log/summer_bus_hse/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/summer_bus_hse/</guid>
+      <description>&amp;ndash; the school is in progress &amp;ndash;
+https://cs.hse.ru/entrepreneurss/#prog</description>
+    </item>
+    
+    <item>
+      <title>Logistics Forecaster</title>
+      <link>https://bamasa.github.io/own_projects/logistics/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/own_projects/logistics/</guid>
+      <description>&amp;ndash; the project is in progress &amp;ndash;</description>
+    </item>
+    
     <item>
       <title>Meta-Deity</title>
       <link>https://bamasa.github.io/own_projects/meta_deity/</link>
@@ -63,7 +82,7 @@ Engine The Engine sets how to run:</description>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/img_gen/</guid>
-      <description>&amp;ndash; the project is in progress &amp;ndash;
+      <description>&amp;ndash; TODO: description and examples. &amp;ndash;
  </description>
     </item>
     
@@ -77,6 +96,20 @@ Engine The Engine sets how to run:</description>
 About We made Space Navigator - a system for automatically determining the probability of collision of space objects and calculating the most effective evasive maneuver using AI.
 Stage of the project:
  Research Article &amp;ldquo;Space Navigator: a Tool for the Optimization of Collision Avoidance Maneuvers&amp;rdquo; (2020) MVP (2019) First place in the competition of projects of the Academy of Roscosmos (presentation slides, 2018) VR presentation (2018)  Demonstrations and reports:</description>
+    </item>
+    
+    <item>
+      <title>Segmentation models</title>
+      <link>https://bamasa.github.io/notes/segm_models/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/notes/segm_models/</guid>
+      <description>TL; DR Сегментация это
+Если надо сделать то берешь последние модели:
+ maskrcnn (такие плюсы такие минусы) &amp;hellip; (такие плюсы такие минусы)  Definitions Semantic segmentation – segment category, like car.
+Instance segmentation – segment individual instances, like Toyota Camry and Skoda Octavia.
+Panoptic Segmentation –
+Backbone – the feature extractor network. Then these features are upsampled by a simple decoder module of DeepLab models to generate segmented masks. (DeepLab term)</description>
     </item>
     
     <item>
@@ -115,6 +148,28 @@ Metrics chamfer distance cross entropy loss in PyTorch torch.nn.functional.cross
     </item>
     
     <item>
+      <title>CV</title>
+      <link>https://bamasa.github.io/notes/cv_stuff/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/notes/cv_stuff/</guid>
+      <description>TODO:
+ основные модели и задачи основные статьи мои статьи статью яндекса  Модели крч надо заботать ML-IDS и про модели почитать
+доп модели
+  diffusion models
+  метрики
+  слои
+  повторить как оптимизация идет &amp;ndash; sgd и тп
+  attention
+  transformers
+  dalle, dalle2, imgen
+  пару любимых статей
+  как сейчас решается imgnet
+  трансформеры
+  attention</description>
+    </item>
+    
+    <item>
       <title>Art Exhibition: Game Junction</title>
       <link>https://bamasa.github.io/log/game_junction/</link>
       <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
@@ -142,8 +197,7 @@ Some details Read more here.
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/digital_twin/</guid>
-      <description>&amp;ndash; the project is in progress &amp;ndash;
-TL; DR Digital Twin of the Data Storage System based on conditional generative models.
+      <description>TL; DR Digital Twin of the Data Storage System based on conditional generative models.
   Photo by benjamin lehman on Unsplash
   My role  Generative models research   </description>
     </item>
@@ -315,12 +369,11 @@ SPIN-RSCI: 2199-9522
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/works/</guid>
-      <description>Own projects more details Meta-Deity – [in progress], 2022.
-One script models – [in progress] a zoo of short implementations of Computer Vision models, 2022.
+      <description>Own projects more details Logistics Forecaster – [in progress] service for the application of ML methods in logistics, 2022.
 Marketing Robot – Reinforcement Learning for automatic budget management, 2021.
 Projects more details 3D Computer Vision for teeth – full time job, 2021-current time.
 Space Navigator – a Tool for the Optimization of Collision Avoidance Maneuvers, 2018-2019, 2022.
-NFT Images Generator – [in progress] generation and styling of images according to the user&amp;rsquo;s description, 2022.</description>
+NFT Images Generator – generation and styling of images according to the user&amp;rsquo;s description, 2022.</description>
     </item>
     
     <item>

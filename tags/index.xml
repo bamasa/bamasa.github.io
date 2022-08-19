@@ -6,7 +6,79 @@
     <description>Recent content in Tags on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>certificates</title>
+      <link>https://bamasa.github.io/tags/certificates/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/certificates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>courses</title>
+      <link>https://bamasa.github.io/tags/courses/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hse university</title>
+      <link>https://bamasa.github.io/tags/hse-university/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/hse-university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>summer school</title>
+      <link>https://bamasa.github.io/tags/summer-school/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/summer-school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;&lt;TODO: name&gt;&gt; team</title>
+      <link>https://bamasa.github.io/tags/todo-name-team/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/todo-name-team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://bamasa.github.io/tags/machine-learning/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>management</title>
+      <link>https://bamasa.github.io/tags/management/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marketing</title>
+      <link>https://bamasa.github.io/tags/marketing/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/marketing/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>3D</title>
       <link>https://bamasa.github.io/tags/3d/</link>
@@ -53,15 +125,6 @@
     </item>
     
     <item>
-      <title>certificates</title>
-      <link>https://bamasa.github.io/tags/certificates/</link>
-      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/certificates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>paper</title>
       <link>https://bamasa.github.io/tags/paper/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
@@ -94,6 +157,24 @@
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/tags/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>models</title>
+      <link>https://bamasa.github.io/tags/models/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>segmentation</title>
+      <link>https://bamasa.github.io/tags/segmentation/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/segmentation/</guid>
       <description></description>
     </item>
     
@@ -134,47 +215,11 @@
     </item>
     
     <item>
-      <title>&lt;&lt;TODO: name&gt;&gt; team</title>
-      <link>https://bamasa.github.io/tags/todo-name-team/</link>
-      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/todo-name-team/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>management</title>
-      <link>https://bamasa.github.io/tags/management/</link>
-      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>marketing</title>
-      <link>https://bamasa.github.io/tags/marketing/</link>
-      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>time series</title>
       <link>https://bamasa.github.io/tags/time-series/</link>
       <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/tags/time-series/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>courses</title>
-      <link>https://bamasa.github.io/tags/courses/</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/courses/</guid>
       <description></description>
     </item>
     
@@ -193,15 +238,6 @@
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/tags/mentoring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hse university</title>
-      <link>https://bamasa.github.io/tags/hse-university/</link>
-      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/hse-university/</guid>
       <description></description>
     </item>
     
@@ -229,15 +265,6 @@
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/tags/speeches/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>summer school</title>
-      <link>https://bamasa.github.io/tags/summer-school/</link>
-      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/summer-school/</guid>
       <description></description>
     </item>
     

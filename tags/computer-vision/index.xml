@@ -50,8 +50,22 @@
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/img_gen/</guid>
-      <description>&amp;ndash; the project is in progress &amp;ndash;
+      <description>&amp;ndash; TODO: description and examples. &amp;ndash;
  </description>
+    </item>
+    
+    <item>
+      <title>Segmentation models</title>
+      <link>https://bamasa.github.io/notes/segm_models/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/notes/segm_models/</guid>
+      <description>TL; DR Сегментация это
+Если надо сделать то берешь последние модели:
+ maskrcnn (такие плюсы такие минусы) &amp;hellip; (такие плюсы такие минусы)  Definitions Semantic segmentation – segment category, like car.
+Instance segmentation – segment individual instances, like Toyota Camry and Skoda Octavia.
+Panoptic Segmentation –
+Backbone – the feature extractor network. Then these features are upsampled by a simple decoder module of DeepLab models to generate segmented masks. (DeepLab term)</description>
     </item>
     
     <item>
@@ -75,6 +89,28 @@ Metrics chamfer distance cross entropy loss in PyTorch torch.nn.functional.cross
       <guid>https://bamasa.github.io/notes/cv_links/</guid>
       <description>My favorite blogs:
  https://lilianweng.github.io/  </description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://bamasa.github.io/notes/cv_stuff/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/notes/cv_stuff/</guid>
+      <description>TODO:
+ основные модели и задачи основные статьи мои статьи статью яндекса  Модели крч надо заботать ML-IDS и про модели почитать
+доп модели
+  diffusion models
+  метрики
+  слои
+  повторить как оптимизация идет &amp;ndash; sgd и тп
+  attention
+  transformers
+  dalle, dalle2, imgen
+  пару любимых статей
+  как сейчас решается imgnet
+  трансформеры
+  attention</description>
     </item>
     
     <item>

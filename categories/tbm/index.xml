@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TBM on Leonid Gremyachikh</title>
+    <link>https://bamasa.github.io/categories/tbm/</link>
+    <description>Recent content in TBM on Leonid Gremyachikh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/categories/tbm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logistics Forecaster</title>
+      <link>https://bamasa.github.io/own_projects/logistics/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/own_projects/logistics/</guid>
+      <description>&amp;ndash; the project is in progress &amp;ndash;</description>
+    </item>
+    
+  </channel>
+</rss>

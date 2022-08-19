@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>models on Leonid Gremyachikh</title>
+    <link>https://bamasa.github.io/series/models/</link>
+    <description>Recent content in models on Leonid Gremyachikh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segmentation models</title>
+      <link>https://bamasa.github.io/notes/segm_models/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/notes/segm_models/</guid>
+      <description>TL; DR Сегментация это
+Если надо сделать то берешь последние модели:
+ maskrcnn (такие плюсы такие минусы) &amp;hellip; (такие плюсы такие минусы)  Definitions Semantic segmentation – segment category, like car.
+Instance segmentation – segment individual instances, like Toyota Camry and Skoda Octavia.
+Panoptic Segmentation –
+Backbone – the feature extractor network. Then these features are upsampled by a simple decoder module of DeepLab models to generate segmented masks. (DeepLab term)</description>
+    </item>
+    
+  </channel>
+</rss>
