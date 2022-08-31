@@ -3,78 +3,143 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bamasa.github.io/categories/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/tags/fraud-detection/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/tags/certificates/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/series/fraud-detection/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/series/certificates/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/courses/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/courses/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/categories/hse-university/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/hse-university/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/hse-university/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/notes/cv_startups/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/log/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/tags/links/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/log/summer_bus_hse/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/series/links/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/notes/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/series/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/tags/summer-school/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/tags/stuff/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/series/summer-school/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/series/stuff/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/tags/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/categories/</loc>
+    <lastmod>2022-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/categories/hse-university/</loc>
+    <lastmod>2022-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/hse-university/</loc>
+    <lastmod>2022-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/hse-university/</loc>
+    <lastmod>2022-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/log/hse_interview/</loc>
+    <lastmod>2022-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/log/</loc>
+    <lastmod>2022-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/media/</loc>
+    <lastmod>2022-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/media/</loc>
+    <lastmod>2022-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/certificates/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/certificates/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/courses/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/courses/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/entrepreneurship/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/entrepreneurship/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/log/summer_bus_hse/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/summer-school/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/summer-school/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -173,22 +238,7 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/notes/</loc>
-    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bamasa.github.io/notes/runners/</loc>
-    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/stuff/</loc>
-    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/stuff/</loc>
     <lastmod>2022-04-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,17 +253,7 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/notes/cv_startups/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/links/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/links/</loc>
+    <loc>https://bamasa.github.io/notes/cv_startups-copy/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url>
   

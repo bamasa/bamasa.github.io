@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>media on Leonid Gremyachikh</title>
+    <link>https://bamasa.github.io/series/media/</link>
+    <description>Recent content in media on Leonid Gremyachikh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interview: a short interview with me on the HSE university website</title>
+      <link>https://bamasa.github.io/log/hse_interview/</link>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/log/hse_interview/</guid>
+      <description>An interview with me on the HSE website has been published. I told why and how I came to be in data science, as well as about graduate school.
+https://cs.hse.ru/news/741609195.html</description>
+    </item>
+    
+    <item>
+      <title>Space Navigator</title>
+      <link>https://bamasa.github.io/projects/spacenav/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/spacenav/</guid>
+      <description>TL; DR A system for calculating optimal collision avoidance maneuvers for satellites based on reinforcement learning.
+About We made Space Navigator - a system for automatically determining the probability of collision of space objects and calculating the most effective evasive maneuver using AI.
+Stage of the project:
+ Research Article &amp;ldquo;Space Navigator: a Tool for the Optimization of Collision Avoidance Maneuvers&amp;rdquo; (2020) MVP (2019) First place in the competition of projects of the Academy of Roscosmos (presentation slides, 2018) VR presentation (2018)  Demonstrations and reports:</description>
+    </item>
+    
+  </channel>
+</rss>
