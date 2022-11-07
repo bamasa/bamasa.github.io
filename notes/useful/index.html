@@ -200,10 +200,15 @@ pkill -f tmux <span style="color:#007f7f"># just kill all tmux</span>
 </code></pre></div><h3 id="nvidia">nvidia</h3>
 <div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">watch -n 0.1 nvidia-smi <span style="color:#007f7f"># watch</span>
 CUDA_VISIBLE_DEVICES=<span style="color:#ff0;font-weight:bold">1</span> <span style="color:#007f7f"># use cuda 1</span>
+</code></pre></div><h3 id="jupyter">jupyter</h3>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#007f7f"># run notebook from terminal</span>
+jupyter nbconvert --to notebook --execute notebook.ipynb
 </code></pre></div><h3 id="other">other</h3>
 <div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#007f7f"># find pattern</span>
 grep --include=<span style="color:#0ff;font-weight:bold">\*</span>.{c,h} -rnw <span style="color:#0ff;font-weight:bold">&#34;/path/to/somewhere/&#34;</span> -e <span style="color:#0ff;font-weight:bold">&#34;pattern&#34;</span>
 grep --include=*.py -rnw . -e <span style="color:#0ff;font-weight:bold">&#34;pattern&#34;</span>
+</code></pre></div><div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#007f7f"># ls in mb</span>
+ls -l --block-size=M
 </code></pre></div>
       </div>
 
