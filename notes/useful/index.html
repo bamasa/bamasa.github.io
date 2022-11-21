@@ -143,7 +143,7 @@
             </span>
             <span class="reading-time">
               <i class="fa fa-clock-o" aria-hidden="true"></i>
-              One-minute read
+              2-minute read
             </span>
           </div>
           
@@ -201,14 +201,22 @@ pkill -f tmux <span style="color:#007f7f"># just kill all tmux</span>
 <div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">watch -n 0.1 nvidia-smi <span style="color:#007f7f"># watch</span>
 CUDA_VISIBLE_DEVICES=<span style="color:#ff0;font-weight:bold">1</span> <span style="color:#007f7f"># use cuda 1</span>
 </code></pre></div><h3 id="jupyter">jupyter</h3>
-<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#007f7f"># run notebook from terminal</span>
-jupyter nbconvert --to notebook --execute notebook.ipynb
+<p>Run notebook from terminal</p>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">jupyter nbconvert --to notebook --execute notebook.ipynb
 </code></pre></div><h3 id="other">other</h3>
-<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#007f7f"># find pattern</span>
-grep --include=<span style="color:#0ff;font-weight:bold">\*</span>.{c,h} -rnw <span style="color:#0ff;font-weight:bold">&#34;/path/to/somewhere/&#34;</span> -e <span style="color:#0ff;font-weight:bold">&#34;pattern&#34;</span>
+<p>Find pattern in files:</p>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">grep --include=<span style="color:#0ff;font-weight:bold">\*</span>.{c,h} -rnw <span style="color:#0ff;font-weight:bold">&#34;/path/to/somewhere/&#34;</span> -e <span style="color:#0ff;font-weight:bold">&#34;pattern&#34;</span>
 grep --include=*.py -rnw . -e <span style="color:#0ff;font-weight:bold">&#34;pattern&#34;</span>
-</code></pre></div><div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#007f7f"># ls in mb</span>
-ls -l --block-size=M
+</code></pre></div><p>List files with MB-sizes:</p>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ls -l --block-size=M
+</code></pre></div><p>Run sth in parallel using GNU parallel:</p>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#0f0;font-weight:bold">#!/bin/bash
+</span><span style="color:#0f0;font-weight:bold"></span>run_sth() {
+    sleep <span style="color:#ff0;font-weight:bold">3</span>
+    <span style="color:#fff;font-weight:bold">echo</span> run $1
+}
+<span style="color:#fff;font-weight:bold">export</span> -f run_sth
+parallel --progress -j <span style="color:#ff0;font-weight:bold">2</span> run_sth
 </code></pre></div>
       </div>
 
