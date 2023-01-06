@@ -3,6 +3,116 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bamasa.github.io/tags/bayes/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/bayes/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/notes/bayes/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/computer-vision/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/computer-vision/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/notes/gen_models/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/generative-models/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/generative-models/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/notes/mlops/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/models/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/models/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/notes/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/research/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/research/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/rl/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/rl/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/notes/rl/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/stuff/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/series/stuff/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bamasa.github.io/tags/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bamasa.github.io/tags/fraud-detection/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url>
@@ -18,42 +128,12 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/</loc>
-    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bamasa.github.io/tags/links/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bamasa.github.io/series/links/</loc>
-    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/notes/</loc>
-    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/</loc>
-    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/stuff/</loc>
-    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/stuff/</loc>
-    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -213,26 +293,6 @@
   </url>
   
   <url>
-    <loc>https://bamasa.github.io/tags/computer-vision/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/computer-vision/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/generative-models/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/generative-models/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bamasa.github.io/own_projects/meta_deity/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url>
@@ -325,16 +385,6 @@
   <url>
     <loc>https://bamasa.github.io/tags/speech/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/tags/models/</loc>
-    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bamasa.github.io/series/models/</loc>
-    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>

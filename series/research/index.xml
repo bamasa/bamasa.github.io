@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on Leonid Gremyachikh</title>
+    <link>https://bamasa.github.io/series/research/</link>
+    <description>Recent content in research on Leonid Gremyachikh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML-Ops</title>
+      <link>https://bamasa.github.io/notes/mlops/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/notes/mlops/</guid>
+      <description>Lecture 1 бизнес метрики обговаривать и объяснять с заказчиком
+внимательно проверять данные
+воспроизводимость  ноутбук &amp;ndash; это для экспериментов и отчета, методы и функции импортируются документировать все сразу по ходу эксперимента в вики движках &amp;ndash; что зачем, эксперимент, датасет &amp;hellip; codestyle &amp;ndash; линтеры и автоформаттеры (CI/CD, pep8).форматтер лучше чем встроенный в ODE: flake8, bandit, pylint шаблонизаторы позволяют разбить по шаблону проекты: cookiecutter git, версионирование и код-ревью CI/CD тестирование системы трекинга экспериментов: mlflow&amp;hellip; сохранять алгоритмы код в python пакеты, создавать CLI, инструкции по запуску, избегать ручного форматирования данных, fix random seed управлять зависимостями и сохранять конфигурации с точными версиями не работать в одиночку &amp;ndash; выносить результаты на обсуждения  https://www.</description>
+    </item>
+    
+  </channel>
+</rss>

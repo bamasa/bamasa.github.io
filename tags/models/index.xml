@@ -6,7 +6,16 @@
     <description>Recent content in models on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generative models</title>
+      <link>https://bamasa.github.io/notes/gen_models/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/notes/gen_models/</guid>
+      <description>Autoencoder Variational Autoencoder Generative Adversarial Network Normalizing Flow Diffusion Model </description>
+    </item>
+    
     <item>
       <title>Segmentation models</title>
       <link>https://bamasa.github.io/notes/segm_models/</link>

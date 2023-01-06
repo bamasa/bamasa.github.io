@@ -6,7 +6,54 @@
     <description>Recent content on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bayes stuff</title>
+      <link>https://bamasa.github.io/notes/bayes/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/notes/bayes/</guid>
+      <description>Introduction What is all about? What shoud you know? Basically how all this stuff works and for what do we need this?
+Bayesian formulae Simple school formalue
+Bayesian approach сдвигание prior вместо вычисления
+Bayesian inference fucking prior, posterior, likelihood who and why did intoduce all this words
+Bayesian NN параметры распределений вместо слоев
+Applications Sparsification Links lots of them
+of for each section?</description>
+    </item>
+    
+    <item>
+      <title>Generative models</title>
+      <link>https://bamasa.github.io/notes/gen_models/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/notes/gen_models/</guid>
+      <description>Autoencoder Variational Autoencoder Generative Adversarial Network Normalizing Flow Diffusion Model </description>
+    </item>
+    
+    <item>
+      <title>ML-Ops</title>
+      <link>https://bamasa.github.io/notes/mlops/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/notes/mlops/</guid>
+      <description>Lecture 1 бизнес метрики обговаривать и объяснять с заказчиком
+внимательно проверять данные
+воспроизводимость  ноутбук &amp;ndash; это для экспериментов и отчета, методы и функции импортируются документировать все сразу по ходу эксперимента в вики движках &amp;ndash; что зачем, эксперимент, датасет &amp;hellip; codestyle &amp;ndash; линтеры и автоформаттеры (CI/CD, pep8).форматтер лучше чем встроенный в ODE: flake8, bandit, pylint шаблонизаторы позволяют разбить по шаблону проекты: cookiecutter git, версионирование и код-ревью CI/CD тестирование системы трекинга экспериментов: mlflow&amp;hellip; сохранять алгоритмы код в python пакеты, создавать CLI, инструкции по запуску, избегать ручного форматирования данных, fix random seed управлять зависимостями и сохранять конфигурации с точными версиями не работать в одиночку &amp;ndash; выносить результаты на обсуждения  https://www.</description>
+    </item>
+    
+    <item>
+      <title>RL you need</title>
+      <link>https://bamasa.github.io/notes/rl/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/notes/rl/</guid>
+      <description>Introduction What is it? When do we need this models
+All this types in one place finally online vs offline etc
+Shortly about top models CE PPO Applications Sparsification Links lots of them
+of for each section?</description>
+    </item>
+    
     <item>
       <title>Fraud detection stuff</title>
       <link>https://bamasa.github.io/notes/cv_startups/</link>
