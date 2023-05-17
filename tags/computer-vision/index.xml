@@ -6,43 +6,7 @@
     <description>Recent content in computer vision on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bayes stuff</title>
-      <link>https://bamasa.github.io/notes/bayes/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/bayes/</guid>
-      <description>Introduction What is all about? What shoud you know? Basically how all this stuff works and for what do we need this?
-Bayesian formulae Simple school formalue
-Bayesian approach сдвигание prior вместо вычисления
-Bayesian inference fucking prior, posterior, likelihood who and why did intoduce all this words
-Bayesian NN параметры распределений вместо слоев
-Applications Sparsification Links lots of them
-of for each section?</description>
-    </item>
-    
-    <item>
-      <title>Generative models</title>
-      <link>https://bamasa.github.io/notes/gen_models/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/gen_models/</guid>
-      <description>Autoencoder Variational Autoencoder Generative Adversarial Network Normalizing Flow Diffusion Model </description>
-    </item>
-    
-    <item>
-      <title>RL you need</title>
-      <link>https://bamasa.github.io/notes/rl/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/rl/</guid>
-      <description>Introduction What is it? When do we need this models
-All this types in one place finally online vs offline etc
-Shortly about top models CE PPO Applications Sparsification Links lots of them
-of for each section?</description>
-    </item>
-    
+    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meta-Deity</title>
       <link>https://bamasa.github.io/own_projects/meta_deity/</link>
@@ -58,17 +22,7 @@ of for each section?</description>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/cv_teeth/</guid>
-      <description>Full-time job as a lead machine learning engineer in the computer vision field at Adalisk.
- </description>
-    </item>
-    
-    <item>
-      <title>Computer Vision Startups</title>
-      <link>https://bamasa.github.io/notes/cv_startups-copy/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/cv_startups-copy/</guid>
-      <description>In process</description>
+      <description>Full-time job as a lead machine learning engineer in the computer vision field at Adalisk.</description>
     </item>
     
     <item>
@@ -86,67 +40,7 @@ of for each section?</description>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/img_gen/</guid>
-      <description>&amp;ndash; TODO: description and examples. &amp;ndash;
- </description>
-    </item>
-    
-    <item>
-      <title>Segmentation models</title>
-      <link>https://bamasa.github.io/notes/segm_models/</link>
-      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/segm_models/</guid>
-      <description>TL; DR Сегментация это
-Если надо сделать то берешь последние модели:
- maskrcnn (такие плюсы такие минусы) &amp;hellip; (такие плюсы такие минусы)  Definitions Semantic segmentation – segment category, like car.
-Instance segmentation – segment individual instances, like Toyota Camry and Skoda Octavia.
-Panoptic Segmentation –
-Backbone – the feature extractor network. Then these features are upsampled by a simple decoder module of DeepLab models to generate segmented masks. (DeepLab term)</description>
-    </item>
-    
-    <item>
-      <title>Computer vision 3D stuff</title>
-      <link>https://bamasa.github.io/notes/cv_metrics/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/cv_metrics/</guid>
-      <description>Mesh formats .obj
-etc
-Metrics chamfer distance cross entropy loss in PyTorch torch.nn.functional.cross_entropy(input, target) input:
- predicted unnormalized scores shape: (C), or (N, C), or (N, C, d1, d2, &amp;hellip;, dk) with K&amp;gt;=1 in case of K-dimentioanl loss.  target:
- ground truth class indices or class probabilities shape: (), or (N), or (N, d1, d2, &amp;hellip;, dk) with K&amp;gt;=1 in case of K-dimentioanl loss.  where C – number of classes; N – batch size.</description>
-    </item>
-    
-    <item>
-      <title>Computer vision links</title>
-      <link>https://bamasa.github.io/notes/cv_links/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/cv_links/</guid>
-      <description>My favorite blogs:
- https://lilianweng.github.io/  </description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>https://bamasa.github.io/notes/cv_stuff/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/cv_stuff/</guid>
-      <description>TODO:
- основные модели и задачи основные статьи мои статьи статью яндекса  Модели крч надо заботать ML-IDS и про модели почитать
-доп модели
-  diffusion models
-  метрики
-  слои
-  повторить как оптимизация идет &amp;ndash; sgd и тп
-  attention
-  transformers
-  dalle, dalle2, imgen
-  пару любимых статей
-  как сейчас решается imgnet
-  трансформеры
-  attention</description>
+      <description>&amp;ndash; TODO: description and examples. &amp;ndash;</description>
     </item>
     
     <item>
@@ -156,7 +50,7 @@ Metrics chamfer distance cross entropy loss in PyTorch torch.nn.functional.cross
       
       <guid>https://bamasa.github.io/teaching/ml_ids/</guid>
       <description>TL; DR A course on machine learning for scientists &amp;ldquo;Machine Intelligence, interdisciplinary perspective&amp;rdquo;. Platform: https://en.pelican.study/.
-My role  Lectures and homeworks (python, pytorch-lightning) topics:  Deep Learning foundations: Convolutional Neural Network, BatchNorm, etc. Computer Vision foundations: Image Classification, Transfer Learning, etc. AutoEncoders Normalizing Flows Anomaly detection Time series     </description>
+My role Lectures and homeworks (python, pytorch-lightning) topics: Deep Learning foundations: Convolutional Neural Network, BatchNorm, etc. Computer Vision foundations: Image Classification, Transfer Learning, etc. AutoEncoders Normalizing Flows Anomaly detection Time series </description>
     </item>
     
     <item>
@@ -177,7 +71,7 @@ The ubiquitous use of personal cameras and the daily generation of video content
       
       <guid>https://bamasa.github.io/log/cv_course_otus/</guid>
       <description>Photo by Runze Shi on Unsplash
-  I took a course on Сomputer Vision from OTUS (in Russian) from April 28 to September 25, 2020. The course was practical and covered Neural Networks and Deep Learning in the field of Computer Vision - from the basics to the latest frameworks and state-of-the-art scientific articles. Besides that, there were cool lessons about TensorRT and Server Inference. In addition, the interesting thing about this course was to learn from the experience of colleagues who use Computer Vision in different fields.</description>
+I took a course on Сomputer Vision from OTUS (in Russian) from April 28 to September 25, 2020. The course was practical and covered Neural Networks and Deep Learning in the field of Computer Vision - from the basics to the latest frameworks and state-of-the-art scientific articles. Besides that, there were cool lessons about TensorRT and Server Inference. In addition, the interesting thing about this course was to learn from the experience of colleagues who use Computer Vision in different fields.</description>
     </item>
     
   </channel>

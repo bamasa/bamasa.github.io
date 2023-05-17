@@ -15,8 +15,8 @@
       <guid>https://bamasa.github.io/projects/satpos/</guid>
       <description>TL; DR Improving the prediction of the position of a space object using machine learning.
 About The project task – build a model that would predict the position of space objects using simulation data.
-  https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Orbits
-  Predicting the position of satellites is one of the most important tasks in astronomy. For example, information on the exact position of satellites in orbit is necessary to avoid extremely dangerous satellite collisions.</description>
+https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Orbits
+Predicting the position of satellites is one of the most important tasks in astronomy. For example, information on the exact position of satellites in orbit is necessary to avoid extremely dangerous satellite collisions. Each collision leads not only to satellites destruction, but also to occurrence of thousands of pieces of space debris pieces.</description>
     </item>
     
   </channel>

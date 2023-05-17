@@ -14,7 +14,7 @@
       
       <guid>https://bamasa.github.io/teaching/ml_ids/</guid>
       <description>TL; DR A course on machine learning for scientists &amp;ldquo;Machine Intelligence, interdisciplinary perspective&amp;rdquo;. Platform: https://en.pelican.study/.
-My role  Lectures and homeworks (python, pytorch-lightning) topics:  Deep Learning foundations: Convolutional Neural Network, BatchNorm, etc. Computer Vision foundations: Image Classification, Transfer Learning, etc. AutoEncoders Normalizing Flows Anomaly detection Time series     </description>
+My role Lectures and homeworks (python, pytorch-lightning) topics: Deep Learning foundations: Convolutional Neural Network, BatchNorm, etc. Computer Vision foundations: Image Classification, Transfer Learning, etc. AutoEncoders Normalizing Flows Anomaly detection Time series </description>
     </item>
     
   </channel>

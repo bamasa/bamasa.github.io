@@ -6,40 +6,7 @@
     <description>Recent content in stuff on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/stuff/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ML-Ops</title>
-      <link>https://bamasa.github.io/notes/mlops/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/mlops/</guid>
-      <description>Lecture 1 бизнес метрики обговаривать и объяснять с заказчиком
-внимательно проверять данные
-воспроизводимость  ноутбук &amp;ndash; это для экспериментов и отчета, методы и функции импортируются документировать все сразу по ходу эксперимента в вики движках &amp;ndash; что зачем, эксперимент, датасет &amp;hellip; codestyle &amp;ndash; линтеры и автоформаттеры (CI/CD, pep8).форматтер лучше чем встроенный в ODE: flake8, bandit, pylint шаблонизаторы позволяют разбить по шаблону проекты: cookiecutter git, версионирование и код-ревью CI/CD тестирование системы трекинга экспериментов: mlflow&amp;hellip; сохранять алгоритмы код в python пакеты, создавать CLI, инструкции по запуску, избегать ручного форматирования данных, fix random seed управлять зависимостями и сохранять конфигурации с точными версиями не работать в одиночку &amp;ndash; выносить результаты на обсуждения  https://www.</description>
-    </item>
-    
-    <item>
-      <title>Fraud detection stuff</title>
-      <link>https://bamasa.github.io/notes/cv_startups/</link>
-      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/cv_startups/</guid>
-      <description>In process</description>
-    </item>
-    
-    <item>
-      <title>PyTorch Frameworks</title>
-      <link>https://bamasa.github.io/notes/runners/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/runners/</guid>
-      <description>Catalyst API Runner Runner – the logic of your deep learning experiment
- data model batch handling logic metrics monitoring systems.  Callback The Callback API repeats main for-loops in our train-loop abstraction:
- on experiment start/end on batch start/end on stage start/end etc.  Metric The Metric API.
-Logger Logger for metrics, images, hyper-parameters, etc. Can be connected with comet-ml and tensorboard.
-Engine The Engine sets how to run:</description>
-    </item>
-    
+    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/stuff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DL useful stuff</title>
       <link>https://bamasa.github.io/notes/useful/</link>
@@ -49,7 +16,7 @@ Engine The Engine sets how to run:</description>
       <description>&amp;ndash; the post is in process &amp;ndash;
 git git fetch git rebase git checkout git merge git pull tmux terminal:
 tmux # start tmux session tmux ls # list sessions tmux a -t &amp;lt;session name&amp;gt; # attach to the session called &amp;lt;session name&amp;gt; tmux kill-session -t &amp;lt;session name&amp;gt; # kill the session called &amp;lt;session name&amp;gt; pkill -f tmux # just kill all tmux windows commands:
- CTRL+b c Create a new window CTRL+b n Switch to the previous window CTRL+b p Switch to the next window CTRL+b w Choose window from a list CTRL+b , Rename the current window CTRL+b &amp;amp; Kill the current window  panes commands:</description>
+CTRL+b c Create a new window CTRL+b n Switch to the previous window CTRL+b p Switch to the next window CTRL+b w Choose window from a list CTRL+b , Rename the current window CTRL+b &amp;amp; Kill the current window panes commands:</description>
     </item>
     
   </channel>

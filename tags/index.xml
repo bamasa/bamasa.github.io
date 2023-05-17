@@ -6,88 +6,7 @@
     <description>Recent content in Tags on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>bayes</title>
-      <link>https://bamasa.github.io/tags/bayes/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/bayes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>computer vision</title>
-      <link>https://bamasa.github.io/tags/computer-vision/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>generative models</title>
-      <link>https://bamasa.github.io/tags/generative-models/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/generative-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>models</title>
-      <link>https://bamasa.github.io/tags/models/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>research</title>
-      <link>https://bamasa.github.io/tags/research/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rl</title>
-      <link>https://bamasa.github.io/tags/rl/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/rl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stuff</title>
-      <link>https://bamasa.github.io/tags/stuff/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/stuff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fraud detection</title>
-      <link>https://bamasa.github.io/tags/fraud-detection/</link>
-      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/fraud-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>links</title>
-      <link>https://bamasa.github.io/tags/links/</link>
-      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/tags/links/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hse university</title>
       <link>https://bamasa.github.io/tags/hse-university/</link>
@@ -188,6 +107,24 @@
     </item>
     
     <item>
+      <title>computer vision</title>
+      <link>https://bamasa.github.io/tags/computer-vision/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>generative models</title>
+      <link>https://bamasa.github.io/tags/generative-models/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/tags/generative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>paper</title>
       <link>https://bamasa.github.io/tags/paper/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
@@ -224,11 +161,11 @@
     </item>
     
     <item>
-      <title>segmentation</title>
-      <link>https://bamasa.github.io/tags/segmentation/</link>
-      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <title>stuff</title>
+      <link>https://bamasa.github.io/tags/stuff/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/tags/segmentation/</guid>
+      <guid>https://bamasa.github.io/tags/stuff/</guid>
       <description></description>
     </item>
     

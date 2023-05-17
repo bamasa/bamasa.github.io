@@ -6,63 +6,7 @@
     <description>Recent content on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bayes stuff</title>
-      <link>https://bamasa.github.io/notes/bayes/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/bayes/</guid>
-      <description>Introduction What is all about? What shoud you know? Basically how all this stuff works and for what do we need this?
-Bayesian formulae Simple school formalue
-Bayesian approach сдвигание prior вместо вычисления
-Bayesian inference fucking prior, posterior, likelihood who and why did intoduce all this words
-Bayesian NN параметры распределений вместо слоев
-Applications Sparsification Links lots of them
-of for each section?</description>
-    </item>
-    
-    <item>
-      <title>Generative models</title>
-      <link>https://bamasa.github.io/notes/gen_models/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/gen_models/</guid>
-      <description>Autoencoder Variational Autoencoder Generative Adversarial Network Normalizing Flow Diffusion Model </description>
-    </item>
-    
-    <item>
-      <title>ML-Ops</title>
-      <link>https://bamasa.github.io/notes/mlops/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/mlops/</guid>
-      <description>Lecture 1 бизнес метрики обговаривать и объяснять с заказчиком
-внимательно проверять данные
-воспроизводимость  ноутбук &amp;ndash; это для экспериментов и отчета, методы и функции импортируются документировать все сразу по ходу эксперимента в вики движках &amp;ndash; что зачем, эксперимент, датасет &amp;hellip; codestyle &amp;ndash; линтеры и автоформаттеры (CI/CD, pep8).форматтер лучше чем встроенный в ODE: flake8, bandit, pylint шаблонизаторы позволяют разбить по шаблону проекты: cookiecutter git, версионирование и код-ревью CI/CD тестирование системы трекинга экспериментов: mlflow&amp;hellip; сохранять алгоритмы код в python пакеты, создавать CLI, инструкции по запуску, избегать ручного форматирования данных, fix random seed управлять зависимостями и сохранять конфигурации с точными версиями не работать в одиночку &amp;ndash; выносить результаты на обсуждения  https://www.</description>
-    </item>
-    
-    <item>
-      <title>RL you need</title>
-      <link>https://bamasa.github.io/notes/rl/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/rl/</guid>
-      <description>Introduction What is it? When do we need this models
-All this types in one place finally online vs offline etc
-Shortly about top models CE PPO Applications Sparsification Links lots of them
-of for each section?</description>
-    </item>
-    
-    <item>
-      <title>Fraud detection stuff</title>
-      <link>https://bamasa.github.io/notes/cv_startups/</link>
-      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/cv_startups/</guid>
-      <description>In process</description>
-    </item>
-    
+    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interview: a short interview with me on the HSE university website</title>
       <link>https://bamasa.github.io/log/hse_interview/</link>
@@ -80,9 +24,8 @@ https://cs.hse.ru/news/741609195.html</description>
       
       <guid>https://bamasa.github.io/log/summer_bus_hse/</guid>
       <description>Attended the HSE university&amp;rsquo;s summer school, August 22-26, 2022. Wonderful and realistically-sincere event. It was most interesting to get to know the participants and speakers, and the following topics:
- networking search for investment startup economics  Full program.
-  Certificate
-  </description>
+networking search for investment startup economics Full program.
+Certificate</description>
     </item>
     
     <item>
@@ -104,35 +47,12 @@ https://cs.hse.ru/news/741609195.html</description>
     </item>
     
     <item>
-      <title>PyTorch Frameworks</title>
-      <link>https://bamasa.github.io/notes/runners/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/runners/</guid>
-      <description>Catalyst API Runner Runner – the logic of your deep learning experiment
- data model batch handling logic metrics monitoring systems.  Callback The Callback API repeats main for-loops in our train-loop abstraction:
- on experiment start/end on batch start/end on stage start/end etc.  Metric The Metric API.
-Logger Logger for metrics, images, hyper-parameters, etc. Can be connected with comet-ml and tensorboard.
-Engine The Engine sets how to run:</description>
-    </item>
-    
-    <item>
       <title>3D Computer Vision for teeth</title>
       <link>https://bamasa.github.io/projects/cv_teeth/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/cv_teeth/</guid>
-      <description>Full-time job as a lead machine learning engineer in the computer vision field at Adalisk.
- </description>
-    </item>
-    
-    <item>
-      <title>Computer Vision Startups</title>
-      <link>https://bamasa.github.io/notes/cv_startups-copy/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/cv_startups-copy/</guid>
-      <description>In process</description>
+      <description>Full-time job as a lead machine learning engineer in the computer vision field at Adalisk.</description>
     </item>
     
     <item>
@@ -150,8 +70,7 @@ Engine The Engine sets how to run:</description>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/img_gen/</guid>
-      <description>&amp;ndash; TODO: description and examples. &amp;ndash;
- </description>
+      <description>&amp;ndash; TODO: description and examples. &amp;ndash;</description>
     </item>
     
     <item>
@@ -163,21 +82,7 @@ Engine The Engine sets how to run:</description>
       <description>TL; DR A system for calculating optimal collision avoidance maneuvers for satellites based on reinforcement learning.
 About We made Space Navigator - a system for automatically determining the probability of collision of space objects and calculating the most effective evasive maneuver using AI.
 Stage of the project:
- Research Article &amp;ldquo;Space Navigator: a Tool for the Optimization of Collision Avoidance Maneuvers&amp;rdquo; (2020) MVP (2019) First place in the competition of projects of the Academy of Roscosmos (presentation slides, 2018) VR presentation (2018)  Demonstrations and reports:</description>
-    </item>
-    
-    <item>
-      <title>Segmentation models</title>
-      <link>https://bamasa.github.io/notes/segm_models/</link>
-      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/segm_models/</guid>
-      <description>TL; DR Сегментация это
-Если надо сделать то берешь последние модели:
- maskrcnn (такие плюсы такие минусы) &amp;hellip; (такие плюсы такие минусы)  Definitions Semantic segmentation – segment category, like car.
-Instance segmentation – segment individual instances, like Toyota Camry and Skoda Octavia.
-Panoptic Segmentation –
-Backbone – the feature extractor network. Then these features are upsampled by a simple decoder module of DeepLab models to generate segmented masks. (DeepLab term)</description>
+Research Article &amp;ldquo;Space Navigator: a Tool for the Optimization of Collision Avoidance Maneuvers&amp;rdquo; (2020) MVP (2019) First place in the competition of projects of the Academy of Roscosmos (presentation slides, 2018) VR presentation (2018) Demonstrations and reports:</description>
     </item>
     
     <item>
@@ -189,52 +94,7 @@ Backbone – the feature extractor network. Then these features are upsampled by
       <description>&amp;ndash; the post is in process &amp;ndash;
 git git fetch git rebase git checkout git merge git pull tmux terminal:
 tmux # start tmux session tmux ls # list sessions tmux a -t &amp;lt;session name&amp;gt; # attach to the session called &amp;lt;session name&amp;gt; tmux kill-session -t &amp;lt;session name&amp;gt; # kill the session called &amp;lt;session name&amp;gt; pkill -f tmux # just kill all tmux windows commands:
- CTRL+b c Create a new window CTRL+b n Switch to the previous window CTRL+b p Switch to the next window CTRL+b w Choose window from a list CTRL+b , Rename the current window CTRL+b &amp;amp; Kill the current window  panes commands:</description>
-    </item>
-    
-    <item>
-      <title>Computer vision 3D stuff</title>
-      <link>https://bamasa.github.io/notes/cv_metrics/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/cv_metrics/</guid>
-      <description>Mesh formats .obj
-etc
-Metrics chamfer distance cross entropy loss in PyTorch torch.nn.functional.cross_entropy(input, target) input:
- predicted unnormalized scores shape: (C), or (N, C), or (N, C, d1, d2, &amp;hellip;, dk) with K&amp;gt;=1 in case of K-dimentioanl loss.  target:
- ground truth class indices or class probabilities shape: (), or (N), or (N, d1, d2, &amp;hellip;, dk) with K&amp;gt;=1 in case of K-dimentioanl loss.  where C – number of classes; N – batch size.</description>
-    </item>
-    
-    <item>
-      <title>Computer vision links</title>
-      <link>https://bamasa.github.io/notes/cv_links/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/cv_links/</guid>
-      <description>My favorite blogs:
- https://lilianweng.github.io/  </description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>https://bamasa.github.io/notes/cv_stuff/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/cv_stuff/</guid>
-      <description>TODO:
- основные модели и задачи основные статьи мои статьи статью яндекса  Модели крч надо заботать ML-IDS и про модели почитать
-доп модели
-  diffusion models
-  метрики
-  слои
-  повторить как оптимизация идет &amp;ndash; sgd и тп
-  attention
-  transformers
-  dalle, dalle2, imgen
-  пару любимых статей
-  как сейчас решается imgnet
-  трансформеры
-  attention</description>
+CTRL+b c Create a new window CTRL+b n Switch to the previous window CTRL+b p Switch to the next window CTRL+b w Choose window from a list CTRL+b , Rename the current window CTRL+b &amp;amp; Kill the current window panes commands:</description>
     </item>
     
     <item>
@@ -244,8 +104,7 @@ Metrics chamfer distance cross entropy loss in PyTorch torch.nn.functional.cross
       
       <guid>https://bamasa.github.io/log/game_junction/</guid>
       <description>Exhibition &amp;ldquo;Game Junction&amp;rdquo; exhibition in the gallery Khodynka with For All Exists Infinity project.
-Some details Read more here.
-           </description>
+Some details Read more here.</description>
     </item>
     
     <item>
@@ -254,9 +113,9 @@ Some details Read more here.
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/rl_poker/</guid>
-      <description>TL; DR Researching and applying the Reinforcement Learning approach to no-limit Texas poker.
-  Fragment of one of the experiments.
-  My role  Application of existing models Implementation of the pipeline of experiments and comparison of models Development of architectural features of the poker environment experiments Experiments   </description>
+      <description> TL; DR Researching and applying the Reinforcement Learning approach to no-limit Texas poker.
+Fragment of one of the experiments.
+My role Application of existing models Implementation of the pipeline of experiments and comparison of models Development of architectural features of the poker environment experiments Experiments </description>
     </item>
     
     <item>
@@ -266,8 +125,8 @@ Some details Read more here.
       
       <guid>https://bamasa.github.io/projects/digital_twin/</guid>
       <description>TL; DR Digital Twin of the Data Storage System based on conditional generative models.
-  Photo by benjamin lehman on Unsplash
-  My role  Generative models research   </description>
+Photo by benjamin lehman on Unsplash
+My role Generative models research </description>
     </item>
     
     <item>
@@ -276,11 +135,11 @@ Some details Read more here.
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/own_projects/rl_market/</guid>
-      <description>TL; DR Outsourcing R&amp;amp;D project for the Retentioneering company – Reinforcement Learning for automatic budget management for advertising campaigns. We managed to create a quality MVP. NDA.
-  Yandex Direct img.
-  My team   Me.
-    Olga – MEPhI graduate, postgraduate student of the Institute of Theoretical and Experimental Physics (ITEP) in elementary particle physics, machine learning specialist, programmer..
-  My role  Searching for a client Management Programming (python)  Environment Reinforcement Learning Simulator &amp;hellip;   Statistical analysis of approaches, selection and analysis of metrics   </description>
+      <description> TL; DR Outsourcing R&amp;amp;D project for the Retentioneering company – Reinforcement Learning for automatic budget management for advertising campaigns. We managed to create a quality MVP. NDA.
+Yandex Direct img.
+My team Me.
+Olga – MEPhI graduate, postgraduate student of the Institute of Theoretical and Experimental Physics (ITEP) in elementary particle physics, machine learning specialist, programmer..
+My role Searching for a client Management Programming (python) Environment Reinforcement Learning Simulator &amp;hellip; Statistical analysis of approaches, selection and analysis of metrics </description>
     </item>
     
     <item>
@@ -301,7 +160,7 @@ You have no means of communication with your ally other than creation. How to be
       
       <guid>https://bamasa.github.io/teaching/ml_ids/</guid>
       <description>TL; DR A course on machine learning for scientists &amp;ldquo;Machine Intelligence, interdisciplinary perspective&amp;rdquo;. Platform: https://en.pelican.study/.
-My role  Lectures and homeworks (python, pytorch-lightning) topics:  Deep Learning foundations: Convolutional Neural Network, BatchNorm, etc. Computer Vision foundations: Image Classification, Transfer Learning, etc. AutoEncoders Normalizing Flows Anomaly detection Time series     </description>
+My role Lectures and homeworks (python, pytorch-lightning) topics: Deep Learning foundations: Convolutional Neural Network, BatchNorm, etc. Computer Vision foundations: Image Classification, Transfer Learning, etc. AutoEncoders Normalizing Flows Anomaly detection Time series </description>
     </item>
     
     <item>
@@ -323,7 +182,7 @@ The ubiquitous use of personal cameras and the daily generation of video content
       <guid>https://bamasa.github.io/projects/anomalies/</guid>
       <description>TL; DR Application of Neural Networks, Machine Learning algorithms, Reinforcement Learning and Natural Language Processing for Detection / Prediction of Anomalies in Storage Area Network by log data.
 Also, development and testing researched methods for improving Digital Twin of Storage Area Network, methods on chaotic systems, OpenAI Gym wrappers.
- Research Article &amp;ldquo;Online detection of failures generated by storage simulator&amp;rdquo; (2021) Research Article &amp;ldquo;SANgo: a storage infrastructure simulator with reinforcement learning support&amp;rdquo; (2020) Experiments and intermediate results    Photo by Denny Müller on Unsplash</description>
+Research Article &amp;ldquo;Online detection of failures generated by storage simulator&amp;rdquo; (2021) Research Article &amp;ldquo;SANgo: a storage infrastructure simulator with reinforcement learning support&amp;rdquo; (2020) Experiments and intermediate results Photo by Denny Müller on Unsplash</description>
     </item>
     
     <item>
@@ -334,8 +193,8 @@ Also, development and testing researched methods for improving Digital Twin of S
       <guid>https://bamasa.github.io/projects/satpos/</guid>
       <description>TL; DR Improving the prediction of the position of a space object using machine learning.
 About The project task – build a model that would predict the position of space objects using simulation data.
-  https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Orbits
-  Predicting the position of satellites is one of the most important tasks in astronomy. For example, information on the exact position of satellites in orbit is necessary to avoid extremely dangerous satellite collisions.</description>
+https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Orbits
+Predicting the position of satellites is one of the most important tasks in astronomy. For example, information on the exact position of satellites in orbit is necessary to avoid extremely dangerous satellite collisions. Each collision leads not only to satellites destruction, but also to occurrence of thousands of pieces of space debris pieces.</description>
     </item>
     
     <item>
@@ -345,7 +204,7 @@ About The project task – build a model that would predict the position of spac
       
       <guid>https://bamasa.github.io/log/cv_course_otus/</guid>
       <description>Photo by Runze Shi on Unsplash
-  I took a course on Сomputer Vision from OTUS (in Russian) from April 28 to September 25, 2020. The course was practical and covered Neural Networks and Deep Learning in the field of Computer Vision - from the basics to the latest frameworks and state-of-the-art scientific articles. Besides that, there were cool lessons about TensorRT and Server Inference. In addition, the interesting thing about this course was to learn from the experience of colleagues who use Computer Vision in different fields.</description>
+I took a course on Сomputer Vision from OTUS (in Russian) from April 28 to September 25, 2020. The course was practical and covered Neural Networks and Deep Learning in the field of Computer Vision - from the basics to the latest frameworks and state-of-the-art scientific articles. Besides that, there were cool lessons about TensorRT and Server Inference. In addition, the interesting thing about this course was to learn from the experience of colleagues who use Computer Vision in different fields.</description>
     </item>
     
     <item>
@@ -354,9 +213,9 @@ About The project task – build a model that would predict the position of spac
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/log/smiles/</guid>
-      <description>Participated in the international summer school SMILES – The Summer School of Machine Learning at Skoltech from 16 to 21 August 2020. In the poster session, I talked about two &amp;ldquo;AI &amp;amp; Satellite Problems&amp;rdquo; projects that we were engaged at the Laboratory of Methods for Big Data Analysis  at the National Research University Higher School of Economics.
+      <description>Participated in the international summer school SMILES – The Summer School of Machine Learning at Skoltech from 16 to 21 August 2020. In the poster session, I talked about two &amp;ldquo;AI &amp;amp; Satellite Problems&amp;rdquo; projects that we were engaged at the Laboratory of Methods for Big Data Analysis at the National Research University Higher School of Economics.
 Below is the submitted poster and the certificate provide.
- Poster PDF Certificate PDF    Post about Data Analysis for Satellite Tracking</description>
+Poster PDF Certificate PDF Post about Data Analysis for Satellite Tracking</description>
     </item>
     
     <item>
@@ -412,7 +271,7 @@ About This year the online task is coming from astronomy. It is focused on build
       
       <guid>https://bamasa.github.io/about/</guid>
       <description>Hi, my name is Leonid Gremyachikh.
-I am PhD student and Research Assistant at the Faculty of Computer Science 💻 in the HSE University (Moscow, Russia 🇷🇺), as well as a lead Machine Learning engineer in the Computer Vision field at Adalisk. My research interests include Deep Learning, Computer Vision and Reinforcement Learning.
+I am a data scientist and researcher, exploring the realms of knowledge and engineering. With a postgraduate degree from the HSE University in Moscow, I delve into applied, scientific, and artistic projects within the domains of machine learning, deep learning, and reinforcement learning. Fascinated by computer vision, fintech, anti-fraud solutions, and digital twins, I strive to unravel the possibilities within these fields.
 If you have questions or just want to get in touch, then feel free to contact me an email at lgremyachikh@gmail.</description>
     </item>
     
@@ -423,7 +282,11 @@ If you have questions or just want to get in touch, then feel free to contact me
       
       <guid>https://bamasa.github.io/cv/</guid>
       <description>CV CV pdf
-  </description>
+My research IDs: Google Scholar: GNVO2imsAAAAJ
+ORCID: 0000-0003-1655-6110
+ResearcherID: AAH-1170-2019
+Scopus AuthorID: 57214854045
+SPIN-RSCI: 2199-9522</description>
     </item>
     
     <item>

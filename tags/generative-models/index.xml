@@ -6,16 +6,7 @@
     <description>Recent content in generative models on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/generative-models/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Generative models</title>
-      <link>https://bamasa.github.io/notes/gen_models/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/notes/gen_models/</guid>
-      <description>Autoencoder Variational Autoencoder Generative Adversarial Network Normalizing Flow Diffusion Model </description>
-    </item>
-    
+    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/generative-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meta-Deity</title>
       <link>https://bamasa.github.io/own_projects/meta_deity/</link>
@@ -31,8 +22,7 @@
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/img_gen/</guid>
-      <description>&amp;ndash; TODO: description and examples. &amp;ndash;
- </description>
+      <description>&amp;ndash; TODO: description and examples. &amp;ndash;</description>
     </item>
     
     <item>
@@ -42,8 +32,8 @@
       
       <guid>https://bamasa.github.io/projects/digital_twin/</guid>
       <description>TL; DR Digital Twin of the Data Storage System based on conditional generative models.
-  Photo by benjamin lehman on Unsplash
-  My role  Generative models research   </description>
+Photo by benjamin lehman on Unsplash
+My role Generative models research </description>
     </item>
     
     <item>
