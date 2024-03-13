@@ -6,16 +6,7 @@
     <description>Recent content in marketing on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/marketing/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Logistics Forecaster</title>
-      <link>https://bamasa.github.io/own_projects/logistics/</link>
-      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/own_projects/logistics/</guid>
-      <description>&amp;ndash; the project is in progress &amp;ndash;</description>
-    </item>
-    
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marketing Robot</title>
       <link>https://bamasa.github.io/own_projects/rl_market/</link>

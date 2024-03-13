@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning on Leonid Gremyachikh</title>
+    <link>https://bamasa.github.io/tags/deep-learning/</link>
+    <description>Recent content in deep learning on Leonid Gremyachikh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fraud Detection</title>
+      <link>https://bamasa.github.io/projects/mt_frauders/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/mt_frauders/</guid>
+      <description>Full-time job as a Leading Big Data Specialist at FBS.
+Latent similarity model: converting user operations into code in latent space (time series + transformers) for frod detection and user clustering Real-time detection of frauders in time series Fraud and anomaly detection based on profit on sudden price changes Fraud monitoring in CPA networks Martingale monitoring User risk scoring Spread analytics Fraud detection based on transaction intersections in cryptocurrency </description>
+    </item>
+    
+    <item>
+      <title>3D Computer Vision for teeth</title>
+      <link>https://bamasa.github.io/projects/cv_teeth/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/cv_teeth/</guid>
+      <description>Full-time job as a lead machine learning engineer in the computer vision field at Adalisk.</description>
+    </item>
+    
+    <item>
+      <title>NFT Images Generator</title>
+      <link>https://bamasa.github.io/projects/img_gen/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/img_gen/</guid>
+      <description>&amp;ndash; TODO: description and examples. &amp;ndash;</description>
+    </item>
+    
+    <item>
+      <title>Poker Robot</title>
+      <link>https://bamasa.github.io/projects/rl_poker/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/rl_poker/</guid>
+      <description> TL; DR Researching and applying the Reinforcement Learning approach to no-limit Texas poker.
+Fragment of one of the experiments.
+My role Application of existing models Implementation of the pipeline of experiments and comparison of models Development of architectural features of the poker environment experiments Experiments </description>
+    </item>
+    
+    <item>
+      <title>Storage Digital Twin</title>
+      <link>https://bamasa.github.io/projects/digital_twin/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/projects/digital_twin/</guid>
+      <description>TL; DR Digital Twin of the Data Storage System based on conditional generative models.
+Photo by benjamin lehman on Unsplash
+My role Generative models research </description>
+    </item>
+    
+  </channel>
+</rss>

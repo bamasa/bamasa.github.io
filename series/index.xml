@@ -6,22 +6,67 @@
     <description>Recent content in Series on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>certificates</title>
-      <link>https://bamasa.github.io/series/certificates/</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <title>cpa</title>
+      <link>https://bamasa.github.io/series/cpa/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/series/certificates/</guid>
+      <guid>https://bamasa.github.io/series/cpa/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>courses</title>
-      <link>https://bamasa.github.io/series/courses/</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <title>cryptocurrency</title>
+      <link>https://bamasa.github.io/series/cryptocurrency/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/series/courses/</guid>
+      <guid>https://bamasa.github.io/series/cryptocurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep learning</title>
+      <link>https://bamasa.github.io/series/deep-learning/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fintech</title>
+      <link>https://bamasa.github.io/series/fintech/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/fintech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fraud</title>
+      <link>https://bamasa.github.io/series/fraud/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/fraud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://bamasa.github.io/series/machine-learning/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trading</title>
+      <link>https://bamasa.github.io/series/trading/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/trading/</guid>
       <description></description>
     </item>
     
@@ -53,6 +98,24 @@
     </item>
     
     <item>
+      <title>certificates</title>
+      <link>https://bamasa.github.io/series/certificates/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/certificates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>courses</title>
+      <link>https://bamasa.github.io/series/courses/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>entrepreneurship</title>
       <link>https://bamasa.github.io/series/entrepreneurship/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
@@ -71,45 +134,9 @@
     </item>
     
     <item>
-      <title>&lt;&lt;TODO: name&gt;&gt; team</title>
-      <link>https://bamasa.github.io/series/todo-name-team/</link>
-      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/series/todo-name-team/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine learning</title>
-      <link>https://bamasa.github.io/series/machine-learning/</link>
-      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/series/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>management</title>
-      <link>https://bamasa.github.io/series/management/</link>
-      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/series/management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>marketing</title>
-      <link>https://bamasa.github.io/series/marketing/</link>
-      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/series/marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>3D</title>
       <link>https://bamasa.github.io/series/3d/</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/3d/</guid>
       <description></description>
@@ -118,7 +145,7 @@
     <item>
       <title>computer vision</title>
       <link>https://bamasa.github.io/series/computer-vision/</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/computer-vision/</guid>
       <description></description>
@@ -127,7 +154,7 @@
     <item>
       <title>generative models</title>
       <link>https://bamasa.github.io/series/generative-models/</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/generative-models/</guid>
       <description></description>
@@ -211,6 +238,33 @@
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/series/storage-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;&lt;TODO: name&gt;&gt; team</title>
+      <link>https://bamasa.github.io/series/todo-name-team/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/todo-name-team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>management</title>
+      <link>https://bamasa.github.io/series/management/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marketing</title>
+      <link>https://bamasa.github.io/series/marketing/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bamasa.github.io/series/marketing/</guid>
       <description></description>
     </item>
     

@@ -6,14 +6,15 @@
     <description>Recent content on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Course: python service development and async programming (yandex practice)</title>
-      <link>https://bamasa.github.io/log/python_dev/</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <title>Fraud Detection</title>
+      <link>https://bamasa.github.io/projects/mt_frauders/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://bamasa.github.io/log/python_dev/</guid>
-      <description>in process</description>
+      <guid>https://bamasa.github.io/projects/mt_frauders/</guid>
+      <description>Full-time job as a Leading Big Data Specialist at FBS.
+Latent similarity model: converting user operations into code in latent space (time series + transformers) for frod detection and user clustering Real-time detection of frauders in time series Fraud and anomaly detection based on profit on sudden price changes Fraud monitoring in CPA networks Martingale monitoring User risk scoring Spread analytics Fraud detection based on transaction intersections in cryptocurrency </description>
     </item>
     
     <item>
@@ -47,39 +48,12 @@ Certificate</description>
     </item>
     
     <item>
-      <title>Logistics Forecaster</title>
-      <link>https://bamasa.github.io/own_projects/logistics/</link>
-      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/own_projects/logistics/</guid>
-      <description>&amp;ndash; the project is in progress &amp;ndash;</description>
-    </item>
-    
-    <item>
-      <title>Meta-Deity</title>
-      <link>https://bamasa.github.io/own_projects/meta_deity/</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/own_projects/meta_deity/</guid>
-      <description>&amp;ndash; the project is in progress &amp;ndash;</description>
-    </item>
-    
-    <item>
       <title>3D Computer Vision for teeth</title>
       <link>https://bamasa.github.io/projects/cv_teeth/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/projects/cv_teeth/</guid>
       <description>Full-time job as a lead machine learning engineer in the computer vision field at Adalisk.</description>
-    </item>
-    
-    <item>
-      <title>One script models</title>
-      <link>https://bamasa.github.io/own_projects/one_script_models/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/own_projects/one_script_models/</guid>
-      <description>&amp;ndash; the project is in process &amp;ndash;</description>
     </item>
     
     <item>
@@ -289,7 +263,7 @@ About This year the online task is coming from astronomy. It is focused on build
       
       <guid>https://bamasa.github.io/about/</guid>
       <description>Hi, my name is Leonid Gremyachikh.
-I am a data scientist and researcher, exploring the realms of knowledge and engineering. With a postgraduate degree from the HSE University in Moscow, I delve into applied, scientific, and artistic projects within the domains of machine learning, deep learning, and reinforcement learning. Fascinated by computer vision, fintech, anti-fraud solutions, and digital twins, I strive to unravel the possibilities within these fields.
+I&amp;rsquo;m a leading data scientist, researcher and PhD candidate, with graduate and postgraduate degrees from the HSE University in Moscow. My expertise spans applied, scientific, and artistic projects in machine learning, deep learning, and reinforcement learning. Passionate about fintech, fraud detection solutions, computer vision, and digital twins, I aim to explore the potential of these domains.
 If you have questions or just want to get in touch, then feel free to contact me an email at lgremyachikh@gmail.</description>
     </item>
     
@@ -313,11 +287,12 @@ SPIN-RSCI: 2199-9522</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bamasa.github.io/works/</guid>
-      <description>Own projects more details Logistics Forecaster – [in progress] service for the application of ML methods in logistics, 2022.
+      <description>Projects more details Fraud Detection – full time job, fintech, meta-trading, 2022-2023.
+3D Computer Vision for teeth – full time job, 2021-2022.
+Space Navigator – a Tool for the Optimization of Collision Avoidance Maneuvers, 2018-2019, 2021-2022.
+NFT Images Generator – generation and styling of images according to the user&amp;rsquo;s description, 2022.
 Marketing Robot – Reinforcement Learning for automatic budget management, 2021.
-Projects more details 3D Computer Vision for teeth – full time job, 2021-current time.
-Space Navigator – a Tool for the Optimization of Collision Avoidance Maneuvers, 2018-2019, 2022.
-NFT Images Generator – generation and styling of images according to the user&amp;rsquo;s description, 2022.</description>
+Poker Robot – Reinforcement Learning for Poker, 2021-2022. Storage Digital Twin – Digital Twin of the Data Storage System based on GANs, 2021-2022.</description>
     </item>
     
     <item>

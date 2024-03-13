@@ -2,35 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bamasa.github.io/tags/certificates/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/categories/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bamasa.github.io/series/certificates/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/tags/cpa/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bamasa.github.io/log/python_dev/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/series/cpa/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bamasa.github.io/tags/courses/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/tags/cryptocurrency/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bamasa.github.io/series/courses/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/series/cryptocurrency/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/tags/deep-learning/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/series/deep-learning/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/categories/fbs/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/tags/fintech/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/series/fintech/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/tags/fraud/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/series/fraud/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/projects/mt_frauders/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bamasa.github.io/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bamasa.github.io/log/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/tags/machine-learning/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/series/machine-learning/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/projects/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bamasa.github.io/series/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bamasa.github.io/tags/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bamasa.github.io/categories/</loc>
-    <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+    <loc>https://bamasa.github.io/tags/trading/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/series/trading/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bamasa.github.io/tags/hse-university/</loc>
     <lastmod>2022-10-09T00:00:00+00:00</lastmod>
@@ -39,6 +72,9 @@
     <lastmod>2022-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bamasa.github.io/categories/hse-university/</loc>
+    <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/log/</loc>
     <lastmod>2022-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bamasa.github.io/tags/phd/</loc>
@@ -59,6 +95,18 @@
     <loc>https://bamasa.github.io/series/media/</loc>
     <lastmod>2022-08-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://bamasa.github.io/tags/certificates/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/series/certificates/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/tags/courses/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/series/courses/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bamasa.github.io/tags/entrepreneurship/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -74,62 +122,11 @@
     <loc>https://bamasa.github.io/series/summer-school/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bamasa.github.io/tags/todo-name-team/</loc>
-    <lastmod>2022-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/series/todo-name-team/</loc>
-    <lastmod>2022-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/own_projects/logistics/</loc>
-    <lastmod>2022-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/tags/machine-learning/</loc>
-    <lastmod>2022-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/series/machine-learning/</loc>
-    <lastmod>2022-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/tags/management/</loc>
-    <lastmod>2022-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/series/management/</loc>
-    <lastmod>2022-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/tags/marketing/</loc>
-    <lastmod>2022-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/series/marketing/</loc>
-    <lastmod>2022-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/categories/own-project/</loc>
-    <lastmod>2022-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/own_projects/</loc>
-    <lastmod>2022-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/categories/tbm/</loc>
-    <lastmod>2022-07-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://bamasa.github.io/tags/3d/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bamasa.github.io/series/3d/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/tags/computer-vision/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/series/computer-vision/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/tags/generative-models/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/series/generative-models/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bamasa.github.io/own_projects/meta_deity/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bamasa.github.io/projects/cv_teeth/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
@@ -137,11 +134,17 @@
     <loc>https://bamasa.github.io/categories/adalisk/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bamasa.github.io/own_projects/one_script_models/</loc>
+    <loc>https://bamasa.github.io/tags/computer-vision/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bamasa.github.io/projects/</loc>
+    <loc>https://bamasa.github.io/series/computer-vision/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/tags/generative-models/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/series/generative-models/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bamasa.github.io/categories/neo/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
@@ -224,7 +227,31 @@
     <loc>https://bamasa.github.io/series/storage-system/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://bamasa.github.io/tags/todo-name-team/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/series/todo-name-team/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/tags/management/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/series/management/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/tags/marketing/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/series/marketing/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bamasa.github.io/own_projects/rl_market/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/categories/own-project/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bamasa.github.io/own_projects/</loc>
     <lastmod>2021-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bamasa.github.io/categories/retentioneering/</loc>

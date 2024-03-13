@@ -6,34 +6,7 @@
     <description>Recent content in Own_projects on Leonid Gremyachikh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/own_projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Logistics Forecaster</title>
-      <link>https://bamasa.github.io/own_projects/logistics/</link>
-      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/own_projects/logistics/</guid>
-      <description>&amp;ndash; the project is in progress &amp;ndash;</description>
-    </item>
-    
-    <item>
-      <title>Meta-Deity</title>
-      <link>https://bamasa.github.io/own_projects/meta_deity/</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/own_projects/meta_deity/</guid>
-      <description>&amp;ndash; the project is in progress &amp;ndash;</description>
-    </item>
-    
-    <item>
-      <title>One script models</title>
-      <link>https://bamasa.github.io/own_projects/one_script_models/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bamasa.github.io/own_projects/one_script_models/</guid>
-      <description>&amp;ndash; the project is in process &amp;ndash;</description>
-    </item>
-    
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bamasa.github.io/own_projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marketing Robot</title>
       <link>https://bamasa.github.io/own_projects/rl_market/</link>
