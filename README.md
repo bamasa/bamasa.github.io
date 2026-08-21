@@ -35,11 +35,10 @@ Fonts come from Google Fonts: Instrument Serif (display), Inter (body), JetBrain
 Copy the contents of this folder into the root of the `bamasa/bamasa.github.io` repository,
 replacing the old Hugo output, and push to `master`. Nothing needs to be built.
 
-## Still to do
+## Notes
 
-* Add a YouTube link to the "For All Exists Infinity" entry when it exists.
-* Name the Yandex School of Data Analysis courses in the Education field, if wanted.
 * The availability line is deliberately worded as consulting and collaboration, not
   job seeking. Location, work format, languages and the CV file are intentionally absent.
 * Client names are anonymised on purpose ("Medical technology startup",
   "Trading, crypto and market infrastructure", "Independent clients").
+* Numbers behind the quantitative work are given on request, not on the page.
