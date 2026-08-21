@@ -403,6 +403,10 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gut); }
   .hero-grid { grid-template-columns: 1fr; }
   .hero-portrait { order: -1; width: 96px; }
   .hero-portrait img { border-radius: 10px; }
+  /* the two roles get a line each instead of an ugly single-word wrap */
+  .kicker span { display: block; }
+  .kicker .sep { display: none; }
+
   .item > summary {
     flex-wrap: wrap; position: relative;
     padding-right: 22px; column-gap: .75rem; row-gap: .2rem;
