@@ -99,6 +99,59 @@
     });
   });
 
+  /* ---------- github activity ----------
+     Data comes from assets/github.json, refreshed by a scheduled workflow.
+     The block stays hidden if the file is missing, so nothing ever renders
+     half-empty. */
+  (function () {
+    var box = document.getElementById('gh');
+    if (!box) return;
+
+    fetch('assets/github.json')
+      .then(function (r) { return r.ok ? r.json() : Promise.reject(); })
+      .then(function (d) {
+        var counts = d.counts || [];
+        if (!counts.length) return;
+
+        var max = Math.max.apply(null, counts);
+        function level(n) {
+          if (!n) return 0;
+          if (!max) return 0;
+          var r = n / max;
+          return r > 0.6 ? 4 : r > 0.3 ? 3 : r > 0.1 ? 2 : 1;
+        }
+
+        var grid  = box.querySelector('.gh-grid');
+        var start = new Date(d.start + 'T00:00:00Z');
+        var frag  = document.createDocumentFragment();
+
+        // pad so the first column starts on the right weekday
+        for (var p = 0; p < (d.startWeekday || 0); p++) {
+          var pad = document.createElement('i');
+          pad.style.visibility = 'hidden';
+          frag.appendChild(pad);
+        }
+        counts.forEach(function (n, i) {
+          var day = new Date(start.getTime() + i * 86400000);
+          var cell = document.createElement('i');
+          cell.setAttribute('data-l', level(n));
+          cell.title = n + (n === 1 ? ' contribution' : ' contributions') +
+                       ' on ' + day.toISOString().slice(0, 10);
+          frag.appendChild(cell);
+        });
+        grid.appendChild(frag);
+
+        box.querySelector('.gh-total').innerHTML =
+          '<b>' + d.totalContributions + '</b> contributions in the past year';
+        box.querySelector('.gh-meta').textContent = 'on GitHub since ' + d.memberSince;
+
+        box.hidden = false;
+        // the section may already have been revealed before this resolved
+        box.closest('.reveal') && box.closest('.reveal').classList.add('is-in');
+      })
+      .catch(function () { /* leave the block hidden */ });
+  })();
+
   /* ---------- reveal on scroll ---------- */
   var revealables = document.querySelectorAll('.reveal');
   if (reduce || !('IntersectionObserver' in window)) {

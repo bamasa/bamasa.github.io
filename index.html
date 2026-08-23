@@ -92,6 +92,7 @@
       <a href="#papers">Papers</a>
       <a href="#teaching">Teaching</a>
       <a href="#contact">Contact</a>
+      <a href="#code">Code</a>
     </nav>
     <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch colour theme">
       <svg class="i-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.4v2.6M12 19v2.6M4.6 4.6l1.9 1.9M17.5 17.5l1.9 1.9M2.4 12h2.6M19 12h2.6M4.6 19.4l1.9-1.9M17.5 6.5l1.9-1.9"/></svg>
@@ -447,7 +448,54 @@
         or market data — or just want to talk — write to
         <a href="mailto:lgremyachikh@gmail.com">lgremyachikh@gmail.com</a>.
       </p>
+      <ul class="links big" role="list">
+        <li><span>Email</span><a href="mailto:lgremyachikh@gmail.com">lgremyachikh@gmail.com</a></li>
+        <li><span>GitHub</span><a href="https://github.com/bamasa" rel="me noopener">github.com/bamasa</a></li>
+      </ul>
       <p class="note">CV on request.</p>
+    </div>
+  </section>
+
+  <!-- ────────────────────────── OPEN SOURCE ───────────────────────── -->
+  <section class="section reveal" id="code">
+    <div class="section-head"><h2 class="label">06 — Open source</h2></div>
+    <div class="section-body">
+      <div class="items">
+
+        <details class="item">
+          <summary>
+            <span class="item-head">
+              <span class="item-title">trading-research-pipeline</span>
+              <span class="item-org">Python · MIT</span>
+            </span>
+            <span class="item-year">2026</span>
+            <span class="chev" aria-hidden="true"></span>
+          </summary>
+          <div class="item-body"><div class="item-inner">
+            <p>A leakage-aware research pipeline for systematic trading, and what it found when pointed at crypto perpetuals. The whole path from raw events to a trading result: data contracts, feature engineering, forward-looking labels, chronological validation with purging and embargo, model comparison, and a backtest that charges realistic costs.</p>
+            <ul>
+              <li>Short-horizon cross-sectional reversion pays — but only under a market state that can be measured and, on this evidence, not forecast. On a held-out fortnight a three-parameter rule earns <b>+6.99&nbsp;bp per trade net of costs on 22 of 26 instruments</b>; a model of how far each trade runs raises it to <b>+18.8&nbsp;bp over 3,297 trades</b>. On the six weeks that followed, with the state absent, the identical frozen configuration loses on all 26.</li>
+              <li>Everything else in the register is negative, established the same way — every candidate, its status, and the condition written down <i>before</i> the test that would refute it.</li>
+              <li>The emphasis is on the parts that decide whether a result means anything: validation and cost accounting, not the model. Leakage is a test that fails, not a caveat in a footnote.</li>
+            </ul>
+            <p><a href="https://github.com/bamasa/trading-research-pipeline" rel="noopener">Read on GitHub</a></p>
+            <p class="tags"><span>Market microstructure</span><span>Limit order book</span><span>Walk-forward</span><span>Backtesting</span><span>Python</span></p>
+          </div></div>
+        </details>
+
+      </div>
+
+      <div class="gh" id="gh" hidden>
+        <div class="gh-head">
+          <span class="gh-total"></span>
+          <a class="gh-link" href="https://github.com/bamasa" rel="me noopener">github.com/bamasa</a>
+        </div>
+        <div class="gh-scroll"><div class="gh-grid" role="img" aria-label="GitHub contribution activity over the past year"></div></div>
+        <div class="gh-foot">
+          <span class="gh-meta"></span>
+          <span class="gh-legend">Less <i></i><i></i><i></i><i></i><i></i> More</span>
+        </div>
+      </div>
     </div>
   </section>
 
