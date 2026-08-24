@@ -1,0 +1,62 @@
+# Refreshes assets/github.json once a day so the activity strip on the page
+# stays current without the page ever calling GitHub at runtime.
+name: Refresh GitHub stats
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Collect contribution calendar and profile
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api graphql -f login="${GITHUB_REPOSITORY_OWNER}" -f query='
+            query($login:String!){
+              user(login:$login){
+                contributionsCollection{
+                  contributionCalendar{
+                    totalContributions
+                    weeks{ contributionDays{ date contributionCount } }
+                  }
+                }
+              }
+            }' > /tmp/contrib.json
+          gh api "users/${GITHUB_REPOSITORY_OWNER}" > /tmp/user.json
+
+      - name: Write assets/github.json
+        run: |
+          python3 - <<'PY'
+          import json, datetime
+          cal = json.load(open('/tmp/contrib.json'))['data']['user']['contributionsCollection']['contributionCalendar']
+          days = [d for w in cal['weeks'] for d in w['contributionDays']]
+          user = json.load(open('/tmp/user.json'))
+          data = {
+            "generated": datetime.date.today().isoformat(),
+            "login": user["login"],
+            "publicRepos": user["public_repos"],
+            "memberSince": user["created_at"][:4],
+            "totalContributions": cal["totalContributions"],
+            "start": days[0]["date"],
+            "startWeekday": datetime.date.fromisoformat(days[0]["date"]).isoweekday() % 7,
+            "counts": [d["contributionCount"] for d in days],
+          }
+          json.dump(data, open('assets/github.json','w'), separators=(',',':'))
+          PY
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github.json
+          git diff --staged --quiet || git commit -m "Refresh GitHub stats"
+          git push
