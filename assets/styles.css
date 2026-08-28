@@ -291,8 +291,10 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gut); }
   font-family: var(--mono); font-size: .71rem; color: var(--fg-3);
   white-space: nowrap; flex: none; margin-left: auto;
   width: 11ch; text-align: left;      /* start-aligned so the em dashes line up */
-  /* верх строки года на уровне верха первой строки заголовка */
-  line-height: calc(.98rem * 1.35); 
+  /* верх строки года на уровне верха первой строки заголовка;
+     -0.8px добивает разницу кап-высот шрифтов, промерено канвасом */
+  line-height: calc(.98rem * 1.35);
+  position: relative; top: -0.8px;
 }
 
 .chev {
