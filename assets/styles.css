@@ -269,7 +269,7 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gut); }
 
 .item > summary {
   list-style: none; cursor: pointer;
-  display: flex; align-items: baseline; gap: .85rem;
+  display: flex; align-items: flex-start; gap: .85rem;
   padding: .8rem 0;
   transition: opacity .2s var(--ease);
 }
@@ -291,10 +291,13 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gut); }
   font-family: var(--mono); font-size: .71rem; color: var(--fg-3);
   white-space: nowrap; flex: none; margin-left: auto;
   width: 11ch; text-align: left;      /* start-aligned so the em dashes line up */
+  /* верх строки года на уровне верха первой строки заголовка */
+  line-height: calc(.98rem * 1.35); 
 }
 
 .chev {
-  width: 11px; height: 11px; position: relative; flex: none; align-self: center;
+  width: 11px; height: 11px; position: relative; flex: none;
+  align-self: flex-start; margin-top: calc((.98rem * 1.35 - 11px) / 2);
 }
 .chev::before, .chev::after {
   content: ""; position: absolute; background: var(--fg-3);
@@ -465,6 +468,6 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gut); }
   }
   .item-head  { flex: 1 1 100%; }
   .item-title { flex: 1 1 100%; }
-  .item-year  { flex: 1 1 100%; margin-left: 0; width: auto; }
-  .chev { position: absolute; right: 0; top: 1.05rem; }
+  .item-year  { flex: 1 1 100%; margin-left: 0; width: auto; line-height: 1.4; }
+  .chev { position: absolute; right: 0; top: 1.05rem; margin-top: 0; }
 }
