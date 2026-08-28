@@ -315,7 +315,7 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gut); }
 /* список, открывающий секцию: без своей верхней полоски,
    первая строка вровень с заголовком секции слева */
 .section-body > .items:first-child { border-top: 0; }
-.section-body > .items:first-child > .item:first-child > summary { padding-top: 0; }
+.section-body > .items:first-child > .item:first-child > summary { padding-top: 1.3px; } /* кап-в-кап с заголовком секции */
 
 .item-body { overflow: hidden; }
 .item-inner {
