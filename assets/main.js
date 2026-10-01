@@ -152,6 +152,42 @@
       .catch(function () { /* leave the block hidden */ });
   })();
 
+  /* ---------- numbers count up ---------- */
+  (function () {
+    var nums = document.querySelectorAll('.stat-num[data-n]');
+    if (!nums.length) return;
+    function run(el) {
+      var target = parseInt(el.getAttribute('data-n'), 10);
+      var pre = el.getAttribute('data-prefix') || '';
+      var suf = el.getAttribute('data-suffix') || '';
+      var t0 = null;
+      function frame(t) {
+        if (!t0) t0 = t;
+        var k = Math.min((t - t0) / 900, 1);
+        k = 1 - Math.pow(1 - k, 3);
+        el.textContent = pre + Math.round(target * k) + suf;
+        if (k < 1) requestAnimationFrame(frame);
+      }
+      requestAnimationFrame(frame);
+    }
+    if (reduce || !('IntersectionObserver' in window)) {
+      nums.forEach(function (el) {
+        el.textContent = (el.getAttribute('data-prefix') || '') +
+          el.getAttribute('data-n') + (el.getAttribute('data-suffix') || '');
+      });
+      return;
+    }
+    var seen = new WeakSet();
+    var io2 = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (e.isIntersecting && !seen.has(e.target)) {
+          seen.add(e.target); run(e.target);
+        }
+      });
+    }, { threshold: 0.4 });
+    nums.forEach(function (el) { io2.observe(el); });
+  })();
+
   /* ---------- reveal on scroll ---------- */
   var revealables = document.querySelectorAll('.reveal');
   if (reduce || !('IntersectionObserver' in window)) {
