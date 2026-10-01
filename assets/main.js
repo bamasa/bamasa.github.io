@@ -142,7 +142,7 @@
         grid.appendChild(frag);
 
         box.querySelector('.gh-total').innerHTML =
-          '<b>' + d.totalContributions + '</b> contributions in the past year';
+          '<b>' + d.totalContributions + '</b> contributions in the past three months';
         box.querySelector('.gh-meta').textContent = 'on GitHub since ' + d.memberSince;
 
         box.hidden = false;
