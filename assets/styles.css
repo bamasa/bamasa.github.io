@@ -481,13 +481,3 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gut); }
   .chev { position: absolute; right: 0; top: 1.05rem; margin-top: 0; }
 }
 
-/* ---------- 07 · numbers ---------- */
-.stats-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1rem;margin-bottom:2.2rem}
-.stat{border:1px solid var(--line);border-radius:12px;padding:1.3rem 1.3rem 1.15rem;
-      background:var(--bg-soft);display:flex;flex-direction:column;gap:.45rem;
-      box-shadow:var(--shadow)}
-.stat-num{font-size:2.1rem;line-height:1;font-weight:600;color:var(--accent);
-          font-variant-numeric:tabular-nums;letter-spacing:-.01em}
-.stat-label{font-size:.86rem;line-height:1.5;color:var(--fg-2)}
-@media (max-width: 760px){ .stats-grid{grid-template-columns:repeat(2,minmax(0,1fr))} }
-@media (max-width: 480px){ .stats-grid{grid-template-columns:1fr} }
