@@ -234,25 +234,6 @@
           </div></div>
         </details>
 
-        <details class="item">
-          <summary>
-            <span class="item-head">
-              <span class="item-title">Structural-break detection</span>
-              <span class="item-org">ADIA Lab challenge · CrunchDAO</span>
-            </span>
-            <span class="item-year">2026</span>
-            <span class="chev" aria-hidden="true"></span>
-          </summary>
-          <div class="item-body"><div class="item-inner">
-            <p>A season-long run at the ADIA Lab challenge on CrunchDAO: decide, in real time, whether a structural break has just occurred in a data stream. Scored strictly out of sample in the organiser's cloud — no local test set to overfit to.</p>
-            <ul>
-              <li>The solution is an ensemble of independent detectors; spectral features of the stream, whitened against its own history, turned out to be the strongest member.</li>
-              <li>Built as an LLM-assisted search loop: hypotheses proposed, implemented and logged in a disciplined experiment journal, forty-plus scored submissions — and a member joins the ensemble only by rules written down before it is tested.</li>
-              <li>Finished in the top 10% — 160 of 1,716 teams.</li>
-            </ul>
-            <p class="tags"><span>Change-point detection</span><span>Time series</span><span>Spectral features</span><span>Ensembling</span><span>LLM-assisted research</span></p>
-          </div></div>
-        </details>
 
       </div>
 
@@ -437,9 +418,31 @@
               <li>Short-horizon cross-sectional reversion pays — but only under a market state that can be measured and, on this evidence, not forecast. On a held-out fortnight a three-parameter rule earns <b>+6.99&nbsp;bp per trade net of costs on 22 of 26 instruments</b>; a model of how far each trade runs raises it to <b>+18.8&nbsp;bp over 3,297 trades</b>. On the six weeks that followed, with the state absent, the identical frozen configuration loses on all 26.</li>
               <li>Everything else in the register is negative, established the same way — every candidate, its status, and the condition written down <i>before</i> the test that would refute it.</li>
               <li>The emphasis is on the parts that decide whether a result means anything: validation and cost accounting, not the model. Leakage is a test that fails, not a caveat in a footnote.</li>
+              <li>Regime monitoring that tells a model when the market it was fitted to has changed, built on the structural-break detector below and installed from it as a library rather than copied.</li>
             </ul>
             <p><a href="https://github.com/bamasa/trading-research-pipeline" rel="noopener">Read on GitHub</a></p>
             <p class="tags"><span>Market microstructure</span><span>Limit order book</span><span>Walk-forward</span><span>Backtesting</span><span>Python</span></p>
+          </div></div>
+        </details>
+
+        <details class="item">
+          <summary>
+            <span class="item-head">
+              <span class="item-title">Structural-break detection</span>
+              <span class="item-org">ADIA Lab challenge · Python · MIT</span>
+            </span>
+            <span class="item-year">2026</span>
+            <span class="chev" aria-hidden="true"></span>
+          </summary>
+          <div class="item-body"><div class="item-inner">
+            <p>Detecting, in real time, whether a time series has already changed its behaviour: after every new observation a model scores the chance that a permanent break has occurred, and the score is judged across thousands of series step by step. My entry to the ADIA Lab challenge on CrunchDAO, scored out of sample in the organiser&#8217;s cloud: about rank 160 of 1,716 participants at the close of submissions; the final ranking is due at the end of October.</p>
+            <ul>
+              <li>The decisive idea: whiten each series by its own history &#8212; an autoregressive fit, a conditional scale, the distribution of the innovations &#8212; so that every series looks like the same white noise until it breaks, and read sequential change statistics (CUSUM, likelihood ratios, Shiryaev&#8211;Roberts odds) on the whitened stream.</li>
+              <li>Run as a research loop I designed and directed, with an LLM coding assistant as the team: 158 logged experiments, 45 scored submissions, parallel research agents, and shipping rules written down before each test.</li>
+              <li>Packaged as a small library and used by trading-research-pipeline for regime monitoring on market returns.</li>
+            </ul>
+            <p><a href="https://github.com/bamasa/adia-structural-break" rel="noopener">Read on GitHub</a></p>
+            <p class="tags"><span>Change-point detection</span><span>Time series</span><span>Streaming</span><span>LightGBM</span><span>PyTorch</span><span>LLM agents</span></p>
           </div></div>
         </details>
 
@@ -514,7 +517,7 @@
           </summary>
           <div class="item-body"><div class="item-inner">
             <ul>
-              <li>2026 — Top 10% — 160 of 1,716 teams — in the <a href="https://www.crunchdao.com/" rel="noopener">ADIA Lab structural-break challenge</a>, CrunchDAO</li>
+              <li>2026 — About rank 160 of 1,716 participants at the close of the <a href="https://hub.crunchdao.com/competitions/structural-break-real-time" rel="noopener">ADIA Lab structural-break challenge</a>, CrunchDAO (final ranking due end of October)</li>
               <li>2026 — Letter of gratitude from MIPT for supervising master's students and reviewing theses at defenses</li>
               <li>2025 — Letter of gratitude from MIPT for supervising master's students and reviewing theses at defenses</li>
               <li>2022 — <a href="https://cs.hse.ru/news/741609195.html" rel="noopener">Interview on the HSE Faculty of Computer Science website</a></li>
