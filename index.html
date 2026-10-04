@@ -419,9 +419,10 @@
               <li>Everything else in the register is negative, established the same way — every candidate, its status, and the condition written down <i>before</i> the test that would refute it.</li>
               <li>The emphasis is on the parts that decide whether a result means anything: validation and cost accounting, not the model. Leakage is a test that fails, not a caveat in a footnote.</li>
               <li>Regime monitoring that tells a model when the market it was fitted to has changed, built on the structural-break detector below and installed from it as a library rather than copied.</li>
+              <li>Market making, tested the same way: an event-time simulator that fills only from trade prints, and two pre-registered rounds of hypotheses read once on held-out data. None survives — the spread captured is smaller than the move after the fills, and the one apparent profit turned out to be inventory carried through a rising market, caught by a check written down before the test.</li>
             </ul>
             <p><a href="https://github.com/bamasa/trading-research-pipeline" rel="noopener">Read on GitHub</a></p>
-            <p class="tags"><span>Market microstructure</span><span>Limit order book</span><span>Walk-forward</span><span>Backtesting</span><span>Python</span></p>
+            <p class="tags"><span>Market microstructure</span><span>Limit order book</span><span>Market making</span><span>Walk-forward</span><span>Backtesting</span><span>Python</span></p>
           </div></div>
         </details>
 
