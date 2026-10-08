@@ -252,14 +252,14 @@
           <summary>
             <span class="item-head">
               <span class="item-title">The Bidding Games: Reinforcement Learning for MEV Extraction on Polygon Blockchain</span>
-              <span class="item-org">arXiv:2510.14642 · main author</span>
+              <span class="item-org">Expert Systems with Applications 333 · main author</span>
             </span>
-            <span class="item-year">2025</span>
+            <span class="item-year">2026</span>
             <span class="chev" aria-hidden="true"></span>
           </summary>
           <div class="item-body"><div class="item-inner">
             <p>On a blockchain the order of transactions inside a block is itself worth money, and searchers compete in an auction for the right to set it. We model that auction — Polygon's Atlas — as a learning problem: a simulation environment for the auction dynamics, and a PPO agent that bids inside real-time latency budgets. Deployed alongside existing searchers the agent reaches 49% Maximum-Profit Capture, and improves substantially on baseline strategies under counterfactual evaluation.</p>
-            <p><a href="https://arxiv.org/abs/2510.14642" rel="noopener">Read on arXiv</a></p>
+            <p><a href="https://doi.org/10.1016/j.eswa.2026.134021" rel="noopener">Read in Expert Systems with Applications</a> · <a href="https://arxiv.org/abs/2510.14642" rel="noopener">arXiv</a></p>
           </div></div>
         </details>
 
@@ -413,16 +413,15 @@
             <span class="chev" aria-hidden="true"></span>
           </summary>
           <div class="item-body"><div class="item-inner">
-            <p>A leakage-aware research pipeline for systematic trading, and what it found when pointed at crypto perpetuals. The whole path from raw events to a trading result: data contracts, feature engineering, forward-looking labels, chronological validation with purging and embargo, model comparison, and a backtest that charges realistic costs.</p>
+            <p>A research pipeline that searches for trading strategies on its own and tests what it finds without fooling itself. One command goes from an empty directory to a measured result: it downloads public exchange data, screens the instruments, measures which families of features carry information, searches signal configurations and models, chooses how to execute &#8212; taking liquidity, resting a passive order, or making a market &#8212; and reads a held-out period once, with every choice fixed beforehand. Underneath: data contracts, chronological validation with purging and embargo, and a backtest that charges realistic fees, slippage and fills.</p>
             <ul>
-              <li>Short-horizon cross-sectional reversion pays — but only under a market state that can be measured and, on this evidence, not forecast. On a held-out fortnight a three-parameter rule earns <b>+6.99&nbsp;bp per trade net of costs on 22 of 26 instruments</b>; a model of how far each trade runs raises it to <b>+18.8&nbsp;bp over 3,297 trades</b>. On the six weeks that followed, with the state absent, the identical frozen configuration loses on all 26.</li>
-              <li>Everything else in the register is negative, established the same way — every candidate, its status, and the condition written down <i>before</i> the test that would refute it.</li>
-              <li>The emphasis is on the parts that decide whether a result means anything: validation and cost accounting, not the model. Leakage is a test that fails, not a caveat in a footnote.</li>
-              <li>Regime monitoring that tells a model when the market it was fitted to has changed, built on the structural-break detector below and installed from it as a library rather than copied.</li>
-              <li>Market making, tested the same way: an event-time simulator that fills only from trade prints, and two pre-registered rounds of hypotheses read once on held-out data. None survives — the spread captured is smaller than the move after the fills, and the one apparent profit turned out to be inventory carried through a rising market, caught by a check written down before the test.</li>
+              <li><b>Regime breaks.</b> The structural-break detector below, installed as a library rather than copied, marks where a market stopped behaving as before; the market maker can stop quoting or widen its spread after a break.</li>
+              <li><b>Market making.</b> An event-time simulator that fills a resting order only from trade prints, after the queue ahead of it is consumed, with latency and cancellations modelled. Two pre-registered rounds of hypotheses, read once on held-out data: none survives &#8212; the spread captured is smaller than the move after the fills, and the one apparent profit turned out to be inventory carried through a rising market, caught by a check written down before the test.</li>
+              <li><b>What it found.</b> Short-horizon cross-sectional reversion pays &#8212; but only under a market state that can be measured and, on this evidence, not forecast. On a held-out fortnight a three-parameter rule earns <b>+6.99&nbsp;bp per trade net of costs on 22 of 26 instruments</b>; a model of how far each trade runs raises it to <b>+18.8&nbsp;bp over 3,297 trades</b>. On the six weeks that followed, with the state absent, the identical frozen configuration loses on all 26.</li>
+              <li>Everything else in the register is negative, established the same way &#8212; every candidate, its status, and the condition that would refute it written down <i>before</i> the test. Leakage is a test that fails, not a caveat in a footnote.</li>
             </ul>
             <p><a href="https://github.com/bamasa/trading-research-pipeline" rel="noopener">Read on GitHub</a></p>
-            <p class="tags"><span>Market microstructure</span><span>Limit order book</span><span>Market making</span><span>Walk-forward</span><span>Backtesting</span><span>Python</span></p>
+            <p class="tags"><span>Strategy search</span><span>Market microstructure</span><span>Limit order book</span><span>Market making</span><span>Change-point detection</span><span>Backtesting</span><span>Python</span></p>
           </div></div>
         </details>
 
@@ -436,7 +435,7 @@
             <span class="chev" aria-hidden="true"></span>
           </summary>
           <div class="item-body"><div class="item-inner">
-            <p>Detecting, in real time, whether a time series has already changed its behaviour: after every new observation a model scores the chance that a permanent break has occurred, and the score is judged across thousands of series step by step. My entry to the ADIA Lab challenge on CrunchDAO, scored out of sample in the organiser&#8217;s cloud: about rank 160 of 1,716 participants at the close of submissions; the final ranking is due at the end of October.</p>
+            <p>Detecting, in real time, whether a time series has already changed its behaviour: after every new observation a model scores the chance that a permanent break has occurred, and the score is judged across thousands of series step by step. My entry to the ADIA Lab challenge on CrunchDAO, scored out of sample in the organiser&#8217;s cloud: rank 149 of 1,730 participants on the public leaderboard (62.99% TS-AUC, top 9%); the final out-of-sample ranking is due at the end of October.</p>
             <ul>
               <li>The decisive idea: whiten each series by its own history &#8212; an autoregressive fit, a conditional scale, the distribution of the innovations &#8212; so that every series looks like the same white noise until it breaks, and read sequential change statistics (CUSUM, likelihood ratios, Shiryaev&#8211;Roberts odds) on the whitened stream.</li>
               <li>Run as a research loop I designed and directed, with an LLM coding assistant as the team: 158 logged experiments, 45 scored submissions, parallel research agents, and shipping rules written down before each test.</li>
@@ -518,7 +517,7 @@
           </summary>
           <div class="item-body"><div class="item-inner">
             <ul>
-              <li>2026 — About rank 160 of 1,716 participants at the close of the <a href="https://hub.crunchdao.com/competitions/structural-break-real-time" rel="noopener">ADIA Lab structural-break challenge</a>, CrunchDAO (final ranking due end of October)</li>
+              <li>2026 — Rank 149 of 1,730 participants on the public leaderboard of the <a href="https://hub.crunchdao.com/competitions/structural-break-real-time/leaderboard" rel="noopener">ADIA Lab structural-break challenge</a>, CrunchDAO (final out-of-sample ranking due end of October)</li>
               <li>2026 — Letter of gratitude from MIPT for supervising master's students and reviewing theses at defenses</li>
               <li>2025 — Letter of gratitude from MIPT for supervising master's students and reviewing theses at defenses</li>
               <li>2022 — <a href="https://cs.hse.ru/news/741609195.html" rel="noopener">Interview on the HSE Faculty of Computer Science website</a></li>
