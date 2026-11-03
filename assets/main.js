@@ -99,57 +99,79 @@
     });
   });
 
-  /* ---------- github activity ----------
-     Data comes from assets/github.json, refreshed by a scheduled workflow.
-     The block stays hidden if the file is missing, so nothing ever renders
-     half-empty. */
+  /* ---------- activity heatmaps ----------
+     Each .gh[data-src] reads a JSON snapshot:
+       { start, counts[], total?, streak?, since? }
+     and stays hidden if the file is missing, so nothing renders half-empty. */
   (function () {
-    var box = document.getElementById('gh');
-    if (!box) return;
+    var MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 
-    fetch('assets/github.json')
-      .then(function (r) { return r.ok ? r.json() : Promise.reject(); })
-      .then(function (d) {
-        var counts = d.counts || [];
-        if (!counts.length) return;
+    document.querySelectorAll('.gh[data-src]').forEach(function (box) {
+      fetch(box.getAttribute('data-src'), { cache: 'no-cache' })
+        .then(function (r) { return r.ok ? r.json() : Promise.reject(); })
+        .then(function (d) { render(box, d); })
+        .catch(function () { /* leave the block hidden */ });
+    });
 
-        var max = Math.max.apply(null, counts);
-        function level(n) {
-          if (!n) return 0;
-          if (!max) return 0;
-          var r = n / max;
-          return r > 0.6 ? 4 : r > 0.3 ? 3 : r > 0.1 ? 2 : 1;
+    function render(box, d) {
+      var counts = d.counts || [];
+      if (!counts.length) return;
+      var unit = box.getAttribute('data-unit') || 'actions';
+
+      // levels by quartiles of active days, like GitHub — one busy day
+      // should not wash every other day out to the palest shade
+      var act = counts.filter(Boolean).sort(function (a, b) { return a - b; });
+      function q(p) { return act.length ? act[Math.min(act.length - 1, Math.floor(p * act.length))] : 0; }
+      var q1 = q(.25), q2 = q(.5), q3 = q(.75);
+      function level(n) { return !n ? 0 : n <= q1 ? 1 : n <= q2 ? 2 : n <= q3 ? 3 : 4; }
+
+      var grid   = box.querySelector('.gh-grid');
+      var months = box.querySelector('.gh-months');   // only the first map carries labels
+      var start  = new Date(d.start + 'T00:00:00Z');
+      var lead   = start.getUTCDay();             // Sunday-first columns
+      var frag   = document.createDocumentFragment();
+
+      for (var p = 0; p < lead; p++) {
+        var pad = document.createElement('i');
+        pad.style.visibility = 'hidden';
+        frag.appendChild(pad);
+      }
+      var lastMonth = -1, labels = [];
+      counts.forEach(function (n, i) {
+        var day = new Date(start.getTime() + i * 86400000);
+        var col = Math.floor((i + lead) / 7);
+        if (day.getUTCDate() <= 7 && day.getUTCDay() === 0 && day.getUTCMonth() !== lastMonth) {
+          lastMonth = day.getUTCMonth();
+          labels.push([col, MONTHS[lastMonth]]);
         }
+        var cell = document.createElement('i');
+        cell.setAttribute('data-l', level(n));
+        cell.title = n + ' ' + (n === 1 ? unit.replace(/s$/, '') : unit) +
+                     ' on ' + day.toISOString().slice(0, 10);
+        frag.appendChild(cell);
+      });
+      grid.appendChild(frag);
 
-        var grid  = box.querySelector('.gh-grid');
-        var start = new Date(d.start + 'T00:00:00Z');
-        var frag  = document.createDocumentFragment();
-
-        // pad so the first column starts on the right weekday
-        for (var p = 0; p < (d.startWeekday || 0); p++) {
-          var pad = document.createElement('i');
-          pad.style.visibility = 'hidden';
-          frag.appendChild(pad);
-        }
-        counts.forEach(function (n, i) {
-          var day = new Date(start.getTime() + i * 86400000);
-          var cell = document.createElement('i');
-          cell.setAttribute('data-l', level(n));
-          cell.title = n + (n === 1 ? ' contribution' : ' contributions') +
-                       ' on ' + day.toISOString().slice(0, 10);
-          frag.appendChild(cell);
+      if (months) {
+        labels.forEach(function (l) {
+          var s = document.createElement('span');
+          s.style.gridColumn = String(l[0] + 1);
+          s.textContent = l[1];
+          months.appendChild(s);
         });
-        grid.appendChild(frag);
+      }
 
-        box.querySelector('.gh-total').innerHTML =
-          '<b>' + d.totalContributions + '</b> contributions in the past three months';
-        box.querySelector('.gh-meta').textContent = 'on GitHub since ' + d.memberSince;
+      var total = d.total != null ? d.total : counts.reduce(function (a, b) { return a + b; }, 0);
+      var bits = ['<b>' + total.toLocaleString('en-US') + '</b> ' + unit,
+                  '<b>' + act.length + '</b> active days'];
+      if (d.streak) bits.push('streak <b>' + d.streak + '</b>');
+      box.querySelector('.gh-total').insertAdjacentHTML('beforeend',
+        bits.map(function (s) { return '<span class="gh-sep">\u00b7</span>' + s; }).join(''));
 
-        box.hidden = false;
-        // the section may already have been revealed before this resolved
-        box.closest('.reveal') && box.closest('.reveal').classList.add('is-in');
-      })
-      .catch(function () { /* leave the block hidden */ });
+      box.hidden = false;
+      var sec = box.closest('.reveal');
+      if (sec) sec.classList.add('is-in');
+    }
   })();
 
   /* ---------- reveal on scroll ---------- */
