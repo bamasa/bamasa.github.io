@@ -1,6 +1,6 @@
-# Refreshes assets/github.json once a day so the activity map on the page
+# Refreshes assets/github.json and assets/quantprofile.json once a day so the activity maps
 # stays current without the page ever calling GitHub at runtime.
-name: Refresh GitHub activity
+name: Refresh activity maps
 
 on:
   schedule:
@@ -55,10 +55,13 @@ jobs:
           json.dump(data, open('assets/github.json', 'w'))
           PY
 
+      - name: Write assets/quantprofile.json
+        run: python3 tools/quantprofile_activity.py
+
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/github.json
-          git diff --staged --quiet || git commit -m "Refresh GitHub activity"
+          git add assets/github.json assets/quantprofile.json
+          git diff --staged --quiet || git commit -m "Refresh activity maps"
           git push

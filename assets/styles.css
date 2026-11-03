@@ -14,7 +14,12 @@
   --line-soft: #EDEBE2;
   --accent:    #6B7700;
   --accent-bg: rgba(107, 119, 0, .09);
-  --mint:      #1E8A62;
+  --mint:      #12936A;
+  --hm-gh:     #86B800;
+  --hm-0:      #E7E4DA;
+  --hm-1:      38%;
+  --hm-2:      62%;
+  --hm-3:      84%;
   --shadow:    0 1px 2px rgba(20, 19, 12, .04), 0 8px 24px -12px rgba(20, 19, 12, .10);
 
   --max:  1080px;
@@ -40,6 +45,11 @@
     --accent:    #C4D129;
     --accent-bg: rgba(196, 209, 41, .11);
     --mint:      #4FD49A;
+    --hm-gh:     var(--accent);
+    --hm-0:      var(--line);
+    --hm-1:      26%;
+    --hm-2:      48%;
+    --hm-3:      72%;
     --shadow:    0 1px 2px rgba(0, 0, 0, .5), 0 8px 24px -12px rgba(0, 0, 0, .8);
     color-scheme: dark;
   }
@@ -56,6 +66,11 @@
   --accent:    #C4D129;
   --accent-bg: rgba(196, 209, 41, .11);
   --mint:      #4FD49A;
+  --hm-gh:     var(--accent);
+  --hm-0:      var(--line);
+  --hm-1:      26%;
+  --hm-2:      48%;
+  --hm-3:      72%;
   --shadow:    0 1px 2px rgba(0, 0, 0, .5), 0 8px 24px -12px rgba(0, 0, 0, .8);
   color-scheme: dark;
 }
@@ -371,7 +386,7 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gut); }
 
 
 /* ---------- activity heatmaps ---------- */
-.gh { --hm: var(--accent); }
+.gh { --hm: var(--hm-gh); }
 .gh--qp { --hm: var(--mint); }
 .gh + .gh { margin-top: 1.1rem; }
 
@@ -406,18 +421,18 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gut); }
 }
 .gh-grid i {
   display: block; width: 10px; height: 10px; border-radius: 2px;
-  background: var(--line);
+  background: var(--hm-0);
 }
-.gh-grid i[data-l="1"] { background: color-mix(in srgb, var(--hm) 26%, var(--bg)); }
-.gh-grid i[data-l="2"] { background: color-mix(in srgb, var(--hm) 48%, var(--bg)); }
-.gh-grid i[data-l="3"] { background: color-mix(in srgb, var(--hm) 72%, var(--bg)); }
+.gh-grid i[data-l="1"] { background: color-mix(in srgb, var(--hm) var(--hm-1), var(--bg)); }
+.gh-grid i[data-l="2"] { background: color-mix(in srgb, var(--hm) var(--hm-2), var(--bg)); }
+.gh-grid i[data-l="3"] { background: color-mix(in srgb, var(--hm) var(--hm-3), var(--bg)); }
 .gh-grid i[data-l="4"] { background: var(--hm); }
 
 .gh-legend { display: inline-flex; gap: 3px; }
-.gh-legend i { width: 8px; height: 8px; border-radius: 2px; background: var(--line); }
-.gh-legend i:nth-child(2) { background: color-mix(in srgb, var(--hm) 26%, var(--bg)); }
-.gh-legend i:nth-child(3) { background: color-mix(in srgb, var(--hm) 48%, var(--bg)); }
-.gh-legend i:nth-child(4) { background: color-mix(in srgb, var(--hm) 72%, var(--bg)); }
+.gh-legend i { width: 8px; height: 8px; border-radius: 2px; background: var(--hm-0); }
+.gh-legend i:nth-child(2) { background: color-mix(in srgb, var(--hm) var(--hm-1), var(--bg)); }
+.gh-legend i:nth-child(3) { background: color-mix(in srgb, var(--hm) var(--hm-2), var(--bg)); }
+.gh-legend i:nth-child(4) { background: color-mix(in srgb, var(--hm) var(--hm-3), var(--bg)); }
 .gh-legend i:nth-child(5) { background: var(--hm); }
 
 @media (max-width: 620px) {

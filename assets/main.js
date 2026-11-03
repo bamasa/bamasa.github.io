@@ -164,7 +164,7 @@
       var total = d.total != null ? d.total : counts.reduce(function (a, b) { return a + b; }, 0);
       var bits = ['<b>' + total.toLocaleString('en-US') + '</b> ' + unit,
                   '<b>' + act.length + '</b> active days'];
-      if (d.streak) bits.push('streak <b>' + d.streak + '</b>');
+      if (d.streak) bits.push('longest streak <b>' + d.streak + '</b>');
       box.querySelector('.gh-total').insertAdjacentHTML('beforeend',
         bits.map(function (s) { return '<span class="gh-sep">\u00b7</span>' + s; }).join(''));
 
