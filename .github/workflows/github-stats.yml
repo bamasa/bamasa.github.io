@@ -1,0 +1,64 @@
+# Refreshes assets/github.json once a day so the activity map on the page
+# stays current without the page ever calling GitHub at runtime.
+name: Refresh GitHub activity
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Collect the contribution calendar for the past year
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api graphql -f login="${GITHUB_REPOSITORY_OWNER}" -f query='
+            query($login:String!){
+              user(login:$login){
+                createdAt
+                contributionsCollection{
+                  contributionCalendar{
+                    totalContributions
+                    weeks{ contributionDays{ date contributionCount } }
+                  }
+                }
+              }
+            }' > /tmp/contrib.json
+
+      - name: Write assets/github.json
+        run: |
+          python3 - <<'PY'
+          import json
+          u = json.load(open('/tmp/contrib.json'))['data']['user']
+          cal = u['contributionsCollection']['contributionCalendar']
+          days = sorted((d for w in cal['weeks'] for d in w['contributionDays']), key=lambda d: d['date'])
+          counts = [d['contributionCount'] for d in days]
+          best = cur = 0
+          for c in counts:
+              cur = cur + 1 if c else 0
+              best = max(best, cur)
+          data = {
+              "start": days[0]["date"],
+              "counts": counts,
+              "total": cal["totalContributions"],
+              "streak": best,
+              "since": u["createdAt"][:4],
+          }
+          json.dump(data, open('assets/github.json', 'w'))
+          PY
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github.json
+          git diff --staged --quiet || git commit -m "Refresh GitHub activity"
+          git push
