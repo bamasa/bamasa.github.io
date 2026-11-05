@@ -411,9 +411,6 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gut); }
 .gh-link:hover { color: var(--hm); border-color: var(--hm); }
 
 .acts { width: max-content; max-width: 100%; }
-@media (max-width: 760px) {
-  .acts { overflow-x: auto; overscroll-behavior-x: contain; padding-bottom: .4rem; }
-}
 .gh-grid {
   display: grid; grid-auto-flow: column;
   grid-template-rows: repeat(7, 10px); grid-auto-columns: 10px;

@@ -106,17 +106,47 @@
   (function () {
     var MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 
+    // on phones a full year does not fit, so show the last 13 weeks instead
+    var narrow = window.matchMedia('(max-width: 760px)');
+    var DAY = 86400000, SHORT = 13 * 7;
+    var boxes = [];
+
     document.querySelectorAll('.gh[data-src]').forEach(function (box) {
       fetch(box.getAttribute('data-src'), { cache: 'no-cache' })
         .then(function (r) { return r.ok ? r.json() : Promise.reject(); })
-        .then(function (d) { render(box, d); })
+        .then(function (d) { boxes.push([box, d]); render(box, d); })
         .catch(function () { /* leave the block hidden */ });
     });
 
+    var label = document.querySelector('#activity .label');
+    function relabel() {
+      if (label) label.textContent = '06 \u2014 Activity \u00b7 ' +
+        (narrow.matches ? 'past 3 months' : 'past year');
+    }
+    relabel();
+    function onChange() {
+      relabel();
+      boxes.forEach(function (b) { render(b[0], b[1]); });
+    }
+    if (narrow.addEventListener) narrow.addEventListener('change', onChange);
+    else if (narrow.addListener) narrow.addListener(onChange);
+
     function render(box, d) {
-      var counts = d.counts || [];
-      if (!counts.length) return;
+      var all = d.counts || [];
+      if (!all.length) return;
       var unit = box.getAttribute('data-unit') || 'actions';
+      var full = !narrow.matches;
+
+      // the short window starts on a Sunday so its first column is whole
+      var start = new Date(d.start + 'T00:00:00Z');
+      var counts = all;
+      if (!full && all.length > SHORT) {
+        var end = new Date(start.getTime() + (all.length - 1) * DAY);
+        var from = all.length - (SHORT - 7 + end.getUTCDay() + 1);
+        if (from < 0) from = 0;
+        counts = all.slice(from);
+        start = new Date(start.getTime() + from * DAY);
+      }
 
       // levels by quartiles of active days, like GitHub — one busy day
       // should not wash every other day out to the palest shade
@@ -127,9 +157,10 @@
 
       var grid   = box.querySelector('.gh-grid');
       var months = box.querySelector('.gh-months');   // only the first map carries labels
-      var start  = new Date(d.start + 'T00:00:00Z');
       var lead   = start.getUTCDay();             // Sunday-first columns
       var frag   = document.createDocumentFragment();
+      grid.textContent = '';
+      if (months) months.textContent = '';
 
       for (var p = 0; p < lead; p++) {
         var pad = document.createElement('i');
@@ -138,7 +169,7 @@
       }
       var lastMonth = -1, labels = [];
       counts.forEach(function (n, i) {
-        var day = new Date(start.getTime() + i * 86400000);
+        var day = new Date(start.getTime() + i * DAY);
         var col = Math.floor((i + lead) / 7);
         if (day.getUTCDate() <= 7 && day.getUTCDay() === 0 && day.getUTCMonth() !== lastMonth) {
           lastMonth = day.getUTCMonth();
@@ -161,12 +192,22 @@
         });
       }
 
-      var total = d.total != null ? d.total : counts.reduce(function (a, b) { return a + b; }, 0);
+      var sum = counts.reduce(function (a, b) { return a + b; }, 0);
+      var total = full && d.total != null ? d.total : sum;
+      var streak = full ? d.streak : 0;
+      if (!full) {
+        for (var k = 0, run = 0; k < counts.length; k++) {
+          run = counts[k] ? run + 1 : 0;
+          if (run > streak) streak = run;
+        }
+      }
       var bits = ['<b>' + total.toLocaleString('en-US') + '</b> ' + unit,
                   '<b>' + act.length + '</b> active days'];
-      if (d.streak) bits.push('longest streak <b>' + d.streak + '</b>');
-      box.querySelector('.gh-total').insertAdjacentHTML('beforeend',
-        bits.map(function (s) { return '<span class="gh-sep">\u00b7</span>' + s; }).join(''));
+      if (streak) bits.push('longest streak <b>' + streak + '</b>');
+      var head = box.querySelector('.gh-total');
+      var stats = head.querySelector('.gh-stats');
+      if (!stats) { stats = document.createElement('span'); stats.className = 'gh-stats'; head.appendChild(stats); }
+      stats.innerHTML = bits.map(function (s) { return '<span class="gh-sep">\u00b7</span>' + s; }).join('');
 
       box.hidden = false;
       var sec = box.closest('.reveal');
